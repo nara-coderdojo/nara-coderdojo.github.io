@@ -1,3 +1,3 @@
-# CoderDojoNara.github.io
+# coderdojo-nara-ikoma.github.io
 
-このリポジトリは、CoderDojo奈良に関連する情報や素材を公開するためのリポジトリです。
+このリポジトリは、CoderDojo奈良・生駒のサイトを構築するためのリポジトリです。
