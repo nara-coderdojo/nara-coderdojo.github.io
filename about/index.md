@@ -1,6 +1,5 @@
 ---
 title: CoderDojoとは
-date: 2016-12-31T22:42:00+00:00
 layout: post
 permalink: /about/
 ---
