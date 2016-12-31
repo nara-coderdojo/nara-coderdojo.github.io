@@ -1,78 +1,106 @@
-<!DOCTYPE html>
-<html>
+---
+layout: landing-page
+---
 
-<head>
-	<meta charset='utf-8'>
-	<meta http-equiv="X-UA-Compatible" content="chrome=1">
-	<meta name="description" content="CoderDojo（コーダー道場）奈良・生駒:奈良で開催する子どもたちのためのコーディング道場です">
+<!-- Main -->
+<script>
+$(function() {
+        var map = $('iframe');
+        map.css('pointer-events', 'none');
+        $('#access').click(function() {
+            map.css('pointer-events', 'auto');
+        });
+        map.mouseout(function() {
+            map.css('pointer-events', 'none');
+        })
+    })
+</script>
+<article id="main">
+  <!-- One -->
+  <section class="wrapper style1 container special">
+    <div class="row">
+      <div class="12u">
+          <header>
+            <h3>Welcome to CoderDojo.</h3>
+            <p>CoderDojoとは、プログラミングやWeb製作などの創作活動に関心のある子どもたちと<br>サポートする大人や学生さんが一緒に活動するコミュニティです。</p>
+          </header>
+      </div>
+    </div>
+  </section>
+  <section class="wrapper style1 container special">
+    <div class="row">
+      <div class="6u">
+            <h3>CoderDojo奈良</h3>
+          <img src="https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/NARA_black.png" alt="CoderDojo奈良" width="210">
+          <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.037053207434!2d135.81749651486845!3d34.679014291887775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60013a2f92d3d219%3A0xc452f78b8287e5c!2sWomen&#39;s+Future+Center!5e0!3m2!1sja!2sjp!4v1460431512489" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+      </div>
+      <div class="6u">
+            <h3>CoderDojo生駒</h3>
+          <img src="https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/IKOMA_green.png" alt="CoderDojo生駒" width="210">
+          <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.525501527698!2d135.6960562148688!3d34.69192329119674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600123b9089edb75%3A0x72f3641027e35691!2z55Sf6aeS5biC5b255omAIOW4guawkea0u-WLleaOqOmAsuOCu-ODs-OCv-ODvOOCieOCieODneODvOODiA!5e0!3m2!1sja!2sjp!4v1460431723394" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+        <p></p>
+      </div>
+    </div>
+  </section>
 
-	<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <section class="wrapper style1 container special">
+    <div class="row">
+      <div class="4u">
+        <section>
+          <span class="icon featured fa-check"></span>
+          <header>
+            <h3>より良いものを与える</h3>
+          </header>
+          <p>子ども達にとって、パソコンやタブレットなどのIT機器は動画を観たりゲームをする「悪いもの」として扱われ制限したり取り上げたりされがちですが、プログラミングやWeb製作などの活動を通して、創造的な使い方をすることの楽しさに気づくきっかけを作ります。</p>
+        </section>
+      </div>
+      <div class="4u">
+        <section>
+          <span class="icon featured fa-check"></span>
+          <header>
+            <h3>大人も子どもも一緒に考える</h3>
+          </header>
+          <p>CoderDojoには授業も教科書も宿題もありません。子どもたちは自分が作りたいものを作る、大人は子ども達のつくりたいものを実現する方法を一緒に考える、ただそれだけです。私たちは、何も強制しません、何も保障しません。Dojoの子ども達は、伸び伸びと活動しています。</p>
+        </section>
 
-	<title>CoderDojo（コーダー道場）奈良・生駒</title>
-	<script>
-		(function (i, s, o, g, r, a, m) {
-			i['GoogleAnalyticsObject'] = r;
-			i[r] = i[r] || function () {
-				(i[r].q = i[r].q || []).push(arguments)
-			}, i[r].l = 1 * new Date();
-			a = s.createElement(o),
-				m = s.getElementsByTagName(o)[0];
-			a.async = 1;
-			a.src = g;
-			m.parentNode.insertBefore(a, m)
-		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+      </div>
+      <div class="4u">
 
-		ga('create', 'UA-72905904-1', 'auto');
-		ga('send', 'pageview');
-	</script>
-</head>
+        <section>
+          <span class="icon featured fa-check"></span>
+          <header>
+            <h3>教えることで学ぶ</h3>
+          </header>
+          <p>子ども達にとっての良い相談相手は、年の離れた大人よりも少し年上のお兄ちゃんやお姉ちゃん。小学校低学年の子には高学年の子が、高学年の子には中学生がサポートする、というように成長に応じて教わる側から教える側になる。そんな成長のサイクルを作りたいのです。</p>
+        </section>
 
-<body>
+      </div>
+    </div>
+  </section>
 
-	<!-- HEADER -->
-	<div id="header_wrap" class="outer">
-		<header class="inner">
-			<a id="forkme_banner" href="https://github.com/coderdojo-nara-ikoma">View on GitHub</a>
+  <section class="wrapper special style1 container">
+    <div class="row">
+      <div class="6u">
+        <h2>開催予定</h2> {% include schedule.html %}
+      </div>
+      <div class="6u">
+        <h2>Facebook</h2>
+        <p>
+          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoderdojo.nara%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=429417660456663" width="100%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+        </p>
+      </div>
+    </div>
+</section>
+  <section id="cta">
+    <header>
+      <h2>Dojoに参加しませんか？</h2>
+      <p>CoderDojo奈良・生駒では、活動に参加したい子ども達やサポートしてくださるメンターさんを募集しています。<br>参加してみたいという方は、「Dojoに参加する」を押して詳細をご覧ください。みなさまのご参加をお待ちしています。</p>
+      <p>それ以外のお問い合わせについては、<a href="mailto:coderdojo.nara@gmail.com">"coderdojo.nara@gmail.com"</a>へメールでお願いします。迷惑メールブロックを利用されている方は"coderdojo.nara@gmail.com"からのメールを受信可能なように設定をお願いします。</p>
+    </header>
+    <footer>
+      <ul class="buttons">
+        <li><a href="/join/" class="button special">Dojoに参加する</a></li>
+      </ul>
+    </footer>
 
-			<h1 id="project_title">コーダー道場 奈良・生駒</h1>
-			<h2 id="project_tagline">奈良で開催する、子供たちのためのコーディング道場です</h2>
-
-		</header>
-	</div>
-
-	<!-- MAIN CONTENT -->
-	<div id="main_content_wrap" class="outer">
-		<section id="main_content" class="inner">
-			<h3>Welcome to CoderDojo.</h3>
-			<p>CoderDojoとは、プログラミングやWeb製作などの創作活動に関心のある子どもたちと、サポートする大人や学生さんが一緒に活動するコミュニティです。</p>
-			<hr>
-			<h3>私たちの想い</h3>
-			<h4>悪いものを奪うのではなく良いものを与える</h4>
-			<p>子ども達にとって、パソコンやタブレットなどのIT機器は動画を観たりゲームをする「悪いもの」として扱われ制限したり取り上げたりされがちですが、プログラミングやWeb製作などの活動を通して、創造的な使い方をすることの楽しさに気づくきっかけになればと考えています。</p>
-			<h4>大人も子どもも一緒に考える</h4>
-			<p>CoderDojoには授業も教科書も宿題もありません。子どもたちは自分が作りたいものを作る、大人は子ども達のつくりたいものを実現する方法を一緒に考える、ただそれだけです。私たちは、何も強制しません、何も保障しません。それでも、毎回の発表では子ども達の想像力に驚かされるのです。</p>
-			<h4>教えることで学ぶ</h4>
-			<p>子ども達にとっての良い相談相手は、年の離れた大人よりも少し年上のお兄ちゃんやお姉ちゃんだと考えています。小学校低学年の子には高学年の子が、高学年の子には中学生がサポートする、というように成長に応じて教わる側から教える側になる。それもまたひとつの学びであると考えています。これは大人にとっても同じ、教えているつもりがいつの間にか気づきを貰っている、そんなこともあるのです。</p>
-			<hr>
-			<h3>参加申し込みについて</h3>
-			<p>忍者（子供たち）については、<a href="http://coderdojo-nara-ikoma.connpass.com/">こちらのサイト</a>に登録していただければ、参加者の募集開始をメールにてお知らせします。</p>
-			<p>メンターとして参加希望の方は、<a href="https://www.facebook.com/CoderDojoNara/">Facebookページ</a>よりお問い合わせください。</p>
-			<hr>
-			<h3>今後の開催予定について</h3>
-			<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=coderdojo.nara%40gmail.com&amp;color=%23711616&amp;ctz=Asia%2FTokyo" style="border-width:0" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
-			<h3>収支記録</h3>
-			<iframe width="500" height="500" src="https://docs.google.com/spreadsheets/d/1akqWYz0gI2YZ5GcdtIvPGqC4K2HEhiZdbzSkPQleCLA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-		</section>
-	</div>
-
-	<!-- FOOTER  -->
-	<div id="footer_wrap" class="outer">
-		<footer class="inner">
-			<p><a href="http://zen.coderdojo.com/dojo/jp/nara-ken/nara-nara-prefecture/nara-womens-future-center">CoderDojo奈良</a>と<a href="https://zen.coderdojo.com/dojo/jp/ikoma-nara-prefecture/ikoma-nara">CoderDojo生駒</a>は、CoderDojo Foundationに公式のDojoとして登録されています。
-			</p>
-			<p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-		</footer>
-	</div>
-</body>
-
-</html>
+  </section>
