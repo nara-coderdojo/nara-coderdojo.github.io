@@ -1,8 +1,8 @@
 # Site settings
-title: CoderDojo（コーダー道場）奈良・生駒
+title: 奈良で開催している子ども達のためのプログラミング道場 - CoderDojo奈良・CoderDojo生駒 -
 email: coderdojo.nara@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  CoderDojo（コーダー道場）奈良・生駒:奈良で開催する子どもたちのためのコーディング道場です。
+  CoderDojo奈良・CoderDojo生駒:奈良で開催する子どもたちのためのコーディング道場です。
   CoderDojoとは、プログラミングやWeb製作などの創作活動に関心のある子どもたちと、
   サポートする大人や学生さんが一緒に活動するコミュニティです。
 baseurl: "" # the subpath of your site, e.g. /blog/
