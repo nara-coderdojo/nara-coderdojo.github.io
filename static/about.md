@@ -3,12 +3,10 @@ title: CoderDojoとは
 layout: post
 permalink: /about/index.html
 ---
-CoderDojoとは、「ボランティアによる若い人たちのための無料のプログラミングクラブ」です。2011年にアイルランドで始まった世界的な活動です。
+CoderDojoとは「ボランティアによる若い人たちのための無料のプログラミングクラブ」で、2011年にアイルランドで始まった世界的な活動です。
 CoderDojoとは何かを知っていただくために、アイルランドのCoderDojo Foundationが掲げる考え方を紹介します。
 
 ## What Is CoderDojo?
-***from coderdojo.com***
-
 CoderDojo is a worldwide movement of free, volunteer-led, community-based programming clubs for young people. Anyone aged seven to seventeen can visit a Dojo where they can learn to code, build a website, create an app or a game, and explore technology in an informal, creative, and social environment.
 
 The CoderDojo movement believes that an understanding of programming languages is increasingly important in the modern world, that it’s both better and easier to learn these skills early, and that nobody should be denied the opportunity to do so.
