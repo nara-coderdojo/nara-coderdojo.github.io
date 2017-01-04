@@ -1,6 +1,6 @@
 ---
 title: 第9回を開催しました。
-date: 2015-09-13T01:51:12+00:00
+date: 2015-09-13T01:51:12+09:00
 author: kwaka1208
 layout: post
 permalink: /blog/coderdojonara9th/
