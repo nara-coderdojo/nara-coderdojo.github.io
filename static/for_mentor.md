@@ -8,8 +8,9 @@ permalink: /for_mentor/
 - 2月は、生駒がららポートのイベント「らら祭り」があります（10:30〜14:00）。
 
 ## 次回開催予定
+
 ### CoderDojo奈良
-![CoderDojo奈良](icon_coderdojo_nara.png)
+![CoderDojo奈良](https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/NARA_black.png)
 
 - 2月19日（日）
 - はぐくみセンター[地図](https://goo.gl/maps/dcM4dTtFw7q)
@@ -24,7 +25,7 @@ permalink: /for_mentor/
 |16:00〜16:30|撤収・メンターミーティング|
 
 ### CoderDojo生駒
-![CoderDojo生駒](icon_coderdojo_ikoma.png)
+![CoderDojo生駒](https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/IKOMA_green.png)
 
 - 2月4日（土）
 - 生駒市市民活動推進センター「ららポート」[地図](https://goo.gl/maps/XzJa49bSmAw)
