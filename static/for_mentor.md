@@ -13,7 +13,6 @@ permalink: /for_mentor/
 
 - 2月19日（日）
 - はぐくみセンター[地図](https://goo.gl/maps/dcM4dTtFw7q)
-- Women's Future Center[地図](https://goo.gl/maps/aaGef3yemVw)
 
 タイムテーブル
 
