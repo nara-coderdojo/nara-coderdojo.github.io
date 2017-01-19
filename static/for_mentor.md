@@ -10,7 +10,7 @@ permalink: /for_mentor/
 ## 次回開催予定
 
 ### CoderDojo奈良
-![CoderDojo奈良](https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/NARA_black.png)
+<img src="https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/NARA_black.png" width="20%" height="auto" alt="CoderDojo奈良">
 
 - 2月19日（日）
 - はぐくみセンター[地図](https://goo.gl/maps/dcM4dTtFw7q)
@@ -25,7 +25,7 @@ permalink: /for_mentor/
 |16:00〜16:30|撤収・メンターミーティング|
 
 ### CoderDojo生駒
-![CoderDojo生駒](https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/IKOMA_green.png)
+<img src="https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/IKOMA_green.png" width="20%" height="auto" alt="CoderDojo生駒">
 
 - 2月4日（土）
 - 生駒市市民活動推進センター「ららポート」[地図](https://goo.gl/maps/XzJa49bSmAw)
