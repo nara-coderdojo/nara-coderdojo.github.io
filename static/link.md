@@ -22,13 +22,13 @@ permalink: /link/index.html
 - [プログラミン](http://www.mext.go.jp/programin/)
 
 ### 中級者用
-- [enchant.js(javascript ゲーム用フレームワーク) 　</br>　](http://9leap.net/)
-- [code combat(javascript 主人公を動かすプログラムを書いてミッションをクリアする）　</br>　](http://codecombat.com</a>/</li>
+- [enchant.js(JavaScriptのゲーム用フレームワーク)](http://9leap.net/)
+- [code combat(JavaScriptで主人公を動かすプログラムを書いてミッションをクリアする)](http://codecombat.com)
 
 ### 上級者用
 - [codecacademy　　](http://www.codecademy.com/ja/learn)
 - [codeprep　　](http://codeprep.jp/ja)
-- [ドットインストール（動画）　　 ](http://dotinstall.com/)
+- [ドットインストール（動画）](http://dotinstall.com/)
 
 ## Arduino関連
 - [IchigoJam](http://ichigojam.net/)
