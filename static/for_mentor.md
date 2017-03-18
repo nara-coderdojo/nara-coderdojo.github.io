@@ -3,8 +3,7 @@ title: メンターさん用連絡ページ
 layout: post
 permalink: /for_mentor/
 ---
-## 連絡事項
-
+## 連絡事項（3/18更新）
 ### 活動時間について
 奈良の活動場所としてはぐくみセンターを使い始めましたが、奈良と生駒のタイムテーブルを合わせます。13:00開始の16:00撤収です。
 
@@ -15,12 +14,10 @@ permalink: /for_mentor/
 - 活動時間が同じ方がわかりやすい。
 
 ## 今後の開催予定
-
-
 ### CoderDojo奈良
 <img src="https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/NARA_black.png" width="20%" height="auto" alt="CoderDojo奈良">
 
-- 2月19日（日）
+- 調整中（決まり次第お知らせします。）
 - はぐくみセンター[地図](https://goo.gl/maps/dcM4dTtFw7q)
 
 
@@ -36,7 +33,7 @@ permalink: /for_mentor/
 ### CoderDojo生駒
 <img src="https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/IKOMA_green.png" width="20%" height="auto" alt="CoderDojo生駒">
 
-- 3月4日（土）
+- 4月1日（土）
 - 生駒市市民活動推進センター「ららポート」[地図](https://goo.gl/maps/XzJa49bSmAw)
 
 タイムテーブル
