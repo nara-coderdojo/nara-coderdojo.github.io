@@ -3,11 +3,10 @@ title: メンターさん用連絡ページ
 layout: post
 permalink: /for_mentor/
 ---
-## 連絡事項（3/18更新）
+## 連絡事項（4/9更新）
 
 ### 次回について
-3月20日の奈良は、私の都合と参加可能なメンターさんが少なかったので中止とさせていただきました。
-4月1日の生駒では、「8x9Craft」でマインクラフトを使ったプログラミングを希望者でやってみたいと思います。
+4月の奈良は、会場確保の都合により開催されません。
 
 ### 活動時間について
 奈良の活動場所としてはぐくみセンターを使い始めましたが、奈良と生駒のタイムテーブルを合わせます。13:00開始の16:00撤収です。
@@ -22,9 +21,8 @@ permalink: /for_mentor/
 ### CoderDojo奈良
 <img src="https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/NARA_black.png" width="20%" height="auto" alt="CoderDojo奈良">
 
-- 調整中（決まり次第お知らせします。）
+- 5月13日（土）
 - はぐくみセンター[地図](https://goo.gl/maps/dcM4dTtFw7q)
-
 
 タイムテーブル
 
@@ -38,7 +36,7 @@ permalink: /for_mentor/
 ### CoderDojo生駒
 <img src="https://raw.githubusercontent.com/coderdojo-nara-ikoma/document/master/icon/IKOMA_green.png" width="20%" height="auto" alt="CoderDojo生駒">
 
-- 4月1日（土）
+- 5月27日（土）
 - 生駒市市民活動推進センター「ららポート」[地図](https://goo.gl/maps/XzJa49bSmAw)
 
 タイムテーブル
