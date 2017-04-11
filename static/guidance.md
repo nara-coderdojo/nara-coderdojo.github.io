@@ -29,6 +29,8 @@ CoderDojo全体のルールで、メンターとして参加していただく�
 1. CoderDojoを知ったきっかけを教えてください。
 1. CoderDojoに参加しようと思った動機を簡単で結構ですので教えてください。
 
+以上の内容をご確認の上、参加を希望していただける方は[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe-jYF2vMdsfK-8EU_VHB3WiHUjU5Edytf90g8h8avQFuuTsg/viewform)からご連絡ください。よろしくお願いいたします。
+
 ## CoderDojo関連サイト
 
 - [CoderDojo奈良/生駒](https://coderdojo-nara-ikoma.connpass.com/)
