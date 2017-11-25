@@ -1,5 +1,5 @@
 ---
-title: ニンジャと保護者の方へ
+title: ニンジャと保護者のみなさんへ
 layout: post
 permalink: /for_ninja/
 ---
