@@ -52,5 +52,12 @@ CoderDojo奈良・CoderDojo生駒では、所蔵している書籍の貸し出�
 
 こちらのサービスを利用して、webについて学習したい方は、[coderdojo.nara@gmail.com](mailto:coderdojo.nara@gmail.com)までご連絡ください。折り返し登録用のURLをお送りします。
 
+## Twitter, Facebook, Instagramのフォローをお願いします
+CoderDojo奈良・CoderDojo生駒の公式SNSアカウントがあります。よかったらフォローしてやってください。
+
+- [Twitter](https://twitter.com/CoderDojoNara)
+- [Facebook](https://www.facebook.com/CoderDojoNara/)
+- [Instagram](https://www.instagram.com/coderdojo.nara.ikoma/)
+
 ## 問い合わせ先
 不明な点があれば、いつでもなんでも[coderdojo.nara@gmail.com](mailto:coderdojo.nara@gmail.com)までお問い合わせください。
