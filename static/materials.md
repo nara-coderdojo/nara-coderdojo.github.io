@@ -1,5 +1,5 @@
 ---
-title: 作品で使える素材集
+title: 道具と素材
 layout: post
 permalink: /materials/index.html
 ---
