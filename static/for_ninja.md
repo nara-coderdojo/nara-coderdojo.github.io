@@ -3,9 +3,17 @@ title: ニンジャと保護者の方へ
 layout: post
 permalink: /for_ninja/
 ---
-CoderDojo奈良・CoderDojo生駒への参加ありがとうございます。
+いつも、CoderDojo奈良・CoderDojo生駒への参加ありがとうございます。  ニンジャと保護者のみなさんにお伝えすることをこのページにまとめています。以前から参加されている方も、最近初めて参加された方もご一読ください。
 
 ## 参加募集案内と参加申し込みについて
+2018年のDojoより、以下の通り参加申し込みの方法を変更いたします。
+
+1. CoderDojo Community Platform "zen"に登録する（最初の一回だけです、既に登録されている方は必要ありません）
+1. connpassの"CoderDojo奈良・CoderDojo生駒"のページに登録する（最初の一回だけです、既に登録されている方は必要ありません）
+1. Dojonの開催が決まると、connpassからみなさんにメールで案内が贈られます。
+1. 送られた案内に、zenの参加申し込みページのアドレスが書かれていますのでそちらをクリックして参加申し込みをしてください。
+
+詳しくは以下をお読みください。
 
 ### zenへの登録
 "zen"とは、世界中のCoderDojoで利用可能な、"CoderDojo Community Platform"です。
@@ -18,6 +26,8 @@ zenにはイベント管理機能があり、各回のDojoへの参加募集と�
 
 - [CoderDojo奈良への登録はこちら](https://zen.coderdojo.com/dojos/jp/nara-nara-prefecture/nara-nara)
 - [CoderDojo生駒への登録はこちら](https://zen.coderdojo.com/dojos/jp/ikoma-nara-prefecture/ikoma-nara)
+
+上記のページにアクセスすると、"Join Dojo"というボタンが表示されますので、ボタンを押して登録画面に進んでください。まだ日本語翻訳が不十分なところがあり、英語混じりな日本語になっていますが、特に難しいところはないと思います。
 
 登録時に英語のメールが届きますが、難しいものではありませんので[Google翻訳](https://translate.google.com/?hl=ja)などを使って、挑戦してみてください。
 英語のメールについては、現在翻訳を進めていますので、近いうちにすべて日本語に置き換わる予定です。
