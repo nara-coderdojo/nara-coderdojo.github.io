@@ -8,10 +8,10 @@ permalink: /for_ninja/
 ## 参加募集案内と参加申し込みについて
 2018年のDojoより、以下の通り参加申し込みの方法を変更いたします。
 
-1. CoderDojo Community Platform "zen"に登録する（最初の一回だけです、既に登録されている方は必要ありません）
-1. connpassの"CoderDojo奈良・CoderDojo生駒"のページに登録する（最初の一回だけです、既に登録されている方は必要ありません）
-1. Dojonの開催が決まると、connpassからみなさんにメールで案内が贈られます。
-1. 送られた案内に、zenの参加申し込みページのアドレスが書かれていますのでそちらをクリックして参加申し込みをしてください。
+- CoderDojo Community Platform "zen"に登録する（最初の一回だけです、既に登録されている方は必要ありません）
+- connpassの"CoderDojo奈良・CoderDojo生駒"のページに登録する（最初の一回だけです、既に登録されている方は必要ありません）
+- Dojonの開催が決まると、connpassからみなさんにメールで案内が贈られます。
+- 送られた案内に、zenの参加申し込みページのアドレスが書かれていますのでそちらをクリックして参加申し込みをしてください。
 
 詳しくは以下をお読みください。
 
@@ -51,3 +51,6 @@ CoderDojo奈良・CoderDojo生駒では、所蔵している書籍の貸し出�
 自宅では"Progate"で知識を身につけて、わからないところはDojoでメンターさんに質問する、というやり方も可能です。
 
 こちらのサービスを利用して、webについて学習したい方は、[coderdojo.nara@gmail.com](mailto:coderdojo.nara@gmail.com)までご連絡ください。折り返し登録用のURLをお送りします。
+
+## 問い合わせ先
+不明な点があれば、いつでもなんでも[coderdojo.nara@gmail.com](mailto:coderdojo.nara@gmail.com)までお問い合わせください。
