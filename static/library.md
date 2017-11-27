@@ -14,7 +14,7 @@ CoderDojo奈良・生駒では、Dojoに参加する子どもたちで共有す�
 
 [CoderDojo奈良・生駒ライブラリ](https://librize.com/places/1563)
 
-すべての本を各Dojoに持って行くのは無理ですので、読みたいなと思う本があれば[coderdojo.nara@gmail.com](mailto:coderdojo.nara@gmail.com)までメールでご連絡ください。借りるほどでもないけどちょっと読んでみたいでもOKです。
+すべての本を各Dojoに持って行くのは無理ですので、読みたいなと思う本があれば[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までメールでご連絡ください。借りるほどでもないけどちょっと読んでみたいでもOKです。
 せっかくの本です置いとくのはもったいないので、気軽にご連絡ください。
 
 ## 忍者は名札が利用者カードになります
