@@ -3,15 +3,19 @@ title: CoderDojo Community Platform Zenへの登録方法
 layout: post
 permalink: /zen/index.html
 ---
-こちらのページでは、プログラミングやweb制作で使えるツールや素材のサイトを紹介しています。
+## zenへの登録について
+「CoderDojo Community Platform Zen」とは、アイルランドのCoderDojo Foundationが開発・提供しているサービスで、Dojoのイベント管理機能やフォーラム（掲示板）などの機能があります。
 
-## 保護者のアカウント登録
+奈良と生駒では、2018年よりこのサービスを使って参加申し込みの受付を行いますので、保護者のみなさん、13以上のニンジャ、メンターさんも以下の手順に沿って登録をお願いいたします。
+
+13未満のニンジャについては、自分のアカウントを持つことができませんので、保護者の方が登録していただいて保護者のアカウントにニンジャを追加する形になります。
+
+## 13以上の方のアカウント登録
 
 まず最初に保護者の方の登録をお願いします。
 
 [登録画面](https://zen.coderdojo.com/register/user)にアクセスすると以下の画面が表示されます。
-
-<img src="/images/zen/01.png" style="border: #222; max-width: 500px; width: 100%; height: auto;">
+<img src="/images/zen/01.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
 一部英語のままのところがありますが、上から順に必要な項目を入力してください。「メーリングリストに参加」のチェックは入れてもいれなくても構いません。チェックすると、アイルランドのCoderDojo Foundationからニュースレター（英語）が届きます。
 
@@ -19,8 +23,7 @@ permalink: /zen/index.html
 必要な項目を入力したら「次へ」を押してください。
 
 次に、以下の画面で生年月日とお住まいの地域を入力します。
-
-<img src="/images/zen/02.png" style="border: #222; max-width: 500px; width: 100%; height: auto;">
+<img src="/images/zen/02.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
 「Enter your date of birth here...」の欄の右側にあるカレンダーのアイコンをクリックして、年、月、日の順で生年月日を入力してください。<br>
 次の「国を選択」の欄ですが、たくさんの候補が表示され探すのが大変なので、「japan」とキーボードで入力すると候補がでてきますので、候補から「Japan」を選択してください。
@@ -29,14 +32,12 @@ permalink: /zen/index.html
 
 必要な項目を入力したら「私はロボットではありません」をチェックして「登録」を押してください。次に表示される画面でニンジャ（参加する子供）の登録を行います。
 
-## ニンジャの登録
-登録で進んだ後の画面の一番下に「Add Child」というボタンがありますので、これをクリックします。
-
-<img src="/images/zen/03.png" style="border: #222; max-width: 500px; width: 100%; height: auto;">
+## ニンジャの追加
+13歳未満のニンジャを登録する場合は、登録で進んだ後の画面の一番下に「Add Child」というボタンがありますので、これをクリックします。
+<img src="/images/zen/03.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
 以下の画面で、 
-
-<img src="/images/zen/04.png" style="border: #222; max-width: 500px; width: 100%; height: auto;">
+<img src="/images/zen/04.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
 ここでは、お子さんの名前、生年月日、性別を入力してください。「偽名」という欄がありますが、これはフォーラムというCoderDojoの掲示板で表示される名前のことです（翻訳がよくないですね修正します...）。ここには本名以外のニックネームを入力しておいてください。
 すべての項目を入力したら「保存」ボタンをクリックしてください。
