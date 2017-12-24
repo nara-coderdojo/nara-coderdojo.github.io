@@ -22,10 +22,9 @@ permalink: /zen/index.html
 「I have read and accept the Terms and Conditions here」は、「利用規約を読み同意しました」という意味のチェックでこのチェックは必須です。
 必要な項目を入力したら「次へ」を押してください。
 
-次に、以下の画面で生年月日とお住まいの地域を入力します。
 <img src="/images/zen/02.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
-「Enter your date of birth here...」の欄の右側にあるカレンダーのアイコンをクリックして、年、月、日の順で生年月日を入力してください。<br>
+こちらの画面で生年月日とお住まいの地域を入力します。「Enter your date of birth here...」の欄の右側にあるカレンダーのアイコンをクリックして、年、月、日の順で生年月日を入力してください。<br>
 次の「国を選択」の欄ですが、たくさんの候補が表示され探すのが大変なので、「japan」とキーボードで入力すると候補がでてきますので、候補から「Japan」を選択してください。
 
 「所在地を検索または入力」の欄では、お住まいの町や市の名前をアルファベットで入力すると候補が出てきますので、候補からお選びください。番地やマンション名など詳細の入力は不要です。
@@ -33,6 +32,7 @@ permalink: /zen/index.html
 必要な項目を入力したら「私はロボットではありません」をチェックして「登録」を押してください。次に表示される画面でニンジャ（参加する子供）の登録を行います。
 
 ## ニンジャの追加
+
 13歳未満のニンジャを登録する場合は、登録で進んだ後の画面の一番下に「Add Child」というボタンがありますので、これをクリックします。
 <img src="/images/zen/03.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
@@ -45,3 +45,11 @@ permalink: /zen/index.html
 入力されたニックネームがすでに使われている場合は、「nick-exists」というメッセージが表示されますので、ニックネームを変更してください。
 
 二人以上の子供を登録する場合は、画面左に表示されている「Add Chile」をクリックして登録してください。ここまででアカウント登録は完了です。
+
+## Dojoへの登録
+アカウントができたら、参加したいDojoへの登録を行います。
+
+- [CoderDojo奈良](https://zen.coderdojo.com/dojos/jp/nara-nara-prefecture/nara-nara)
+- [CoderDojo生駒](https://zen.coderdojo.com/dojos/jp/ikoma-nara-prefecture/ikoma-nara)
+
+
