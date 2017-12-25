@@ -38,11 +38,11 @@ permalink: /zen/index.html
 
 <img src="/images/zen/03.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
-以下の画面で、 
+すると次の画面が表示されます。
 
 <img src="/images/zen/04.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
-ここでは、お子さんの名前、生年月日、性別を入力してください。「偽名」という欄がありますが、これはフォーラムというCoderDojoの掲示板で表示される名前のことです（翻訳がよくないですね修正します...）。ここには本名以外のニックネームを入力しておいてください。
+ここでは、お子さんの名前、生年月日、性別を入力してください。「偽名」という欄がありますが、これはフォーラムというCoderDojoの掲示板で表示される名前のことです（翻訳がよくないですね、近いうちに修正します...）。ここには本名以外のニックネームを入力しておいてください。
 すべての項目を入力したら「保存」ボタンをクリックしてください。
 
 入力されたニックネームがすでに使われている場合は、「nick-exists」というメッセージが表示されますので、ニックネームを変更してください。
@@ -52,11 +52,10 @@ permalink: /zen/index.html
 ## Dojoへの登録
 アカウントができたら、参加したいDojoへの登録を行います。奈良と生駒、それぞれのページにアクセスして表示される「Join the Dojo」をクリックするとDojoへの参加完了です。
 
-<img src="/images/zen/05.png" style="border: solid 1px #222; max-width: 488px; width: 100%; height: auto;">
-
 - [CoderDojo奈良のページ](https://zen.coderdojo.com/dojos/jp/nara-nara-prefecture/nara-nara)
 - [CoderDojo生駒のページ](https://zen.coderdojo.com/dojos/jp/ikoma-nara-prefecture/ikoma-nara)
 
+<img src="/images/zen/05.png" style="border: solid 1px #222; max-width: 488px; width: 100%; height: auto;">
 
 ## メンターさんへ
 メンターとして参加してくださっている方は、さらに「Voluteer as Mentor」のボタンを押してください。
