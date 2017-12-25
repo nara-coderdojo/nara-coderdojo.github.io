@@ -47,9 +47,18 @@ permalink: /zen/index.html
 二人以上の子供を登録する場合は、画面左に表示されている「Add Chile」をクリックして登録してください。ここまででアカウント登録は完了です。
 
 ## Dojoへの登録
-アカウントができたら、参加したいDojoへの登録を行います。
+アカウントができたら、参加したいDojoへの登録を行います。奈良と生駒、それぞれのページにアクセスして表示される「Join the Dojo」をクリックするとDojoへの参加完了です。
 
-- [CoderDojo奈良](https://zen.coderdojo.com/dojos/jp/nara-nara-prefecture/nara-nara)
-- [CoderDojo生駒](https://zen.coderdojo.com/dojos/jp/ikoma-nara-prefecture/ikoma-nara)
+<img src="/images/zen/05.png" style="border: solid 1px #222; max-width: 488px; width: 100%; height: auto;">
+
+- [CoderDojo奈良のページ](https://zen.coderdojo.com/dojos/jp/nara-nara-prefecture/nara-nara)
+- [CoderDojo生駒のページ](https://zen.coderdojo.com/dojos/jp/ikoma-nara-prefecture/ikoma-nara)
 
 
+## メンターさんへ
+メンターとして参加してくださっている方は、さらに「Voluteer as Mentor」のボタンを押してください。
+
+<img src="/images/zen/06.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
+
+## 登録できない方、登録できたかどうかわからない方
+ここまでの手順をやってみたけどわからなかった、登録できたかどうか不安な方は、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)まで、登録時のメールアドレスと合わせてお知らせください。
