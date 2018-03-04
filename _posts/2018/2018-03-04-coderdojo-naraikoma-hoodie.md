@@ -37,7 +37,7 @@ categories:
 春になり、チャンピオンの若林さんと私は、2017年秋に開催されたイベント、DojoCon Japan 2017の実行委員として2017年5月から活動を開始しました。
 
 まずは、DojoCon Japan 2017の公式サイトをご覧ください。   
-[DojoCon Japan 2018公式サイト](https://dojocon2017.coderdojo.jp/)
+[DojoCon Japan 2017公式サイト](https://dojocon2017.coderdojo.jp/)
 
 この素敵なデザインのアクセントになっている、ドット絵の魅力。  
 そして、実行委員として活動する中でチャンピオンが感じたこと。
