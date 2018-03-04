@@ -616,6 +616,9 @@
 			color: inherit;
 			padding: 4em;
 		}
+		.wrapper.style4 img {
+			width: 100%;
+		}
 
 /* Header */
 	@-moz-keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
