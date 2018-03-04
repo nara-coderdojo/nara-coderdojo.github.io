@@ -616,7 +616,7 @@
 			color: inherit;
 			padding: 4em;
 		}
-		.wrapper.style4 img {
+		.wrapper.style4 img:not(.emoji) {
 			width: 100%;
 		}
 
