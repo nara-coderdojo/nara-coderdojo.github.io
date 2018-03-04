@@ -173,7 +173,7 @@ CoderDojoの活動は誰もその継続性を保証できないけれど、そ�
 ## パーカーのデータを共有します
 以下のリンクよりイラストレーターのデータがダウンロードできます。
 
-[パーカーのaiデータ](http://coderdojo-nara-ikoma.github.io/sharedate/coderdojo-naraikoma-hoodie.ai)
+[パーカーのaiデータ](http://coderdojo-nara-ikoma.github.io/sharedate/CoderDojo-naraikoma-hoodie.ai)
 
 aiデータの一番上のレイヤーは、デザインデータ配置用の指示書になっています。
 参考のために残していますが、入稿時には削除してください。
