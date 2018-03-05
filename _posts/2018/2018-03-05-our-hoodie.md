@@ -16,13 +16,13 @@ We made front design to share with another Dojo.  And you can design by yourself
 
 We will share this design data as below, if you like this front design and will adopt it, we are very happy.
 
-[パーカーのaiデータ](http://coderdojo-nara-ikoma.github.io/sharedate/CoderDojo-naraikoma-hoodie.ai)
+[Adobe Illustrator file](http://coderdojo-nara-ikoma.github.io/sharedate/CoderDojo-naraikoma-hoodie.ai)
 
-![layout](/images/2018/hoodie06.png)
+![layout](/images/2018/hoodie05.png)
 
-Sorry, layout description is Japanese.
+Layout description is only Japanese.
 
-And there is a hidden message "**be a dot\.**" under the hood. 
+And there is a hidden message "**be a dot**" under the hood. 
 
 This means, no one can guarantee the continuity of volunteer activities, but if it continues to exist as a dot, it will lead to the future. So, we mean that we are conscious of each and every one being a dot.
 
