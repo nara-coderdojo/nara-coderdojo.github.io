@@ -24,7 +24,9 @@ Layout description is only Japanese.
 
 And there is a hidden message "**be a dot**" under the hood. 
 
-This means, no one can guarantee the continuity of volunteer activities, but if it continues to exist as a dot, it will lead to the future. So, we mean that we are conscious of each and every one being a dot.
+This means, no one can guarantee the continuity of volunteer activities, but if it continues to exist as a dot, it will lead to the future. So, we mean that we are conscious of each and every one being a dot.This word was influenced by the following words of Steve Jobs.
+
+> You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.
 
 Please put your message here instead.
 
