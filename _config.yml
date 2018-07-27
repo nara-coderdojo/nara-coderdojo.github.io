@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   CoderDojoとは、プログラミングやWeb製作などの創作活動に関心のある子どもたちと、
   サポートする大人や学生さんが一緒に活動するコミュニティです。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://coderdojo-nara-ikoma.github.io/" # the base hostname & protocol for your site
+url: "https://coderdojo-nara-ikoma.github.io/" # the base hostname & protocol for your site
 twitter_username: coderdojo.nara
 github_username:  coderdojo-nara-ikoma
 
