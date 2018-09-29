@@ -12,6 +12,6 @@ github_username:  coderdojo-nara-ikoma
 
 # Build settings
 markdown: kramdown
-gems:
+Plugin:
   - jemoji
  
