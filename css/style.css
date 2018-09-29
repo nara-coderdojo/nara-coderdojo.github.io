@@ -618,6 +618,7 @@
 			padding: 4em;
 		}
 		.wrapper.style4 img:not(.emoji) {
+			max-width: 400px;
 			width: 100%;
 		}
 
