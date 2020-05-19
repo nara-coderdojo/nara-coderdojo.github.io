@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coolest Projects online showcase"
+title:  "Coolest Projects online showcaseへの参加方法"
 permalink: /cpi2020/
 ---
 今年のCoolest Projects Internationalは、[Coolest Projects online showcase](https://coolestprojects.org/)としてオンラインでの開催となり、全世界からエントリーできます。ぜひ日本からもエントリーしましょう！
