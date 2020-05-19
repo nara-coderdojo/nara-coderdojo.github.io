@@ -4,13 +4,12 @@ title:  "Coolest Projects online showcase"
 permalink: /cpi2020/
 ---
 今年のCoolest Projects Internationalは、[Coolest Projects online showcase](https://coolestprojects.org/)としてオンラインでの開催となり、全世界からエントリーできます。ぜひ日本からもエントリーしましょう！
+[How to enter the Coolest Projects online showcase](https://coolestprojects.org/how-to-enter-coolest-projects-online/)
 
-以下にエントリー方法を日本語で説明します。
-
-[原文はこちら](https://coolestprojects.org/how-to-enter-coolest-projects-online/)
+エントリー方法の説明ページの日本語訳を用意しましたので参考にしてください（元ページの単純な翻訳ではありません、適宜情報を編集しています）。
 
 ## 最初にお読みください
-通常のCPと同じで、以下のいずれかのカテゴリーでエントリーできます。エントリーできるのは、18歳までのニンジャのみです。16歳未満の場合はエントリーフォームを大人の方に入力してもらう必要があるのでその点について注意してください。
+以下のいずれかのカテゴリーでエントリーできます。エントリーできるのは、18歳までのニンジャのみです。16歳未満の場合はエントリーフォームを大人の方に入力してもらう必要があるのでその点について注意してください。
 
 ### カテゴリー
 エントリーは以下のいずれかのカテゴリーで行います。
@@ -22,15 +21,18 @@ permalink: /cpi2020/
 1. Games（Scratch以外で作ったゲーム）
 1. Advanced Programming（これがどういうものを指しているのかは、現在確認中です）
 
+###　注意事項
 - エントリーするニンジャが16歳未満の場合は、大人の方が代わりにアカウントを作成してエントリーしなければなりません。
-- プロジェクトの登録期限は2020年6月28日です。
+- プロジェクトの登録期限は___2020年6月28日___です。
 - エントリー方法でも説明しますが、Scratch以外のカテゴリーでエントリーする場合は、2分以内の動画を作成してYouTubeにアップロードしなければなりません。YouTubeにアップロードするには、13歳以上で、保護者の許可が必要です（もちろん大人の方代わりにアカウントを作ってアップロードしても構いません）。
 - すべての提出物（Scratchの作品の説明、動画など）は英語で作成する必要があります。もちろん、誰かに翻訳を手伝ってもらっても構いません。英語が母国語ではなく、翻訳をサポートしてくれる人がいない場合は、[hello@coolestprojects.org](mailto:hello@coolestprojects.org)までご連絡ください（ここ、なんとかしたいです：若林コメント）。
 - 作品は完成していなくても結構です。バグがある、思った通りに動かない、まだ作ってる途中でもエントリーできます。
 - 提出する作品は、誰でも見られる状態になりますので、個人情報や機密情報など他の人に知られてはいけない情報は含めないでください。
 - すべてのカテゴリーで、プロジェクトに関する3つの質問に答える必要があります。詳しくはエントリー方法の説明をご覧ください。
 
-## プロジェクトの登録方法
+## エントリー方法
+エントリー方法は、ScratchとScratch以外のカテゴリーで異なります。
+
 ### Scratchの場合
 - プロジェクトが完了したら、次の3つの質問に対する回答を「メモとクレジット」のところに以下の内容を英語で書いてください。
 	- あなたのプロジェクトについて教えてください。なぜこれを作ろうと思ったのですか？  
@@ -40,11 +42,10 @@ permalink: /cpi2020/
 	- もっと時間があれば、違うことをしたり追加したいものはありますか？  
 	Is there anything you would do differently or you would add if you had more time?
 
-- スクラッチエディタの[共有]ボタンをクリックして作品を共有します。
-- 次に作品を[Coolest Projects Online Showcase Scratchスタジオ](https://scratch.mit.edu/studios/26214489/)に登録します。[Coolest Projects Online Showcase Scratchスタジオ](https://scratch.mit.edu/studios/26214489/)にアクセスして以下のいずれかの方法で作品をスタジオに登録してください。
-	- [プロジェクトの追加]ボタンをクリックする。
-	- プロジェクトのURLをコピーして、[URLで追加]バーに貼り付ける。
-	- 画面下にある[プロジェクトの追加]バーから追加するプロジェクトを選択する。
+- Scratchエディタの[共有]ボタンをクリックして作品を共有します。
+- 次にプロジェクトを[Coolest Projects Online Showcase Scratchスタジオ](https://scratch.mit.edu/studios/26214489/)に登録します。[Coolest Projects Online Showcase Scratchスタジオ](https://scratch.mit.edu/studios/26214489/)にアクセスして以下のいずれかの方法で作品をスタジオに登録してください。
+	- [プロジェクトを追加]ボタンをクリックし、プロジェクトのURLをコピー＆ペーストして[URLによる追加]ボタンを押す。
+	- あるいは、画面下にある[プロジェクトを追加]バーから追加するプロジェクトを選択する。
 - プロジェクトがScratchスタジオに登録されたら[Coolest Projects online showcase](http://rpf.io/cp-register)登録ページにアクセスして、フォームに必要事項を入力してエントリーします。
 - スタジオに登録したScratchプロジェクトへのURLを忘れずに含めてください（例：[https://scratch.mit.edu/projects/392953406/](https://scratch.mit.edu/projects/392953406/)）。
 - ___ニンジャが16歳未満の場合は、大人の方がこのフォームの入力を行なってください。___
