@@ -15,7 +15,7 @@ permalink: /cpi2020/
 エントリーは以下のいずれかのカテゴリーで行います。
 
 1. Scratch
-1. Hardware（電子工作）
+1. Hardware（電子工作、Scratchとmicro:bitを使った作品はこっちになるかも）
 1. Moblie Apps（スマートフォンアプリ）
 1. Web（webサイト）
 1. Games（Scratch以外で作ったゲーム）
