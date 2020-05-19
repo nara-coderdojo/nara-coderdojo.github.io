@@ -20,7 +20,7 @@ permalink: /cpi2020/
 1. Moblie Apps（スマートフォンアプリ）
 1. Web（webサイト）
 1. Games（Scratch以外で作ったゲーム）
-1. Advanced Programming
+1. Advanced Programming（これがどういうものを指しているのかは、現在確認中です）
 
 - エントリーするニンジャが16歳未満の場合は、大人の方が代わりにアカウントを作成してエントリーしなければなりません。
 - プロジェクトの登録期限は2020年6月28日です。
