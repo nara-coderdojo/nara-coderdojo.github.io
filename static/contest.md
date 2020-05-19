@@ -6,10 +6,8 @@ permalink: /contest/
 
 こちらのページでは、プログラミングコンテストの関連情報をまとめています。他にもこんなコンテストがあるよという情報があれば、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までお知らせいただけると助かります。
 
-## Why!大喜利
-いわゆるプログラミングコンテストではありませんが、NHK Eテレの「Why!大喜利」では毎月応募作品を募集しています。
-
-[Why!大喜利](https://www.nhk.or.jp/school/programming/oogiri/index.html)
+## 随時受付中
+いわゆるプログラミングコンテストではありませんが、NHK Eテレの「[Why!大喜利](https://www.nhk.or.jp/school/programming/oogiri/index.html)」では毎月応募作品を募集しています。
 
 ## 受付中
 
@@ -21,7 +19,6 @@ permalink: /contest/
 
 - [第5回 全国小中学生プログラミング大会](http://jjpc.jp/)：7月1日〜11月3日
 - [みんなのラズパイコンテスト](https://project.nikkeibp.co.jp/pc/rpic/abstract.html)：5月〜10月8日
-
 
 ## これまでに開催されたプログラミングコンテストなど
 こちらは過去に開催されたプログラミングコンテストなどのリンクです。今年も開催されるかどうかは現時点ではわかりませんが、チェックしておくとよいでしょう。
