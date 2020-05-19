@@ -1,29 +1,27 @@
 ---
 layout: post
-title:  "Coolest Projects International 2020"
+title:  "Coolest Projects online showcase"
 permalink: /cpi2020/
 ---
-今年の[Coolest Projects International](https://coolestprojects.org/)はオンラインでの開催となりました。もちろん、全世界からエントリーできますので、ぜひ日本からもエントリーしましょう！
+今年のCoolest Projects Internationalは、[Coolest Projects online showcase](https://coolestprojects.org/)としてオンラインでの開催となり、全世界からエントリーできます。ぜひ日本からもエントリーしましょう！
 
 以下にエントリー方法を日本語で説明します。
 
 [原文はこちら](https://coolestprojects.org/how-to-enter-coolest-projects-online/)
 
-## カテゴリー
-通常のCPと同じで、以下のいずれかのカテゴリーでエントリーできます。
-
-- Scratch
-- Hardware（電子工作）
-- Moblie Apps（スマートフォンアプリ）
-- Web（webサイト）
-- Games（Scratch以外で作ったゲーム）
-- Ad
-
-
-のカテゴリーでエントリー。Scratchは指定のStudioに登録、Scratch以外は2分以内のショートムービーを作ってYouTubeかVimeoにアップロードしてエントリー。参加方法とムービーの作り方についてあらためて案内があるとのことです。 #coderdojo
-
-
 ## 最初にお読みください
+通常のCPと同じで、以下のいずれかのカテゴリーでエントリーできます。エントリーできるのは、18歳までのニンジャのみです。16歳未満の場合はエントリーフォームを大人の方に入力してもらう必要があるのでその点について注意してください。
+
+### カテゴリー
+エントリーは以下のいずれかのカテゴリーで行います。
+
+1. Scratch
+1. Hardware（電子工作）
+1. Moblie Apps（スマートフォンアプリ）
+1. Web（webサイト）
+1. Games（Scratch以外で作ったゲーム）
+1. Advanced Programming
+
 - エントリーするニンジャが16歳未満の場合は、大人の方が代わりにアカウントを作成してエントリーしなければなりません。
 - プロジェクトの登録期限は2020年6月28日です。
 - エントリー方法でも説明しますが、Scratch以外のカテゴリーでエントリーする場合は、2分以内の動画を作成してYouTubeにアップロードしなければなりません。YouTubeにアップロードするには、13歳以上で、保護者の許可が必要です（もちろん大人の方代わりにアカウントを作ってアップロードしても構いません）。
@@ -39,7 +37,7 @@ permalink: /cpi2020/
 	Tell us about your project. Why did you choose to make it?
 	- この作品を作る上で難しかったことは何ですか？また、それをどうやってやり遂げましたか？  
 	What did you find difficult while making your project and how did you work it out?
-	- もし、もっと時間があればもっと違うことをしたり、もっと追加したいものはありますか？  
+	- もっと時間があれば、違うことをしたり追加したいものはありますか？  
 	Is there anything you would do differently or you would add if you had more time?
 
 - スクラッチエディタの[共有]ボタンをクリックして作品を共有します。
@@ -47,7 +45,7 @@ permalink: /cpi2020/
 	- [プロジェクトの追加]ボタンをクリックする。
 	- プロジェクトのURLをコピーして、[URLで追加]バーに貼り付ける。
 	- 画面下にある[プロジェクトの追加]バーから追加するプロジェクトを選択する。
-- プロジェクトがScratchスタジオに登録されたら[Coolest Projects online showcase](http://rpf.io/cp-register)登録ページに移動し、フォームに必要事項を入力してエントリーします。
+- プロジェクトがScratchスタジオに登録されたら[Coolest Projects online showcase](http://rpf.io/cp-register)登録ページにアクセスして、フォームに必要事項を入力してエントリーします。
 - スタジオに登録したScratchプロジェクトへのURLを忘れずに含めてください（例：[https://scratch.mit.edu/projects/392953406/](https://scratch.mit.edu/projects/392953406/)）。
 - ___ニンジャが16歳未満の場合は、大人の方がこのフォームの入力を行なってください。___
 - ___作品には、個人情報や機密情報を含めないでください。___
@@ -58,28 +56,26 @@ permalink: /cpi2020/
 	Tell us about your project. Why did you choose to make it?
 	- この作品を作る上で難しかったことは何ですか？また、それをどうやってやり遂げましたか？  
 	What did you find difficult while making your project and how did you work it out?
-	- もし、もっと時間があればもっと違うことをしたり、もっと追加したいものはありますか？  
+	- もっと時間があれば、違うことをしたり追加したいものはありますか？  
 	Is there anything you would do differently or you would add if you had more time?
 
-審査員が作業中のコードを確認できるようにするには、画面を記録してビデオに記録する必要があります。
+審査員が作ったプログラムを確認するために、コードのスクリーンショットなどを提出するビデオに含めなければなりません。これには[OBS](https://obsproject.com/)がおすすめです。OBSで画面を共有する方法の詳細については、MacとPCの両方のユーザー向けの[ステップバイステップガイド（英語）](https://www.wikihow.com/Use-OBS-to-Record-on-PC-or-Mac)をご覧ください。
 
-これにはOBSを使用することをお勧めします。
+- 動画は一般公開されることを忘れないでください。機密情報や個人情報は含めないでください。
+- 動画が完成したら、[YouTube](https://www.youtube.com/)または[Vimeo](https://vimeo.com/)にアップロードします。  
+アップロードした時___動画のコメントを無効にしてコメントをつけられないようにしておいてください___。アップロードした動画は「公開」もしくは「限定公開」にしてください。「非公開」にすると審査員がビデオを観ることができません。アップロードした動画を検索可能にしたくない場合は「限定公開」にしてください。すべてのエントリーはCoolest ProjectsのWebサイトで公開されます。
+- 動画がYouTubeまたはVimeoに正常にアップロードされたら、[Coolest Projects online showcase](http://rpf.io/cp-register)登録ページにアクセスして、フォームに必要事項を入力してエントリーします。
+- アップロードした動画のURLを忘れずに含めてください。
+- ___ニンジャが16歳未満の場合は、大人の方がこのフォームの入力を行なってください。___
+- ___作品には、個人情報や機密情報を含めないでください。___
 
-OBSを使用して画面を共有する方法の詳細については、MacとPCの両方のユーザー向けのこのステップバイステップガイドを参照してください。
-
-動画は一般公開されることを忘れないでください。機密情報や個人情報は含めないでください。
-
-    動画が完成したら、YouTubeまたはVimeoにアップロードします。
-
-アップロードした動画のコメントを無効にして、確実に表示できるようにしてください。検索可能にしたくない場合は、非公開にすることができますが、非公開にすることはできません。すべてのエントリーはCoolest ProjectsのWebサイトで公開されます。
-
-動画がYouTubeまたはVimeoに正常にアップロードされたら、Coolest Projectsのオンラインショーケース登録ページに移動し、フォームに入力します。
-
-プロジェクトを送信するためにさらにヘルプが必要な場合は、hello @ coolestprojects.orgまでご連絡ください。
-
-
+プロジェクトを送信する上でわからないことがあれば[hello@coolestprojects.org](mailto:hello@coolestprojects.org)まで、ご連絡ください（英語）。
 
 ## 説明動画
 こちらにエントリー方法の説明動画（英語）がありますので、合わせてご覧ください。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rdwKB2jQE80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## このページの編集
+
+このページのソースは[こちら](https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io/blob/master/static/coolest_projects_international_online_2020.md)で公開しています。内容に不備や誤りがあったり、
