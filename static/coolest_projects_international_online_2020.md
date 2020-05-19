@@ -76,6 +76,5 @@ permalink: /cpi2020/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rdwKB2jQE80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## このページの編集
-
-このページのソースは[こちら](https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io/blob/master/static/coolest_projects_international_online_2020.md)で公開しています。内容に不備や誤りがあったり、
+## このページについて
+このページのソースは[こちら](https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io/blob/master/static/coolest_projects_international_online_2020.md)で公開しています。内容に不備や誤りがあったり、追加すべき情報があれば是非PR(Pull Request)を送ってください。
