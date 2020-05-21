@@ -21,16 +21,25 @@ permalink: /cpi2020/
 1. Games（Scratch以外で作ったゲーム）
 1. Advanced Programming
 
-> 2020.05.21追記  
-> "Advanced Programming"について確認しました。
-> 
+2020.05.21追記  
+"Advanced Programming"について確認しました。
 > 回答内容原文  
 > "This category is for projects that have been taken to the next level technically. It includes projects written in advanced languages such as C++, advanced python or which combine multiple technologies, APIs or multiple types of hardware."
 > 
 > 日本語訳  
 > このカテゴリは、技術的に次のレベルに進んだプロジェクト用です。 これには、C++、Pythonなどの高度な言語で書かれたプロジェクト、または複数のテクノロジーやAPI、または複数のハードウェアを組み合わせたプロジェクトが含まれます。
+
+とのことです。定義が曖昧な部分がありますが、例えばHTMLとCSSだけで作ったwebサイトは"Web"カテゴリーになり、PHPやPython、Rubyなどで作った動的サイトは"Advanced Programming"に含まれるのではないかと。それがゲームだった場合"Games"と"Advanced Programming"のどちらにでも出せることになりますが、本人の出したい方に出せばいいのではないでしょうか。
+
+また、Scratchとマイコンデバイス（micro:bit）との組み合わせのプロジェクトについては、以下の通りとのことです。
+
+>　回答内容原文
+>　Yes to hardware, if the hardware element is important to present by video to show how the project works.
+>　If it was a project in Scratch where the hardware element was optional, and the Scratch code was more important to showcase, then they might decide to put it in the Scratch category to showcase instead. In which case they could mention in the description what element/code can work with hardware.
 > 
-> とのことです。定義が曖昧な部分がありますが、例えばHTMLとCSSだけで作ったwebサイトは"Web"カテゴリーになり、PHPやPython、Rubyなどで作った動的サイトは"Advanced Programming"に含まれるのではないかと。それがゲームだった場合"Games"と"Advanced Programming"のどちらにでも出せることになりますが、本人の出したい方に出せばいいのではないでしょうか。
+> 日本語訳  
+> プロジェクトの中において、ハードウェアの要素を動画で示すことが重要な場合は、"Hardware"カテゴリーです。
+> もし、ハードウェア要素がオプションでScratchのコードが重要なのであれば"Scratch"カテゴリーでエントリーすることもできます。その場合は、どの部分でハードウェアと連携しているのかを説明してください。
 
 ### 注意事項
 - エントリーするニンジャが16歳未満の場合は、大人の方が代わりにアカウントを作成してエントリーしなければなりません。
