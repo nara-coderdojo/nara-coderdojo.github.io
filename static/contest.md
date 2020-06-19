@@ -12,6 +12,7 @@ permalink: /contest/
 ## 受付中
 
 - [Coolest Projects online showcase](/cpi2020/)：6月28日
+- [たのしいmicro:bitコンテスト2020](https://makezine.jp/blog/2020/06/microbitcontest2020.html)：8月10日
 - [U-22 プログラミング・コンテスト2020](https://u22procon.com/)：8月31日
 - [ユニバーサルロボティクスチャレンジ](http://urc21.org/)：8月31日
 
