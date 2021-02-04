@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coolest Projects Onlineへの参加方法"
-permalink: /cpi2021/
+permalink: /cpi/
 ---
 今年もCoolest Projects Internationalは、[Coolest Projects Online](https://coolestprojects.org/)としてオンラインでの開催となり、全世界からエントリーできます。ぜひ日本からもエントリーしましょう！
 [How to enter the Coolest Projects Online](https://coolestprojects.org/how-to-enter-coolest-projects-online/)
