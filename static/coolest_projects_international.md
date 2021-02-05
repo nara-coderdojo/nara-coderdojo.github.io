@@ -69,7 +69,7 @@ permalink: /coolest_projects_international/
 	- あるいは、画面下にある[プロジェクトを追加]バーから追加するプロジェクトを選択する。
 - プロジェクトがScratchスタジオに登録されたら[Coolest Projects Online](http://rpf.io/cp-register)登録ページにアクセスして、フォームに必要事項を入力してエントリーします。
 - スタジオに登録したScratchプロジェクトへのURLを忘れずに含めてください（例：[https://scratch.mit.edu/projects/392953406/](https://scratch.mit.edu/projects/392953406/)）。
-- ___ニンジャが16歳未満の場合は、大人の方がこのフォームの入力を行なってください。___
+- ___ニンジャが13歳未満の場合は、大人の方がこのフォームの入力を行なってください。___
 - ___作品には、個人情報や機密情報を含めないでください。___
 
 ### Scratch以外のすべてのカテゴリー
@@ -99,4 +99,4 @@ permalink: /coolest_projects_international/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rdwKB2jQE80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## このページについて
-このページのソースは[こちら](https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io/blob/master/static/coolest_projects_international_online.md)で公開しています。内容に不備や誤りがあったり、追加すべき情報があれば是非PR(Pull Request)を送ってください。
+このページのソースは[こちら](https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io/blob/master/static/coolest_projects_international.md)で公開しています。内容に不備や誤りがあったり、追加すべき情報があれば是非PR(Pull Request)を送ってください。
