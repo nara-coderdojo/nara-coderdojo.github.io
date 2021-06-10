@@ -1,6 +1,6 @@
 ---
 title: CoderDojo Community Platform Zenへの登録方法
-layout: post
+layout: posts
 permalink: /zen/index.html
 ---
 ## zenへの登録について

@@ -1,6 +1,6 @@
 ---
 title: ニンジャと保護者のみなさんへ
-layout: post
+layout: posts
 permalink: /for_ninja/
 ---
 CoderDojo奈良・CoderDojo生駒への参加ありがとうございます。  ニンジャと保護者のみなさんにお伝えすることをこのページにまとめていますので、ご一読をお願いします。

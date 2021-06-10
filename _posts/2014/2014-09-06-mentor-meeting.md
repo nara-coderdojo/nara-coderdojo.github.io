@@ -2,7 +2,7 @@
 title: CoderDojo奈良メンターミーティング開催！
 date: 2014-09-06T18:10:56+09:00
 author: kwaka1208
-layout: post
+layout: posts
 permalink: /blog/mentor-meeting/
 geo_public:
   - "0"

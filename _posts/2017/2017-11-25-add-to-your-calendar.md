@@ -2,7 +2,7 @@
 title: CoderDojoの予定を自分のカレンダーにいれよう
 date: 2017-11-25T00:00:00+09:00
 author: kwaka1208
-layout: post
+layout: posts
 permalink: /blog/calendar/
 categories:
   - blog

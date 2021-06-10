@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "プログラミングコンテストリンク集"
 permalink: /contest/
 ---
