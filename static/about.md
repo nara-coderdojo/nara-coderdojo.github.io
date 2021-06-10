@@ -21,7 +21,9 @@ CoderDojoの活動の中では、プログラミング言語の理解が現代�
 ## CoderDojoガイダンス
 ここまでの内容は、CoderDojoとしての最も基本的な考え方の部分です。実際のDojoの様子や考え方を知っていただくには、こちらのスライドをみていただくのがいいと思います。
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/FAXoW4pBq172mQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/togazo/coderdojo-introduction-jp" title="CoderDojoガイダンス（最新版）" target="_blank">CoderDojoガイダンス（最新版）</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/togazo">K. Toga.</a></strong> </div>
+<iframe  width="595" height="350" allowfullscreen="true" marginheight="0" marginwidth="0" mozallowfullscreen="true" scrolling="no" src="https://docs.google.com/presentation/d/e/2PACX-1vTukDtBzvD62d9rNLBY1kXp8arXJBnB-Lq6YWSW5oZXoeokGLscob1HNYzmD7mIIxhkoQyCJVoFAFvh/embed?start=false&amp;loop=false" webkitallowfullscreen="true" frameborder="0"></iframe>
+
+[CoderDojoガイダンス（最新版）](https://docs.google.com/presentation/d/13t5P1gojsde_gvcvDnPsfHYIqsS-knqWGDxyh3eG8SU/edit#slide=id.p){:target="_blank"}
 
 私たちは、活動の場をDojoと呼んでいます。これは空手や柔道などで使う「道場」と同じで、CoderDojoの創始者が合気道をやっていたこともあって、自分たちの活動の場を「道場(Dojo)」と呼ぶようになったようです。
 
