@@ -1,5 +1,5 @@
 ---
-title: "layout: posts with Table of Contents"
+title: "layout: single with Table of Contents"
 header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

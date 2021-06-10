@@ -1,5 +1,5 @@
 ---
-title: "layout: posts Date Disabled"
+title: "layout: single Date Disabled"
 show_date: false
 tags:
   - post date

@@ -2,7 +2,7 @@
 title: CoderDojo奈良・生駒オンライン発表@zoom Vol.6を開催しました
 date: 2021-03-27T13:00:00+09:00
 author: kwaka1208
-layout: posts
+layout: single
 permalink: /blog/2021-03-27-online-presentation/
 categories:
   - blog

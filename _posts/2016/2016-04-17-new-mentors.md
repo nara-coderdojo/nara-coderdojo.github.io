@@ -2,7 +2,7 @@
 title: 新しい仲間
 date: 2016-04-17T15:21:45+09:00
 author: kwaka1208
-layout: posts
+layout: single
 permalink: /blog/new-mentors/
 image: /images/2016/04/IMG_8415.jpg
 categories:

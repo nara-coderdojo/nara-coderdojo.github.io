@@ -1,6 +1,6 @@
 ---
 title: CoderDojoとは
-layout: posts
+layout: single
 permalink: /about/index.html
 ---
 CoderDojoとは「ボランティアによる若い人たちのための無料のプログラミングクラブ」で、2011年にアイルランドで始まった世界的な活動です。

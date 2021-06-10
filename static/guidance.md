@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "メンター参加希望・見学希望者向けガイダンス"
 permalink: /guidance/
 ---

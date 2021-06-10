@@ -1,6 +1,6 @@
 ---
 title: 道具と素材
-layout: posts
+layout: single
 permalink: /materials/index.html
 ---
 こちらのページでは、プログラミングやweb制作で使えるツールや素材のサイトを紹介しています。

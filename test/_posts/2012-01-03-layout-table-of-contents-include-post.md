@@ -1,5 +1,5 @@
 ---
-title: "layout: posts with Nested Table of Contents via Helper"
+title: "layout: single with Nested Table of Contents via Helper"
 tags:
   - table of contents
 ---

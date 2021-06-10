@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "リンク集"
 permalink: /link/index.html
 ---

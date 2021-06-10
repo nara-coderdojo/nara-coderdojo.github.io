@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Coolest Projects Onlineへの参加方法"
 permalink: /coolest_projects_international/
 ---

@@ -2,7 +2,7 @@
 title: ScrapDojoで、機械の分解やりました
 date: 2018-09-29T12:00:00+09:00
 author: kwaka1208
-layout: posts
+layout: single
 permalink: /blog/scrapdojo-vol1/
 categories:
   - blog
