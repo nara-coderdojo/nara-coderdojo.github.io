@@ -14,16 +14,13 @@ CoderDojoに参加する人は子どもも大人もひとりとして「お客�
 ## Be Cool!
 CoderDojoにおける唯一のルールは"Be Cool!（カッコよくあれ！）"です。CoderDojoでは"Cool"であることだけが唯一のルールです。ひとりひとりがどうしたら"Cool"になれるかを考えて一緒に活動しましょう。
 
-### What is CoderDojo?
+### What is CoderDojo ?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c7ROVdcyk7s?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                
 
-<iframe width="560" height=315" src="https://www.youtube.com/embed/c7ROVdcyk7s?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-###  あなたがDojoに来る理由は何ですか？
-
+### あなたがDojoに来る理由は何ですか？
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gLDue2xb1j8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                
 
 ### 保護者・ボランティア向け資料
-
 <iframe  width="595" height="350" allowfullscreen="true" marginheight="0" marginwidth="0" mozallowfullscreen="true" scrolling="no" src="https://docs.google.com/presentation/d/e/2PACX-1vTukDtBzvD62d9rNLBY1kXp8arXJBnB-Lq6YWSW5oZXoeokGLscob1HNYzmD7mIIxhkoQyCJVoFAFvh/embed?start=false&amp;loop=false" webkitallowfullscreen="true" frameborder="0"></iframe>
 
 ## ニンジャとして参加したい
