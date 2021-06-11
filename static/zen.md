@@ -1,7 +1,7 @@
 ---
 title: CoderDojo Community Platform Zenへの登録方法
 layout: single
-permalink: /zen/index.html
+permalink: /zen/
 ---
 ## zenへの登録について
 「CoderDojo Community Platform Zen」とは、アイルランドのCoderDojo Foundationが開発・提供しているサービスで、Dojoのイベント管理機能やフォーラム（掲示板）などの機能があります。
@@ -14,7 +14,7 @@ permalink: /zen/index.html
 
 まず最初に保護者の方の登録をお願いします。
 
-[登録画面](https://zen.coderdojo.com/register/user)にアクセスすると以下の画面が表示されます。
+[登録画面](https://zen.coderdojo.com/register/user){:target="_blank"}にアクセスすると以下の画面が表示されます。
 
 <img src="/images/zen/01.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
@@ -52,8 +52,8 @@ permalink: /zen/index.html
 ## Dojoへの登録
 アカウントができたら、参加したいDojoへの登録を行います。奈良と生駒、それぞれのページにアクセスして表示される「Join the Dojo」をクリックするとDojoへの参加完了です。
 
-- [CoderDojo奈良のページ](https://zen.coderdojo.com/dojos/jp/nara-nara-prefecture/nara-nara)
-- [CoderDojo生駒のページ](https://zen.coderdojo.com/dojos/jp/ikoma-nara-prefecture/ikoma-nara)
+- [CoderDojo奈良のページ](https://zen.coderdojo.com/dojos/jp/nara-nara-prefecture/nara-nara){:target="_blank"}
+- [CoderDojo生駒のページ](https://zen.coderdojo.com/dojos/jp/ikoma-nara-prefecture/ikoma-nara){:target="_blank"}
 
 <img src="/images/zen/05.png" style="border: solid 1px #222; max-width: 488px; width: 100%; height: auto;">
 
@@ -63,4 +63,4 @@ permalink: /zen/index.html
 <img src="/images/zen/06.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
 ## 登録できない方、登録できたかどうかわからない方
-ここまでの手順をやってみたけどわからなかった、登録できたかどうか不安な方は、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)まで、登録時のメールアドレスと合わせてお知らせください。
+ここまでの手順をやってみたけどわからなかった、登録できたかどうか不安な方は、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com){:target="_blank"}まで、登録時のメールアドレスと合わせてお知らせください。
