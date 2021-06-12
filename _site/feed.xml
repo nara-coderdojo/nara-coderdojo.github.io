@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-06-12T10:43:58+09:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">CoderDojo奈良・CoderDojo生駒</title><subtitle>子どもと大人のプログラミングコミュニティ</subtitle><author><name>Your Name</name></author><entry><title type="html">CoderDojo奈良・生駒オンライン発表@zoom Vol.6を開催しました</title><link href="http://0.0.0.0:4000/blog/2021-03-27-online-presentation/" rel="alternate" type="text/html" title="CoderDojo奈良・生駒オンライン発表@zoom Vol.6を開催しました" /><published>2021-03-27T13:00:00+09:00</published><updated>2021-03-27T13:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/online-presentation</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2021-03-27-online-presentation/">&lt;p&gt;こんにちは、若林です。久しぶりのblog更新です。このサイトで使っているJekyllをかなり理解してきたので、ちょっと更新を頑張ってみようかなと思ったりしていますが、もしかしたら続かないかもしれません。&lt;/p&gt;
+
+&lt;p&gt;2021年3月27日に「CoderDojo奈良・生駒オンライン発表@zoom Vol.6」を開催しました。イベントページは&lt;a href=&quot;https://coderdojo-nara-ikoma.connpass.com/event/206842/&quot; target=&quot;_blank&quot;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;奈良は新型コロナウイルス感染症の影響による緊急事態宣言の対象外ではあったのですが、それでも現在の状況から外出することや人が集まる場所へ行くことへの抵抗感はあるかなと考え、3月まではオンライン開催としました。4月からはまたリアル開催にもどします。
+昨年の緊急事態宣言発令時もオンライン開催をしており、試行錯誤を繰り返した結果「オンラインでは作品発表のみにした方が良い」という結論に至りました。
+その理由は、&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;オンラインで黙々とプログラミングしてもつまらない。&lt;/li&gt;
+  &lt;li&gt;ニンジャは一緒にプログラミングすることよりも発表してみんなに見てもらったり、感想をもらえることを楽しみにしている。&lt;/li&gt;
+  &lt;li&gt;なにより、みんなと交流したいと思っている。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;ということでした。&lt;/p&gt;
+
+&lt;p&gt;来月からまたリアル開催となりますが、オンライン発表会は普段CoderDojoに来られない方にも活動を知っていただくよい機会になるので続けていこうと思います。&lt;/p&gt;
+
+&lt;h2 id=&quot;当日の発表作品&quot;&gt;当日の発表作品&lt;/h2&gt;
+&lt;p&gt;当日の発表作品はこちらです。一部プロジェクト未公開のものがありますが、公開されたらリンクします。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tスライム：&lt;a href=&quot;https://scratch.mit.edu/projects/504805262/&quot; target=&quot;_blank&quot;&gt;https://scratch.mit.edu/projects/504805262/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Koto：ブロック定義の使い方（プロジェクト未公開のため公開されたらリンクします）&lt;/li&gt;
+  &lt;li&gt;KittenLovey：カヌーゲーム（プロジェクト未公開のため公開されたらリンクします）&lt;br /&gt;
+モチーフになったゲームはこちら：&lt;a href=&quot;https://store.steampowered.com/app/405640/Pony_Island/?l=japanese&quot; target=&quot;_blank&quot;&gt;Pony island&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;たっくん：Unityで開発中のマインクラフト&lt;br /&gt;
+開発時の参考にしているYouTube動画&lt;a href=&quot;https://www.youtube.com/watch?v=jkDKGZqAIGc&quot; target=&quot;_blank&quot;&gt;Minecraft Programming Speedrun (Unity, No Internet) in 14:06 [World Record]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ponde：&lt;a href=&quot;https://scratch.mit.edu/projects/508021143/&quot; target=&quot;_blank&quot;&gt;https://scratch.mit.edu/projects/508021143/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;田中さん（Unityで作った箱の中でバウンドするオブジェクト）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;スタジオ&quot;&gt;スタジオ&lt;/h2&gt;
+&lt;p&gt;CoderDojo奈良・生駒には、&lt;a href=&quot;https://scratch.mit.edu/studios/522153/&quot; target=&quot;_blank&quot;&gt;CoderDojo Nara/Ikoma Studio/&lt;/a&gt;と&lt;a href=&quot;https://scratch.mit.edu/studios/28573078/&quot; target=&quot;_blank&quot;&gt;CoderDojo Nara/Ikoma ニンジャ同窓会&lt;/a&gt;の2つのスタジオがあります。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://scratch.mit.edu/studios/28573078/&quot; target=&quot;_blank&quot;&gt;CoderDojo Nara/Ikoma ニンジャ同窓会&lt;/a&gt;の方はニンジャが設立したスタジオで「同窓会」と名付けてくれているのが嬉しいですね。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scratch.mit.edu/studios/522153/&quot; target=&quot;_blank&quot;&gt;CoderDojo Nara/Ikoma Studio/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scratch.mit.edu/studios/28573078/&quot; target=&quot;_blank&quot;&gt;CoderDojo Nara/Ikoma ニンジャ同窓会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;では、また次のDojoでお会いしましょう。&lt;/p&gt;</content><author><name>kwaka1208</name></author><category term="blog" /><summary type="html">こんにちは、若林です。久しぶりのblog更新です。このサイトで使っているJekyllをかなり理解してきたので、ちょっと更新を頑張ってみようかなと思ったりしていますが、もしかしたら続かないかもしれません。</summary></entry><entry><title type="html">ScrapDojoで、機械の分解やりました</title><link href="http://0.0.0.0:4000/blog/scrapdojo-vol1/" rel="alternate" type="text/html" title="ScrapDojoで、機械の分解やりました" /><published>2018-09-29T12:00:00+09:00</published><updated>2018-09-29T12:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/scrapdojo-vol1</id><content type="html" xml:base="http://0.0.0.0:4000/blog/scrapdojo-vol1/">&lt;p&gt;こんにちは、若林です、9月29日に番外企画として機械を分解する「ScrapDojo」を開催しました。&lt;/p&gt;
+
+&lt;p&gt;いつもは、プログラムや電子工作で何かを「作っている」CoderDojoですが、機械を分解して中身を見るのも新しいものを作るためのヒントになるんじゃないか、普段できないことをやるのは面白いんじゃないかと思って&lt;/p&gt;
+
+&lt;p&gt;今回分解した機械たちです。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PlayStation2&lt;/li&gt;
+  &lt;li&gt;ダブルカセットのカセットデッキ&lt;/li&gt;
+  &lt;li&gt;PlayStation用コントローラDualShock&lt;/li&gt;
+  &lt;li&gt;Wii用コントローラ（Wiiリモコンではなく、いわゆるゲームコントローラタイプのもの）&lt;/li&gt;
+  &lt;li&gt;マウス、各種リモコンなど&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/scrapdojo01.jpg&quot; alt=&quot;用意した機器&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;新しい発見の連続&quot;&gt;新しい発見の連続&lt;/h2&gt;
+&lt;p&gt;カセットデッキを見たニンジャの最初の質問が「これ、なんで二つついてるの？」でした。&lt;/p&gt;
+
+&lt;p&gt;そりゃそうですよね、そもそもカセットデッキを見たことがないだろうし、カセットテープで音楽を聴くというのがどういうことなのかもわからないわけで。 :)
+他にもPS2の本体にボタン電池が入っている理由とか、ニンジャたちにはわからないことだらけ。リモコンを分解したニンジャは中のボタンが繋がっていることに驚いていました。&lt;/p&gt;
+
+&lt;p&gt;PS2はデジタル機器らしく、コネクタ以外の部品は表面実装で、部品点数も少なくすっきりした基板。アナログ機器であるカセットデッキの方は、コンデンサと抵抗がたくさん乗っててハンダつけも人間の手ハンダだと思われる仕上がり。コイルやプーリーなどの大きな部品も多くて全体的に大作りな印象。性質の異なる２種類の機械を用意したのはよかったです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/scrapdojo02.jpg&quot; alt=&quot;PlayStation2&quot; /&gt;
+&lt;img src=&quot;/images/2018/scrapdojo03.jpg&quot; alt=&quot;カセットデッキ&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;怪我をしないようにと軍手と保護メガネを用意したのですが、子供用のを調達したら想像以上に小さくて…小学生でも高学年の子には小さすぎました。なので、ひとりを除いて素手で作業していますが手慣れたニンジャばかりだったので、大きな怪我はありませんでした（手が痛くなったぐらいのことはあったかもしれません）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/scrapdojo04.jpg&quot; alt=&quot;分解するニンジャ1&quot; /&gt;
+&lt;img src=&quot;/images/2018/scrapdojo05.jpg&quot; alt=&quot;分解するニンジャ2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;まるでコンビナートみたいなPS2のマザーボード&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/scrapdojo06.jpg&quot; alt=&quot;用意した機器&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;若林個人としては、PS2のマザーボードがカッコよかったのがポイント高かったです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/scrapdojo07.jpg&quot; alt=&quot;カッコいいPS2のマザーボード&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PS2内蔵のボタン電池は、PSロゴ入りのレア品でした。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/scrapdojo08.jpg&quot; alt=&quot;PS2内蔵のボタン電池&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;分解の様子がcoderdojo調布にも流れました&quot;&gt;分解の様子がCoderDojo調布にも流れました！&lt;/h2&gt;
+&lt;p&gt;ちょうど同じタイミングでCoderDojo調布が開催されていたらしく、調布のメンターさんが分解の様子を会場に流してくれました。思いがけなくコラボレーションできたのも嬉しかったです。こちらがその時の調布の様子。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/CoderDojoChofu.jpg&quot; alt=&quot;CoderDojo調布の会場で流れる分解の様子&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;次に向けて&quot;&gt;次に向けて&lt;/h2&gt;
+&lt;p&gt;今回参加したニンジャは3名でしたが約40分で用意したものはほぼバラされました笑。&lt;/p&gt;
+
+&lt;p&gt;次回やる時はもっと色々用意しないと思う反面、今回参加してくれたニンジャが手慣れた子ばかりだったので早かったのかもしれません。その辺りも考慮して次回を企画したいと思います。&lt;/p&gt;
+
+&lt;p&gt;怪我防止のため、モノタロウで子供用の保護メガネと軍手を用意しましたが、実物はかなり小さくて小学校低学年でちょうどぐらいです。高学年以上なら大人用の保護メガネと軍手でいいでしょう。&lt;/p&gt;
+
+&lt;h3 id=&quot;参考&quot;&gt;参考&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.monotaro.com/g/02600770/&quot;&gt;安全めがね(児童用)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.monotaro.com/g/01244598/&quot;&gt;こども軍手 純綿 すべり止め&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>kwaka1208</name></author><category term="blog" /><summary type="html">こんにちは、若林です、9月29日に番外企画として機械を分解する「ScrapDojo」を開催しました。</summary></entry><entry><title type="html">CoderDojo生駒が二人代表になります</title><link href="http://0.0.0.0:4000/blog/the-new-champion/" rel="alternate" type="text/html" title="CoderDojo生駒が二人代表になります" /><published>2018-09-01T23:00:00+09:00</published><updated>2018-09-01T23:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/the-new-champion</id><content type="html" xml:base="http://0.0.0.0:4000/blog/the-new-champion/">&lt;p&gt;これまで、CoderDojo生駒は若林が代表（CoderDojoではチャンピオンといいます）として運営してきましたが、長らくメンターとして活動してくださっている石川さんが一緒にCoderDojo生駒の代表として運営に関わってくださることになりました。&lt;/p&gt;
+
+&lt;p&gt;元々生駒は市民活動が活発な土地柄で、その中でCoderDojo生駒の代表が生駒市民ではない、ということに違和感はありました。&lt;/p&gt;
+
+&lt;p&gt;石川さんは生駒と奈良だけではなく、大阪のDojoやDojo関係イベントのスタッフをやっておられてCoderDojoへのコミットはただならぬものがあります。&lt;/p&gt;
+
+&lt;p&gt;そこで石川さんに共同代表を打診し、快諾をいただきました。&lt;/p&gt;
+
+&lt;p&gt;いきなり交代というのも大変なので、当面は共同代表ということで二人制にしつつ、主たる運営を石川さんにシフトしながら、最終的には僕も共同代表を降りるという流れにしたいと思います。&lt;/p&gt;
+
+&lt;p&gt;石川さんが代表をしてくださることで、CoderDojo生駒はこれからもより継続的で発展的な活動になると思います。これからも、CoderDojo生駒の活動へのご支援をよろしくお願いいたします。&lt;/p&gt;</content><author><name>kwaka1208</name></author><category term="blog" /><summary type="html">これまで、CoderDojo生駒は若林が代表（CoderDojoではチャンピオンといいます）として運営してきましたが、長らくメンターとして活動してくださっている石川さんが一緒にCoderDojo生駒の代表として運営に関わってくださることになりました。</summary></entry><entry><title type="html">Our hoodie</title><link href="http://0.0.0.0:4000/blog/our-hoodie/" rel="alternate" type="text/html" title="Our hoodie" /><published>2018-03-05T23:45:00+09:00</published><updated>2018-03-05T23:45:00+09:00</updated><id>http://0.0.0.0:4000/blog/our-hoodie</id><content type="html" xml:base="http://0.0.0.0:4000/blog/our-hoodie/">&lt;p&gt;We made our Dojo original hoodie design.&lt;/p&gt;
+
+&lt;p&gt;On the front body, CoderDojo logo and “Fuma” which is the character of CoderDojo Nishinomiya / Umeda are printed.”Fuma” is not our character, but “Fuuma” is used DojoCon Japan and we love them.
+On the back, our Dojo name and logo are printed.&lt;/p&gt;
+
+&lt;p&gt;We made front design to share with another Dojo.  And you can design by yourself on the back.&lt;/p&gt;
+
+&lt;p&gt;We will share this design data as below, if you like this front design and will adopt it, we are very happy.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojo-nara-ikoma.github.io/sharedate/CoderDojo-naraikoma-hoodie.ai&quot;&gt;Adobe Illustrator file&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/hoodie05.png&quot; alt=&quot;layout&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Layout description is only Japanese.&lt;/p&gt;
+
+&lt;p&gt;And there is a hidden message “&lt;strong&gt;be a dot&lt;/strong&gt;” under the hood.&lt;/p&gt;
+
+&lt;p&gt;This means, no one can guarantee the continuity of volunteer activities, but if it continues to exist as a dot, it will lead to the future. So, we mean that we are conscious of each and every one being a dot.This word was influenced by the following words of Steve Jobs.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Please put your message here instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/hoodies02.jpg&quot; alt=&quot;front&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/hoodies03.jpg&quot; alt=&quot;back&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You must comply with the following guidelines and licenses to use logo and character.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Please check the guidelines on CoderDojo’s logo on the following site.
+&lt;a href=&quot;http://kata.coderdojo.com/wiki/CoderDojo_Logos_and_Brand_Guidelines&quot;&gt;CoderDojo Logos and Brand Guidelines&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“Fuma” is a ninja character of CorderDojo Nishinomiya / Umeda. A credit title must be printed for use.
+For details, please check the following blog.
+&lt;a href=&quot;http://coderdojo-nishinomiya.info/coderdojo-nishinomiya-umeda-fuma/&quot;&gt;CorderDojo Nishinomiya / About Umeda’s Ninja character&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>kwaka1208</name></author><category term="blog" /><summary type="html">We made our Dojo original hoodie design.</summary></entry><entry><title type="html">CoderDojo奈良・CoderDojo生駒のオリジナルパーカーを作りました。</title><link href="http://0.0.0.0:4000/blog/hoodie/" rel="alternate" type="text/html" title="CoderDojo奈良・CoderDojo生駒のオリジナルパーカーを作りました。" /><published>2018-03-04T15:45:00+09:00</published><updated>2018-03-04T15:45:00+09:00</updated><id>http://0.0.0.0:4000/blog/coderdojo-naraikoma-hoodie</id><content type="html" xml:base="http://0.0.0.0:4000/blog/hoodie/">&lt;p&gt;&lt;img src=&quot;/images/2018/hoodies02.jpg&quot; alt=&quot;集合写真front&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;こんにちは。CoderDojo奈良・CoderDojo生駒のメンター、静野です。&lt;/p&gt;
+
+&lt;p&gt;チャンピオンの若林さんの『お揃いのパーカー作りたいね』という発言から約１年、念願のパーカーが完成しましたので、デザインのシェアと合わせてこちらに記事を書くことにしました。&lt;br /&gt;
+パーカーを作るに至った経緯、デザインから完成までの流れを綴りました。 &lt;br /&gt;
+データのダウンロードは文末にあります。お急ぎの場合は一気に下へどうぞ:point_down:&lt;/p&gt;
+
+&lt;h2 id=&quot;はじまり&quot;&gt;はじまり&lt;/h2&gt;
+&lt;p&gt;はじまりは昨年2017年2月。&lt;br /&gt;
+チャンピオンの若林さんから、お揃いのパーカーを作ろう！という提案がありました。&lt;/p&gt;
+
+&lt;p&gt;提案があった時、「あ！確かにチーム感が出るし、特にイベントの時にあるといいかも！」という気持ちになりましたが、お揃いのパーカーを作るためにはデザインが必要です。&lt;/p&gt;
+
+&lt;p&gt;適当な場所にロゴを入れるだけでも作ることは出来ますが、自分が、そして他のメンバーが「欲しい！着たい！」と感じるような気分の高まるデザインにしたいところです。&lt;/p&gt;
+
+&lt;p&gt;チャンピオンからのデザインに関する希望は、こんな内容でした。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;奈良・生駒 腕にラインを入れる。 チャンピオン：太い線１本 メンター：細い線２本 忍者、他：線無し 所属Dojo名 後ろからみても、何かわかるようにしたい。できれば面白くしたい。 例）風魔がちょっと顔出してるみたいな。 陰陽だけじゃわからないので、”CoderDojoも前面に。 あまり大きくない方がかっこいい。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;衣料品のデザイン経験のある方、もしくはその道のプロにお任せできれば安心ですが、その時は名乗りを上げる方はいなくて、メンターの中で案を出したのは、おそらく私だけでした。&lt;/p&gt;
+
+&lt;p&gt;そんな状況の中、季節は流れて、パーカー作りは一旦中断になります。&lt;/p&gt;
+
+&lt;h2 id=&quot;dojocon-japan-2017の開催&quot;&gt;DojoCon Japan 2017の開催&lt;/h2&gt;
+
+&lt;p&gt;春になり、チャンピオンの若林さんと私は、2017年秋に開催されたイベント、DojoCon Japan 2017の実行委員として2017年5月から活動を開始しました。&lt;/p&gt;
+
+&lt;p&gt;まずは、DojoCon Japan 2017の公式サイトをご覧ください。 &lt;br /&gt;
+&lt;a href=&quot;https://dojocon2017.coderdojo.jp/&quot;&gt;DojoCon Japan 2017公式サイト&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;この素敵なデザインのアクセントになっている、ドット絵の魅力。&lt;br /&gt;
+そして、実行委員として活動する中でチャンピオンが感じたこと。&lt;/p&gt;
+
+&lt;p&gt;パーカーの話から突然どうしたの？思われるかもしれませんが、このDojoCon Japan 2017がパーカーのデザインに大きな影響を与えることになります。&lt;/p&gt;
+
+&lt;h2 id=&quot;やっぱりパーカーを作りたい&quot;&gt;やっぱりパーカーを作りたい&lt;/h2&gt;
+&lt;p&gt;DojoCon Japan 2017が盛況の内に終わり、少しだけ落ち着いた2017年11月中旬。 &lt;br /&gt;
+CoderDojo奈良・CoderDojo生駒のメンバーslackに、チャンピオンからパーカー作りを再開しましょう！というメッセージが届きます。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;@shizuno さんのデザインでとりあえず試作してみようかなと思いますが、静野さんDojoCon Japanなども経てここを変えたいとかありますか？・・・・・・”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;びっくりです！他の方からも案が出ると思って、こんなのどう？と雰囲気で出した案です。&lt;br /&gt;
+考えはしましたが、かなりざっくりとした案。&lt;br /&gt;
+どうしよう！！！と焦りました。&lt;/p&gt;
+
+&lt;p&gt;変えたいどころか、1から考え直します！というレベルです。&lt;/p&gt;
+
+&lt;h2 id=&quot;パーカーのデザインを考える&quot;&gt;パーカーのデザインを考える&lt;/h2&gt;
+&lt;p&gt;衣料品のデザインという分野の経験がないので、何かに頼って（見本を決めて）考えようと思い、オリジナルパーカーを画像検索して調べました。文字やイラストを入れる場合のサイズ感や配置など、いろいろ頭にインプットしたところで、デザイン開始です。&lt;/p&gt;
+
+&lt;p&gt;デザインするにあたって、内容を整理すると、前述した、&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;奈良・生駒 腕にラインを入れる。 チャンピオン：太い線１本 メンター：細い線２本 忍者、他：線無し 所属Dojo名 後ろからみても、何かわかるようにしたい。できれば面白くしたい。 例）風魔がちょっと顔出してるみたいな。 陰陽だけじゃわからないので、”CoderDojoも前面に。 あまり大きくない方がかっこいい。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;と&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;DojoCon Japanなども経てここを変えたいとかありますか？”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;を合わせて、&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ロゴが３つ（CoderDojoロゴ※1 / CoderDojo奈良ロゴ / CoderDojo生駒ロゴ）&lt;/li&gt;
+  &lt;li&gt;アクセントに風魔※2&lt;/li&gt;
+  &lt;li&gt;DojoCon Japanの経験&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;の３つを柱に、&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;所属Dojo名 後ろからみても、何かわかるようにしたい。できれば面白くしたい。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;という要件を満たす方向で考えれば良さそうです。&lt;/p&gt;
+
+&lt;p&gt;ロゴの配置で、CoderDojoロゴとCoderDojo奈良・CoderDojo生駒のロゴのどちらを前にするか？に悩んで、ふと思いました。&lt;br /&gt;
+CoerDojoは全国にあるんだから、フロントを共通のロゴにして、他のDojoとデータを共有出来たらいいな、と。&lt;/p&gt;
+
+&lt;p&gt;フロントを同じデザインで揃えて、バックに各Dojoのオリジナルデザインなら、何かのイベントで展示を出したりするときに着ると統一感が出ていいかな、というのが理由です。&lt;/p&gt;
+
+&lt;p&gt;イベントでお揃いのTシャツを作ることまではしないような場合に使えるのではないかと思いました。&lt;/p&gt;
+
+&lt;p&gt;そして、その思いつきをチャンピオンに伝えると、データを共有することに賛成してくださったので、CoderDojoロゴをフロントに配置することになりました。&lt;/p&gt;
+
+&lt;p&gt;バックのデザインは、CoderDojo奈良・CoderDojo生駒のロゴの配置です。それぞれに個性的なデザイン性の高いロゴなのでとても悩みました。&lt;/p&gt;
+
+&lt;p&gt;初めはCoderDojo奈良・CoderDojo生駒のロゴは使わず、NARA/IKOMAの文字のみにして、風魔を背中の中央に入れるというデザインを考えました。&lt;br /&gt;
+イラストを中央に配置すると普段使いできる、可愛い感じのパーカーになると考えたからです。&lt;/p&gt;
+
+&lt;p&gt;でもそれでは”所属Dojo名 後ろからみても、何かわかるようにしたい。”からは外れてしまいます。&lt;br /&gt;
+チャンピオンからも『奈良生駒のロゴは入れなくていいの』というコメントが入りました。&lt;br /&gt;
+確かに・・・そうですよね。&lt;/p&gt;
+
+&lt;p&gt;最終的に、せっかくロゴを入れるなら、凝ったデザインを生かしたいと考え、２つのロゴをどどーんと大きく中央に並べて、それらにまとまりを出すために、その２つを半円で覆うような配置でNARA/IKOMAの文字を入れる形で再度提案し、その案でチャンピオンからもOKがでました。良かった！&lt;/p&gt;
+
+&lt;p&gt;最後は風魔の配置と面白さ、です。&lt;/p&gt;
+
+&lt;p&gt;バックにロゴを大きく配置したので、風魔はフロントのポケットに。そして、一つではなく横ラインで３〜５つ並べたいと思いました。&lt;br /&gt;
+ラインで並べるなら、DojoCon Japan 2017で使われていた風魔のドット絵をぜひ使いたい！ここはばっちりチャンピオンと意見が一致です。&lt;/p&gt;
+
+&lt;p&gt;形になってきてほっとしました。&lt;/p&gt;
+
+&lt;h2 id=&quot;ブラッシュアップ&quot;&gt;ブラッシュアップ&lt;/h2&gt;
+&lt;p&gt;たたき台が出来たところで、CoderDojo生駒のロゴを作ってくださった生駒市在住のグラフィックデザイナー平本 久美子さんに、デザインを見ていただけることに。&lt;/p&gt;
+
+&lt;p&gt;ご縁があったことに感謝、そして、手探りで進めてきたデザインをブラッシュアップしていただけることの心強さと言ったら！本当にありがたいです。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;バックのNARA/IKOMAの文字をプログラムっぽく&amp;lt;/&amp;gt;で囲んでフォントをファミコン文字に。&lt;/li&gt;
+  &lt;li&gt;フロントのドット絵の風魔とのバランスが取れるサイズと余白をとってライセンスを表記。&lt;/li&gt;
+  &lt;li&gt;CoderDojoのロゴのサイズ感や配置場所のご提案。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;このブラッシュアップによって、本当に素敵なデザインが完成しました:sparkles:&lt;/p&gt;
+
+&lt;h2 id=&quot;フードに隠されたメッセージ&quot;&gt;フードに隠されたメッセージ&lt;/h2&gt;
+&lt;p&gt;デザインが完成して、サンプルを作成→最終調整を行い、やっと希望者を募って発注というところまで来ました。&lt;br /&gt;
+サンプル完成をFaceBookでご報告したので、ここまではご存知の方もいらっしゃると思います。&lt;/p&gt;
+
+&lt;p&gt;しかし、サンプルと完成品には大きな違いがあります。&lt;/p&gt;
+
+&lt;p&gt;フードで隠れる部分に書かれたメッセージ。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;be a dot.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;由来は、このblogの内容です。 
+&lt;a href=&quot;http://kwaka1208.net/be-a-dot&quot;&gt;http://kwaka1208.net/be-a-dot/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;CoderDojoの活動は誰もその継続性を保証できないけれど、それぞれが点として存在しつづければ、それは線として残っていく。だから、欲張らずにそれぞれがひとつの点で居ようという意味です。&lt;/p&gt;
+
+&lt;p&gt;『パーカーの前面を共通で使うなら、各Dojoのメッセージを隠しメッセージ的にフードの裏の隠れるところに入れたらどうだろうか？』というチャンピオンからの提案で、CoderDojo奈良・CoderDojo生駒ではこのメッセージを入れることにしました。&lt;/p&gt;
+
+&lt;p&gt;このメッセージは、DojoCon Japan 2017の実行委員をしたことで生まれて、パーカーのデザインへ反映されたことを考えると、やはりその影響は大きいです。&lt;/p&gt;
+
+&lt;p&gt;パーカーにこのメッセージを入れるにあたって、メッセージの前に//をつけたのは、多くのプログラミング言語でコメントを入れるときに使われる記号で、今回のデザインのコンセプトにも合っていると考えたからです。&lt;/p&gt;
+
+&lt;h2 id=&quot;パーカーが完成&quot;&gt;パーカーが完成&lt;/h2&gt;
+
+&lt;p&gt;こちらが、完成したデータのキャプチャーです。&lt;br /&gt;
+ロゴやイラストの配置イメージを共有するために、コメントをつけて、チャンピオン・平本さんに見ていただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/hoodie05.png&quot; alt=&quot;配置指示書&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;完成したデザインを発表して作りたい人を募ったところ、今回は大人（チャンピオンとメンター）８人と忍者３人（メンターの子供）から希望がありました。&lt;/p&gt;
+
+&lt;p&gt;色は、大人は共通でミックスグレー&amp;amp;ブラック（裏地がブラック）、忍者はそれぞれの好みでレッド・ロイヤルブルー・ターコイズにしました。&lt;/p&gt;
+
+&lt;p&gt;着用写真をご覧ください♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/hoodies01.jpg&quot; alt=&quot;照れた笑顔のチャンピオンと後ろ姿の石川さん&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/hoodies02.jpg&quot; alt=&quot;集合写真front&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/hoodies03.jpg&quot; alt=&quot;集合写真back&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;みなさん気に入っていただいたようで本当に良かったです:sparkles:&lt;/p&gt;
+
+&lt;p&gt;レッドとロイヤルブルーも綺麗だったので、届いた時の写真を貼っておきます。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/hoodie04.jpg&quot; alt=&quot;忍者のパーカー&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;パーカーの製作はCoderDojo北神戸のチャンピオン酒井久伸さんのお店、利助屋さんにお願いしました。&lt;br /&gt;
+印刷に関する注意など詳しく説明していただいたり、印刷するにあたって文字のサイズなどを調整してくださったりたり、大変お世話になりました。ありがとうございます。&lt;br /&gt;
+&lt;a href=&quot;http://risukeya.com/&quot;&gt;丹生・山田の里 ものづくり工房 株式会社 利助屋&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;パーカーのデータを共有します&quot;&gt;パーカーのデータを共有します&lt;/h2&gt;
+&lt;p&gt;以下のリンクよりイラストレーターのデータがダウンロードできます。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://coderdojo-nara-ikoma.github.io/sharedate/CoderDojo-naraikoma-hoodie.ai&quot;&gt;パーカーのaiデータ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;aiデータの一番上のレイヤーは、デザインデータ配置用の指示書になっています。
+参考のために残していますが、入稿時には削除してください。&lt;br /&gt;
+イメージの共有のための指示書です。実際にはパーカーへの印刷工程上、厳密にすることが難しいです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/hoodie06.png&quot; alt=&quot;配置指示書&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;パーカーのデータを使うにあたって、ご質問などございましたら、お気軽にご連絡ください。&lt;/p&gt;
+
+&lt;p&gt;お揃いで作っていただけると嬉しいです♪&lt;/p&gt;
+
+&lt;p&gt;«ご注意事項»&lt;/p&gt;
+
+&lt;p&gt;※1CoderDojoのロゴについてのガイドラインは以下のサイトでご確認ください。 &lt;br /&gt;
+&lt;a href=&quot;http://kata.coderdojo.com/wiki/CoderDojo_Logos_and_Brand_Guidelines&quot;&gt;CoderDojo Logos and Brand Guidelines&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;※2風魔はCorderDojo西宮／梅田の忍者イラストです。使用にはライセンス表記が必要です。&lt;br /&gt;
+詳しくは以下のブログをご確認ください。&lt;br /&gt;
+&lt;a href=&quot;http://coderdojo-nishinomiya.info/coderdojo-nishinomiya-umeda-fuma/&quot;&gt;CorderDojo西宮／梅田の忍者イラストについて&lt;/a&gt;&lt;/p&gt;</content><author><name>fumika-s</name></author><category term="blog" /><summary type="html"></summary></entry><entry><title type="html">ユースメンター”Youth Mentor”制度を導入します</title><link href="http://0.0.0.0:4000/blog/youth-mentor/" rel="alternate" type="text/html" title="ユースメンター”Youth Mentor”制度を導入します" /><published>2018-01-27T01:05:00+09:00</published><updated>2018-01-27T01:05:00+09:00</updated><id>http://0.0.0.0:4000/blog/youth-mentor</id><content type="html" xml:base="http://0.0.0.0:4000/blog/youth-mentor/">&lt;p&gt;このたび、CoderDojo奈良とCoderDojo生駒では、ユースメンター”Youth Mentor”制度を導入することにしました。&lt;/p&gt;
+
+&lt;p&gt;同様の制度は、国内外の他のDojoでも導入されているケースがあるかもしれませんが、今回導入する制度は独自に設定したものです。&lt;/p&gt;
+
+&lt;h2 id=&quot;ユースメンターyouth-mentorとは&quot;&gt;ユースメンター”Youth Mentor”とは&lt;/h2&gt;
+&lt;p&gt;ニンジャをサポートしたりメンターから相談を受けたりする役割を負うニンジャ（18歳未満）をユースメンター”Youth Mentor”と呼ぶ制度です。&lt;/p&gt;
+
+&lt;p&gt;ユースメンター”Youth Mentor”は、通常は他のニンジャと一緒に参加していますがニンジャから質問や相談を受けた場合はサポートする義務があり、メンターからの相談にも対応しなければなりません。&lt;/p&gt;
+
+&lt;p&gt;「メンターがニンジャに相談するの？」と思われることもいらっしゃるかもしれませんね、ニンジャにもそれぞれ得意な分野があり、時にはメンターよりも詳しい場合もあります。&lt;/p&gt;
+
+&lt;h2 id=&quot;ユースメンター制度の狙い&quot;&gt;ユースメンター制度の狙い&lt;/h2&gt;
+&lt;p&gt;ユースメンター制度を新設する狙いは次のとおりです。&lt;/p&gt;
+
+&lt;h3 id=&quot;ニンジャのステップアップ&quot;&gt;ニンジャのステップアップ&lt;/h3&gt;
+&lt;p&gt;奈良のDojoも設立から3年以上が経過して、初期から参加しているニンジャはそれなりの経験を積んでいます。そのニンジャ達がサポートする側に回ることで新しい経験を積むことができ、ニンジャ達のステップアップの一助になることを期待しています。&lt;/p&gt;
+
+&lt;h3 id=&quot;コミュニケーションの促進&quot;&gt;コミュニケーションの促進&lt;/h3&gt;
+&lt;p&gt;ユースメンター制度を導入することで、ニンジャとユースメンターのコミュニケーションが促進されることを期待しています。ニンジャの中には「自分が教えてもいいかな」と思っている子もいるけれど、なんとなく自分から言うのは恥ずかしい。そういう気持ちのニンジャがいるのではないかと考えました。
+また、年の離れたメンターよりも「先輩」にあたるニンジャとコミュニケーションする方が良い場合もあり、メンターが助けられることもあります。&lt;/p&gt;
+
+&lt;p&gt;そこで「サポートする立場」を明確にすることによって、相談しやすくまた答えやすくなることを期待しています。&lt;/p&gt;
+
+&lt;h3 id=&quot;思春期を迎えるニンジャへの対応&quot;&gt;思春期を迎えるニンジャへの対応&lt;/h3&gt;
+&lt;p&gt;参加しているニンジャの多くは小学生ですが、設立から３年以上経った今、中学校に上がるニンジャも出てきます。思春期を迎えて、中には「小学生に混ざって活動すること」や「小学生と一緒にニンジャと呼ばれること」に恥ずかしいという気持ちを持ったり、抵抗を感じるニンジャも出てくるのではないかと考えました。&lt;/p&gt;
+
+&lt;p&gt;そういったニンジャの心理的障壁を取り除くことができ、継続的にDojoに参加してもらえることを期待しています。&lt;/p&gt;
+
+&lt;h2 id=&quot;ユースメンターになるには&quot;&gt;ユースメンターになるには？&lt;/h2&gt;
+&lt;p&gt;ユースメンターは自己申告制です。ユースメンターとして活動したいと思った場合は、メンターにそのことを伝えてください。ユースメンターになるための条件は「ユースメンターとして活動することに同意」すればOKです。&lt;/p&gt;
+
+&lt;p&gt;また、メンターからユースメンターに指名されることはありません、すべて自分の意思で決めるものとします。&lt;/p&gt;
+
+&lt;p&gt;自己申告ですので、小学１年生のユースメンターということもありえますが、それを拒否することはありません。ただしユースメンターはニンジャの相談役でなければなりませんので、その役割を自主的に負えない場合は年齢に関係なくユースメンターを降りていただくことはあります。&lt;/p&gt;
+
+&lt;h2 id=&quot;いつまでもみんなの居心地の良い場所であるために&quot;&gt;いつまでもみんなの居心地の良い場所であるために&lt;/h2&gt;
+&lt;p&gt;今回の制度は、プログラミングスキルを向上させるためのものではありません。副次的にはそういった効果が見えるかもしれませんが、目的は今まで以上に交流すること、Dojoがみんなにとっていつまでも居心地の良い場所であり続けることを目指しています。&lt;/p&gt;
+
+&lt;p&gt;これからも、CoderDojoの活動へのご支援をよろしくお願いいたします。&lt;/p&gt;</content><author><name>kwaka1208</name></author><category term="blog" /><summary type="html">このたび、CoderDojo奈良とCoderDojo生駒では、ユースメンター”Youth Mentor”制度を導入することにしました。</summary></entry><entry><title type="html">CoderDojoの予定を自分のカレンダーにいれよう</title><link href="http://0.0.0.0:4000/blog/calendar/" rel="alternate" type="text/html" title="CoderDojoの予定を自分のカレンダーにいれよう" /><published>2017-11-25T00:00:00+09:00</published><updated>2017-11-25T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/add-to-your-calendar</id><content type="html" xml:base="http://0.0.0.0:4000/blog/calendar/">&lt;p&gt;CoderDojo奈良・CoderDojo生駒の開催予定は、Googleカレンダーで公開しています。Googleカレンダーをお使いの方は、自分の予定と一緒に見られると、予定が立てやすくなるのでオススメです。&lt;/p&gt;
+
+&lt;p&gt;Google公式に&lt;a href=&quot;https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&amp;amp;hl=ja&quot;&gt;他のユーザーのカレンダーを追加する方法&lt;/a&gt;の説明がありますので、この中の「リンクを使用して追加する」の手順に従ってください。&lt;/p&gt;
+
+&lt;p&gt;この時、入力するリンク（URL）は&lt;a href=&quot;https://calendar.google.com/calendar/ical/nara.jp%40coderdojo.com/public/basic.ics&quot;&gt;https://calendar.google.com/calendar/ical/nara.jp%40coderdojo.com/public/basic.ics&lt;/a&gt;になります。&lt;/p&gt;
+
+&lt;p&gt;GoogleカレンダーでCoderDojo奈良・CoderDojo生駒の開催予定をしっかりチェックしてくださいね！&lt;/p&gt;</content><author><name>kwaka1208</name></author><category term="blog" /><summary type="html">CoderDojo奈良・CoderDojo生駒の開催予定は、Googleカレンダーで公開しています。Googleカレンダーをお使いの方は、自分の予定と一緒に見られると、予定が立てやすくなるのでオススメです。</summary></entry><entry><title type="html">ローカルネットワークを手軽につくる</title><link href="http://0.0.0.0:4000/blog/how-create-local-netowrk/" rel="alternate" type="text/html" title="ローカルネットワークを手軽につくる" /><published>2017-09-16T23:30:00+09:00</published><updated>2017-09-16T23:30:00+09:00</updated><id>http://0.0.0.0:4000/blog/how-to-make-local-netowrok</id><content type="html" xml:base="http://0.0.0.0:4000/blog/how-create-local-netowrk/">&lt;p&gt;突然ですが、Dojoやってるとローカルネットワークが必要になることってありますよね？ありませんか？
+私たちのDojoでは8月に&lt;a href=&quot;http://craft.8x9.jp/ja/&quot;&gt;8x9Craft&lt;/a&gt;をやらせていただいたのですが、その時に使っていたルーターがローカル内での通信をブロックする設定になっていて困ったことがありました。&lt;/p&gt;
+
+&lt;p&gt;不特定多数の方が使う可能性がある公共の施設のWi-Fi環境であれば、ローカル内での通信をブロックするのは適切なセキュリティ対策だと思いますが、Dojoの活動では困ってしまいました。&lt;/p&gt;
+
+&lt;p&gt;その時は、8x9Craftの作者である寺園さんが自身のスマートフォンのテザリング機能（スマートフォンをアクセスポイントにして他の機器をインターネットに接続できるようにする機能）を使ってくださって事なきを得たのですが、毎回テザリングを使うわけにもいきません。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;回線契約によってテザリングが使えるものと使えないものがあり、使えない契約の方がほとんど。誰でも使えるわけではない。&lt;/li&gt;
+  &lt;li&gt;PCをテザリング接続するとインストールしているアプリによって（例えばDropboxみたいなクラウドストレージ同期を行うもの）はインターネットへの接続が多数発生してしまい、パケット消費が起こってしまう。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ローカル内の閉じたネットワークが必要なだけなのに、本来の目的と無関係なパケット消費が起こってしまうのは得策ではありません。&lt;/p&gt;
+
+&lt;p&gt;これらの状況に対応するため、Wi-Fiルータをもうひとつ用意してローカルネットワークを構築しようと考えたのですが、大きなルータをDojoごとに持ち歩きたくないので小さなものは無いか？と探して見つけたのが、こちらでした。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://buffalo.jp/product/wireless-lan/ap/wmr-433w/&quot;&gt;&lt;img src=&quot;/assets/2017/wmr-433.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;出先とかホテルなど有線LANしかないところで、自前のWi-Fi環境を作るための持ち運びできるWi-Fiルータです。写真では大きさがわかりにくいかもしれませんが（詳しくはリンク先をみてください）、シャツの胸ポケットにも入れられる大きさと軽さなので、Dojoの荷物の負担になりません（当Dojo比）。&lt;/p&gt;
+
+&lt;p&gt;値段もamazonで1,400円ぐらいと安く、もし自分の目的で使えなくても個人的な持ち運びルータとして使えるしということで買ってみました。結果まったく問題なし！電源もUSBから取れるので電源の心配もありません。&lt;/p&gt;
+
+&lt;p&gt;設定で&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1.バックボーンに有線LANを使う&lt;/li&gt;
+  &lt;li&gt;2.バックボーンに別のWi-Fi接続を使う&lt;/li&gt;
+  &lt;li&gt;3.別のWi-Fiをブリッジする&lt;/li&gt;
+  &lt;li&gt;4.ローカルネットワークにする&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;が選べるのですが、３以外ならどれでもローカルネットワークを作れるようです。１と２は単にインターネットに接続されないだけ。そういう意味では４の設定の存在がよくわからないけど。&lt;/p&gt;
+
+&lt;p&gt;小型のルータということで、接続数がどれぐらいまでいけるのかが気になりましたが、今日使ってみたところホスト１台とクライアント４台、計５台の接続で8x9Craftをやりましたが、まったく問題ありませんでした。&lt;/p&gt;
+
+&lt;p&gt;ローカル用のルータを用意することで、インターネットに接続するためのWi-Fiルータの負担を下げられるというメリットもありますし、コスト的にも荷物的にも負担が小さく、テザリングによるパケット消費もないのでオススメです。&lt;/p&gt;</content><author><name>kwaka1208</name></author><category term="blog" /><summary type="html">突然ですが、Dojoやってるとローカルネットワークが必要になることってありますよね？ありませんか？ 私たちのDojoでは8月に8x9Craftをやらせていただいたのですが、その時に使っていたルーターがローカル内での通信をブロックする設定になっていて困ったことがありました。</summary></entry><entry><title type="html">Progate for Schoolでプログラミングを学ぼう</title><link href="http://0.0.0.0:4000/blog/progate_for_school/" rel="alternate" type="text/html" title="Progate for Schoolでプログラミングを学ぼう" /><published>2017-07-13T23:30:00+09:00</published><updated>2017-07-13T23:30:00+09:00</updated><id>http://0.0.0.0:4000/blog/progate-for-school</id><content type="html" xml:base="http://0.0.0.0:4000/blog/progate_for_school/">&lt;p&gt;今回、ご縁あってProgateさんが提供する「Progate for School」のサービスをCoderDojo奈良、CoderDojo生駒の忍者とメンターさんで利用させていただけることになりました。言語が2つ選択できるということで、使う機会が多いと思われる「HTML&amp;amp;CSS」「JavaScript」を選択させていただきました。&lt;/p&gt;
+
+&lt;h2 id=&quot;progate-for-schoolとは&quot;&gt;Progate for Schoolとは&lt;/h2&gt;
+&lt;p&gt;「Progate」とはオンラインプログラミング学習サービスで、インターネットで接続できる環境なら、いつでもどこでも自分が学びたいプログラミング言語を学ぶことができます。進捗も自分のアカウントで記録されているので、すぐに前回の続きを始めることができます。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://prog-8.com/&quot;&gt;Progate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;「Progate for School」とは、このオンラインプログラミング学習サービスを学校向けに提供されているプランで、２言語まですべての学習コンテンツを無料で利用できます。今回は特別にCoderDojo奈良、CoderDojo生駒の忍者とメンターさんのために提供してくださいました。なんて太っ腹な！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://prog-8.com/plans/for_school&quot;&gt;Progate for School&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;「Progate」のコンテンツは、入門レベルからステップバイステップで進んで行くので、本を使って自学自習するよりも取り組みやすくなっています。きっと、忍者のみんなにも取り組みやすいはず。メンターさんにも「JavaScriptはあんまりやったことない」という方もいらっしゃいますので、是非この機会に学んでいただこうと思います。自分も我流でやってきたのでこれを機会にやり直そうと思います。&lt;/p&gt;
+
+&lt;p&gt;Progateさん、ありがとうございました！&lt;/p&gt;</content><author><name>kwaka1208</name></author><category term="blog" /><summary type="html">今回、ご縁あってProgateさんが提供する「Progate for School」のサービスをCoderDojo奈良、CoderDojo生駒の忍者とメンターさんで利用させていただけることになりました。言語が2つ選択できるということで、使う機会が多いと思われる「HTML&amp;amp;CSS」「JavaScript」を選択させていただきました。</summary></entry><entry><title type="html">Computer Science for ALLに掲載されました</title><link href="http://0.0.0.0:4000/blog/computer-science-for-all/" rel="alternate" type="text/html" title="Computer Science for ALLに掲載されました" /><published>2016-11-01T23:30:00+09:00</published><updated>2016-11-01T23:30:00+09:00</updated><id>http://0.0.0.0:4000/blog/computer-science-for-all</id><content type="html" xml:base="http://0.0.0.0:4000/blog/computer-science-for-all/">&lt;p&gt;本日、&lt;a href=&quot;http://canvas.ws/&quot;&gt;NPO法人CANVAS&lt;/a&gt;さんが運営されている、&lt;a href=&quot;http://csforall.jp/&quot;&gt;Computer Science for ALL プログラミング教育普及プロジェクト&lt;/a&gt;にCoderDojo奈良とCoderDojo生駒を&lt;a href=&quot;http://csforall.jp/activity/504/&quot;&gt;取り組みのひとつとして掲載&lt;/a&gt;していただきました。&lt;/p&gt;
+
+&lt;p&gt;他にも多数の取り組みが掲載されていて、たくさんの仲間がいて心強く感じます。CoderDojo奈良、CoderDojo生駒も頑張っていきます。 :)&lt;/p&gt;</content><author><name>kwaka1208</name></author><category term="blog" /><summary type="html">本日、NPO法人CANVASさんが運営されている、Computer Science for ALL プログラミング教育普及プロジェクトにCoderDojo奈良とCoderDojo生駒を取り組みのひとつとして掲載していただきました。</summary></entry></feed>

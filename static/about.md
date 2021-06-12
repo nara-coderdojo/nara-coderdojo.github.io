@@ -11,9 +11,7 @@ CoderDojo is a worldwide movement of free, volunteer-led, community-based progra
 don
 The CoderDojo movement believes that an understanding of programming languages is increasingly important in the modern world, that it’s both better and easier to learn these skills early, and that nobody should be denied the opportunity to do so.
 
-## CoderDojoって何？
-しかし、英語ではよくわからないという方もいらっしゃると思いますので、日本語訳を載せておきますね。
-
+## CoderDojoって何？（日本語訳）
 「CoderDojoは、ボランティア主導で且つコミュニティベースな無料の若い人たち向けプログラミングクラブの世界的な活動です。7歳から17歳までの誰でもDojoを訪れて、コードを学んだり、ウェブサイトを作ったり、アプリやゲームをつくったり、技術を探求することができる、カジュアルで創造的な環境です。
 
 CoderDojoの活動の中では、プログラミング言語の理解が現代の世界でますます重要になってきていると考えられています。若いうちにこれらのスキルを学ぶほうがより容易に習得しやすく、誰もがその機会を拒否するべきではないと考えています。」

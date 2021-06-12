@@ -5,9 +5,18 @@ permalink: /materials/index.html
 ---
 こちらのページでは、プログラミングやweb制作で使えるツールや素材のサイトを紹介しています。
 
-## プログラミングツール
-- [Scratch](https://scratch.mit.edu/){:target="_blank"}
-- [micro:bit(chibi:bit)プログラミング環境](http://microbit.org/ja/code/){:target="_blank"}
+- [Scratch](http://scratch.mit.edu){:target="_blank"}
+- [ピョンキー（iPad版）](https://itunes.apple.com/jp/app/pyonki/id905012686?mt=8){:target="_blank"}
+- [Scratch Jr.（iPad版）](https://itunes.apple.com/us/app/scratchjr/id895485086?ls=1&amp;mt=8){:target="_blank"}
+- [google blockly](http://code.google.com/p/blockly/){:target="_blank"}
+-	[Blockly迷路](https://blockly-games.appspot.com/maze?lang=ja){:target="_blank"}
+- [code combat(JavaScriptで主人公を動かすプログラムを書いてミッションをクリアする)](http://codecombat.com){:target="_blank"}
+
+## プログラミングデバイス
+- [micro:bit](https://microbit.org){:target="_blank"}
+- [IchigoJam](http://ichigojam.net/){:target="_blank"}
+- [Arduino](http://www.arduino.cc/){:target="_blank"}
+    - [Let's Make With Arduino!](http://lets.makewitharduino.com/){:target="_blank"}
 
 ## エディタ
 - [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/){:target="_blank"}
@@ -28,4 +37,8 @@ permalink: /materials/index.html
 ### 音楽素材
 - [効果音ラボ](http://soundeffect-lab.info/){:target="_blank"}
 - [魔王魂](http://maoudamashii.jokersounds.com/){:target="_blank"}
+
+## プログラミング学習
+プログラミングを学ぶ際に、便利なサイトやアプリをご紹介します。  
+ログイン等が必要な場合もありますが、ほとんどのサイトが気軽に体験できるものばかりですので、興味のある方は、一度挑戦してみてください！
 
