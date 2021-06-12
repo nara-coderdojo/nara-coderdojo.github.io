@@ -2,7 +2,7 @@
 title: Our hoodie
 date: 2018-03-05T23:45:00+09:00
 author: kwaka1208
-layout: post
+layout: single
 permalink: /blog/our-hoodie/
 categories:
   - blog

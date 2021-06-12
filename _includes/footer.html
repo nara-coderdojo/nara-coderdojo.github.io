@@ -1,23 +1,21 @@
-<!-- Footer -->
-<footer id="footer">
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
 
-    <ul class="icons">
-        <li><a href="https://twitter.com/CoderDojoNara" class="icon circle fa-twitter">
-					<span class="label">Twitter</span></a></li>
-        <li><a href="https://www.facebook.com/CoderDojoNara/" class="icon circle fa-facebook">
-					<span class="label">Facebook</span></a></li>
-        <li><a href="https://github.com/coderdojo-nara-ikoma/" class="icon circle fa-github">
-					<span class="label">Github</span></a></li>
-    </ul>
-    <p>
-      <a href="https://coderdojo.com"><img src="/images/coderdojo.png" alt="CoderDojo"></a>
-    </p>
-		<p><a href="https://zen.coderdojo.com/dojos/jp/nara-ken/nara-nara-prefecture/nara-nara" target="_blank">CoderDojo奈良</a>、<a href="https://zen.coderdojo.com/dojos/jp/ikoma-nara-prefecture/ikoma-nara" target="_blank">CoderDojo生駒</a>は<br>CoderDojo Foundationに公式のDojoとして登録されています。
-			</p>
-    <p style="font-size:14px;">CoderDojo生駒のアイコンは、生駒市のWeb&amp;Graphicデザイナー<br><a href="http://www.hiramoto-design.com/">平本久美子さん</a>が作ってくださいました。</p>
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
 
-    <ul class="copyright">
-        <li>&copy; CoderDojo奈良・CoderDojo生駒</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-    </ul>
+    {% unless site.atom_feed.hide %}
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
+  </ul>
+</div>
 
-</footer>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>

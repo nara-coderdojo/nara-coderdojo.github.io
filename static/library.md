@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "CoderDojo奈良・生駒ライブラリ"
 permalink: /library/
 ---
