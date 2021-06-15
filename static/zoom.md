@@ -3,7 +3,6 @@ layout: single
 title:  "オンライン会議ツールzoomについて"
 permalink: /zoom/
 ---
-# zoomについて
 zoomやオンライン会議システムが初めてという方は、CoderDojo小平のチャンピオン[とがぞの](https://twitter.com/togazo/status/1233692594602799104?s=21)さんが作ってくださった、こちらのスライド「[zoomの使い方はじめてのWeb会議の参加方法](https://docs.google.com/presentation/d/e/2PACX-1vTuTnuBEH8X6Dyw6KrfuCkH2yeJA0_90_OkCddDAgCcChxMOfOOMReNixLVmIBkItkLKJXEG9b8hoCp/pub?start=false&loop=false&delayms=3000&fbclid=IwAR2HbeW5VNgraW__MWXIgu3h38S2HGvoGiemXBlXjmy5ba8-Vwz_spGLUkw&slide=id.p)」をご一読ください。
 
 ## オンライン会議の環境と接続までの手順
