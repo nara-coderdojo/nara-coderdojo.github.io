@@ -12,11 +12,10 @@ oViceがどのようなものかについては、公式の解説動画がわか
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w3hPpqRnz8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## アクセス方法
+- ブラウザは、[Google Chrome](){:target="_blank"}もしくは[Microsoft edge](){:target="_blank"}をお使いください。
+- パスワードは、参加申し込みされた方のみにお知らせします
 
 1. 会場となる[子どもプログラミングパーク](){:target="_blank"}にアクセスすると以下の画面が表示されますので、表示する名前とパスワード（別途お伝えします）を入力して「入場」ボタンを押します。この時、マイクとカメラの利用許可を求められますが、いずれも許可しておいてください。
-
-**パスワードは、参加申し込みされた方のみにお知らせします**
-
 入場してすぐの時点では、カメラもマイクもオフとなっています。入場後、オンに切り替える形になっていますので、ご心配なく。
 
 ![入場口](/assets/images/ovice/entry.png)
@@ -29,4 +28,3 @@ oViceがどのようなものかについては、公式の解説動画がわか
 
 
 
-**ブラウザは、[Google Chrome](){:target="_blank"}もしくは[Microsoft edge](){:target="_blank"}をお使いください。**
