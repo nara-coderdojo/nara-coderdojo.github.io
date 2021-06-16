@@ -19,11 +19,11 @@ oViceがどのようなものかについては、公式の解説動画がわか
 
 入場してすぐの時点では、カメラもマイクもオフとなっています。入場後、オンに切り替える形になっていますので、ご心配なく。
 
-![入場口](/assets/images/entry.png)
+![入場口](/assets/images/ovice/entry.png)
 
 会場に入ると自分の以下のように自分のアイコンが表示され、アイコンの下に入場時に入力した名前が表示されます。
 
-![アイコン](/assets/images/entry.png)
+![アイコン](/assets/images/ovice/icon.png)
 
 
 
