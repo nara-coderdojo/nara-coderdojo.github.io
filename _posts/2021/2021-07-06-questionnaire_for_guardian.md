@@ -35,6 +35,6 @@ categories:
 2. リアルタイムで交流できる機会  
 こちらは、oViceというオンラインのツールを使います。zoomのようなオンライン会議システムと違って自由に話したい人と話せること、カメラオフでも使いやすいのが特徴です。基本的にはカメラオフで使っていきます。日時については、平日と週末の両方のパターンで基本的には夜で設定します。開催時期についてはまたあらためてお知らせします。
 
-[Google Classroom](https://edu.google.com/intl/ja/products/classroom/){:target="_blank"}への登録法法については、また個別にお知らせします。
+[Google Classroom](https://edu.google.com/intl/ja/products/classroom/){:target="_blank"}への登録方法については、また個別にお知らせします。
 
 今後とも、CoderDojo奈良とCoderDojo生駒をどうぞよろしくお願いいたします。
