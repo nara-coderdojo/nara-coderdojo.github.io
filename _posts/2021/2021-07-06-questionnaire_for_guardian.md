@@ -1,5 +1,5 @@
 ---
-title: 「CoderDojoオンライン交流会についてのアンケート」の結果をお知らせします。
+title: 「CoderDojoオンライン交流会についてのアンケート」の結果について
 date: 2021-07-17T14:00:00+09:00
 author: kwaka1208
 layout: single
