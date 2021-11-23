@@ -21,6 +21,12 @@ CoderDojoの活動の中では、プログラミング言語の理解が現代�
 
 <iframe  width="595" height="350" allowfullscreen="true" marginheight="0" marginwidth="0" mozallowfullscreen="true" scrolling="no" src="https://docs.google.com/presentation/d/e/2PACX-1vSfSoYY3Iw6o0DL4Ki6-JNhgIOb61pktNZMRAYQZ4QdvORYb5ryBmOshmoDwe6M1BA8O-_-dzXOTReP/embed?start=false&amp;loop=false" webkitallowfullscreen="true" frameborder="0"></iframe>
 
+## What is CoderDojo ?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c7ROVdcyk7s?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                
+
+## あなたがDojoに来る理由は何ですか？
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gLDue2xb1j8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                
+
 私たちは、活動の場をDojoと呼んでいます。これは空手や柔道などで使う「道場」と同じで、CoderDojoの創始者が合気道をやっていたこともあって、自分たちの活動の場を「道場(Dojo)」と呼ぶようになったようです。
 
 もし、CoderDojoの活動に興味を持たれたら是非、お近くのDojoに足を運んでみてください。
