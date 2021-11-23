@@ -1,17 +1,12 @@
 ---
-layout: splash
+layout: single
 permalink: /
 header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
   overlay_image: /assets/images/cover.jpg
 excerpt: "子どもと大人が一緒にプログラミングを楽しむコミュニティ"
-intro: 
-  - title: "Welcome to CoderDojo."
 ---
-
-{% include feature_row id="intro" type="center" %}
-
 ## CoderDojoとは
 CoderDojoは、2011年にアイルランドで始まった世界的な活動で私たちは「子どもと大人がプログラミングを楽しむコミュニティ」と表現しています。
 
