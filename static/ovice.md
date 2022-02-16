@@ -11,13 +11,11 @@ oViceがどのようなものかについては、公式の解説動画がわか
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w3hPpqRnz8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-CoderDojo奈良・CoderDojo生駒では「子どもクリエイティブパーク」と呼ばれる会場を利用します。
-
 ## アクセス方法
 - ブラウザは、[Google Chrome](https://www.google.com/intl/ja_jp/chrome/){:target="_blank"}もしくは[Microsoft edge](https://www.microsoft.com/ja-jp/edge){:target="_blank"}をお使いください。
 - パスワードは、参加申し込みされた方のみにお知らせします
 
-1. 会場となる[子どもクリエイティブパーク](https://kids-creative-park.ovice.in/){:target="_blank"}にアクセスします。
+1. 会場となる[oVice](https://crssrdslab.ovice.in/){:target="_blank"}にアクセスします。
 2. 以下の画面が表示されますので、表示する名前とパスワード（別途お伝えします）を入力して「入場」ボタンを押します。この時、マイクとカメラの利用許可を求められますが、いずれも許可しておいてください。入場してすぐの時点では、カメラもマイクもオフとなっています。入場後、オンに切り替える形になっていますので、ご心配なく。  
 ![入場口](/assets/images/ovice/entry.png)
 3. 会場に入ると自分の以下のように自分のアイコンが表示され、アイコンの下に入場時に入力した名前が表示されます。  
