@@ -1,39 +1,49 @@
 ---
 layout: single
-title:  "Coolest Projects Onlineへの参加方法"
+title:  "Coolest Projects Globalについて"
 permalink: /coolest_projects_international/
 ---
-今年もCoolest Projects Internationalは、[Coolest Projects Online](https://coolestprojects.org/)としてオンラインでの開催となり、全世界からエントリーできます。ぜひ日本からもエントリーしましょう！
-[How to enter the Coolest Projects Online](https://coolestprojects.org/how-to-enter-coolest-projects-online/)
+今年もCoolest Projects Globalは、[Coolest Projects Online](https://coolestprojects.org/)としてオンラインでの開催となり、全世界からエントリーできます。ぜひ日本からもエントリーしましょう！
 
 エントリー方法の説明ページの日本語訳を用意しましたので参考にしてください（元ページの単純な翻訳ではありません、適宜情報を編集しています）。
 
-## Coolest Projectsとは
-Coolest ProjectsとはCoderDojoコミュニティで開催されている作品発表のイベントです。元々はアイルランドでのみ開催されていましたが、最近はアイルランド以外の国でも開催されるようになり、アイルランドで開催されるものを"Coolest Projects International"と呼ばわれるようになりました。
+## Coolest Projects Globalとは
+Coolest ProjectsはCoderDojoコミュニティで開催されている作品発表のイベントです。元々はアイルランドでのみ開催されていましたが、最近はアイルランド以外の国でも開催されるようになり、アイルランドで開催されるものを"Coolest Projects Global"と呼ばわれるようになりました。
 
-DojoCon Japan 2016で開催されました"Go Global! DojoCon Japan 2016プログラミングコンテスト"の優勝者を2017年のCoolest Projects 2017へ送り出して以降、2018,2019と毎年日本のニンジャも参加しています。残念ながら2020年以降はオンラインでの開催となってしまいましたが、その代わりにエントリーしやすくなった面もあります。
+DojoCon Japan 2016で開催されました"Go Global! DojoCon Japan 2016プログラミングコンテスト"の優勝者を2017年のCoolest Projects 2017へ送り出して以降、2018,2019と毎年日本のニンジャやメンターも参加していましたが、2020年以降はオンラインでの開催となっています。
 
-全世界に自分の作品を発表きるよい機会ですので、みんなで参加しましょう。作品の登録には英語での説明が必要ですが、英語が難しくて無理だという方もCoderDojoコミュニティでサポートしますので、サポートをお願いしたいという方はまずCoderDojo奈良（[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)）へお問い合わせください。なんとかします。
+> 昨年までは、Coolest Projects Internationalでしたが、今年からGlobalになったようです。これがダブリンで開催されるものを指すのかオンライン開催のものを指すのかはよくわかりません。
+
+### 現地開催時の様子
+こちらは2017年にダブリンで開催されたCoolest Proejctsのメイン会場の様子です、ここでトークイベントやイベントの最後には表彰式が行われます。すべてがニンジャ最優先で進められ、このメイン会場も表彰式で座ることが許されるのはニンジャのみです。表彰式ではカッコいい音楽も使われていました。
+
+![](/assets/images/coolest_projects/2017.jpg)
+
+[Coolest Projects Global 2017のGoogle Photosアルバム](https://photos.app.goo.gl/P8sUz3sYyiHdPXJJ2){:target="_blank"}
+
+### 201８年には日本からもWinnerが!
+2018年にダブリンで開催されたCoolest Projects Globalでは、Game + Web Game部門で三橋優希さんが最優秀賞を受賞しています。
+受賞の時の様子はこちらの動画で。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oi9xunKeZbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Coolest Projects Internationの参加条件
 CoderDojoに参加しているニンジャ（18歳まで）であれば、誰でも参加（作品の登録）ができます。DojoCon Japanで実施している"Go Global! DojoCon Japan プログラミングコンテスト"は、Coolest Projectsの予選ではありません。
 
 ## エントリーの流れ
-今年（2021年）からアイデア登録の期間が設けられました。
-
-2月1日〜2月28日の間に[こちらのページ](https://online.coolestprojects.org/take-part)からアイデアの登録を行うことができます。
-
-その後、3月1日〜5月3日の18:00（日本時間）までにそれぞれのプロジェクトを登録します。2月28日までのアイデア登録がなくても3月1日からのプロジェクト登録は可能とのことです（詳細確認中）。
+2月14日〜5月11日の間に[こちらのページ](https://online.coolestprojects.org/take-part)からそれぞれのプロジェクトを登録します。
 
 ### カテゴリー
 以下のいずれかのカテゴリーでエントリーできます。13歳未満の場合はエントリーフォームを大人の方に入力してもらう必要があるのでその点について注意してください。
 エントリーは以下のいずれかのカテゴリーで行います。
 
-1. Scratch
-1. Hardware（電子工作、Scratchとmicro:bitを使った作品はこっちになるかも）
-1. Moblie Apps（スマートフォンアプリ）
-1. Web（webサイト）
+[カテゴリーの説明、原文はこちらにあります](https://online.coolestprojects.org/categories){:target="_blank"}
+
+1. Scratch（[Scratch Studio](https://scratch.mit.edu/studios/26214489/){:target="_blank"}）
 1. Games（Scratch以外で作ったゲーム）
+1. Web（webサイト）
+1. Moblie Apps（スマートフォンアプリ）
+1. Hardware（電子工作、Scratchとmicro:bitを使った作品はこっちになるかも）
 1. Advanced Programming
 
 2020.05.21："Advanced Programming"について確認しました。
@@ -57,8 +67,7 @@ CoderDojoに参加しているニンジャ（18歳まで）であれば、誰で
 
 ### 注意事項
 - エントリーするニンジャが13歳未満の場合は、大人の方が代わりにアカウントを作成してエントリーしなければなりません。
-- アイデアの登録は、2月1日〜2月28日まで。
-- プロジェクトの登録開始は3月1日から___2021年5月3日の18:00（日本時間）___までです。2月にエントリーしていなくても3月のプロジェクト登録は可能です。
+- プロジェクトの登録期間は2022年2月14日〜__5月11日__までです。（2021年には時間まで記述されていましたが、今年は記述されていません。各国の時間基準で良いのかもしれませんね）
 - Scratch以外のカテゴリーでエントリーする場合は、2分以内の動画を作成して[YouTube](https://www.youtube.com/)または[Vimeo](https://vimeo.com/)にアップロードしなければなりません。これらをアップロードするには、13歳未満であれば保護者の許可が必要です（もちろん大人の方が代わりにアカウントを作ってアップロードしても構いません）。
 - すべての提出物（Scratchの作品の説明、動画など）は英語で作成する必要があります。もちろん、誰かに翻訳を手伝ってもらっても構いません。英語が母国語ではなく、翻訳をサポートしてくれる人がいない場合は、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までご連絡ください。
 - 作品は完成していなくても結構です。バグがある、思った通りに動かない、まだ作ってる途中でもエントリーできます。
@@ -110,7 +119,48 @@ CoderDojoに参加しているニンジャ（18歳まで）であれば、誰で
 ## 説明動画
 こちらにエントリー方法の説明動画（英語）がありますので、合わせてご覧ください。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdwKB2jQE80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UbbhivTjSoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## 審査
+審査の基準と発表は以下の通りです。
+
+### 審査基準
+各作品は以下の基準で審査されます（プロジェクトとは作品のことです）。
+
+[審査基準の原文はこちら](https://online.coolestprojects.org/help){:target="_blank"}
+
+- カッコよさ
+	- プロジェクトを見て「ワオ」と感じさせたか？
+	- プロジェクトのアイデアは、驚いたりエキサイトさせたか？
+	- 他の人にも勧めたくなるものか？
+	- それはオリジナルですか、それとも何らかのユニークさがあるか？
+	- クリエイターの個性が表れているか？
+- 難しさ
+	- プロジェクトにどのような作者の想いを感じたか？（プロジェクトの背後にある考え方とその実行の両方の観点から）
+	- プロジェクトを作成するために、作成者はどのようなプロセスを経たか？
+	- プロジェクトにはどのようなレベルの技術的知識があったか？
+	- 作者がこのプロジェクトを作るのはどれくらい難しいことにチャレンジしたか？
+- プレゼンテーションとコミュニケーション
+	- 作者は、プロジェクトの背景にあるアイデアと、それがどのような意味や目的があることを伝えているか？
+	- プロジェクトのビジュアルデザインをどれぐらい頑張っているか、またカッコよくできているか？
+	- 作者は、登録フォームで尋ねられた3つの質問にどれぐらいわかりやすくまた詳しく答えているか。
+
+- デザインと使いやすさ
+	- プロジェクトは意図したとおりに機能するか？
+	- プロジェクトは使いやすくできているか？
+	- 使う人は、それを使うことを楽しめるか？
+	- プロジェクトの本来の目的通りに使うのに、どれぐらい簡単にできているか？
+	
+### 審査発表
+6月中旬に発表されるそうです、昨年は優劣ではなく「各審査員のお気に入りの作品」という形でYouTubeで発表されました。
+
+現地開催時は賞品や参加賞がありましたが、オンラインになってからは無いようです。
 
 ## このページについて
 このページのソースは[こちら](https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io/blob/master/static/coolest_projects_international.md)で公開しています。内容に不備や誤りがあったり、追加すべき情報があれば是非PR(Pull Request)を送ってください。
+
+## 参照リンク
+- [Coolest Projects Global](https://coolestprojects.org/){:target="_blank"}
+- [FREQUENTLY ASKED QUESTIONS](https://online.coolestprojects.org/help){:target="_blank"}
+- [昨年の参加作品](https://online.coolestprojects.org/gallery){:target="_blank"}
