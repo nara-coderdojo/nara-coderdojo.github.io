@@ -162,5 +162,6 @@ CoderDojoに参加しているニンジャ（18歳まで）であれば、誰で
 
 ## 参照リンク
 - [Coolest Projects Global](https://coolestprojects.org/){:target="_blank"}
+- [GUIDANCE FOR MENTORS](https://online.coolestprojects.org/guidance){:target="_blank"}
 - [FREQUENTLY ASKED QUESTIONS](https://online.coolestprojects.org/help){:target="_blank"}
 - [昨年の参加作品](https://online.coolestprojects.org/gallery){:target="_blank"}
