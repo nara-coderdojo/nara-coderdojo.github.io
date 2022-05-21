@@ -89,8 +89,8 @@ analytics:
 #  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   provider               : "google-gtag"
   google:
-    tracking_id          : UA-72905904-1
-    anonymize_ip         : # true, false (default)
+    tracking_id          : G-3LDNDNY4LE
+    anonymize_ip         : false# true, false (default)
 
 
 # Site Author
