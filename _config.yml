@@ -87,10 +87,10 @@ social:
 # Analytics
 analytics:
 #  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
-  provider               : "google-gtag"
+  provider               : false #"google-gtag"
   google:
-    tracking_id          : G-3LDNDNY4LE
-    anonymize_ip         : false# true, false (default)
+    tracking_id          : #G-3LDNDNY4LE
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
