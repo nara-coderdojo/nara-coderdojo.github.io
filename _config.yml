@@ -20,7 +20,7 @@ title                    : "CoderDojo奈良・CoderDojo生駒"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "CoderDojo奈良・CoderDojo生駒"
-description              : "子どもと大人のプログラミングコミュニティ"
+description              : "子どもと大人のプログラミングクラブ"
 url                      : "https://coderdojo-nara-ikoma.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io
