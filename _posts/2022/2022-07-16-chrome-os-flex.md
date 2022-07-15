@@ -1,5 +1,5 @@
 ---
-title: Windows 7 PCにChrome OS Flexをいれてみましたtoioがやってきた
+title: Windows 7 PCにChrome OS Flexをいれてみました
 date: 2022-07-16T08:20:00+09:00
 author: kwaka1208
 layout: single
