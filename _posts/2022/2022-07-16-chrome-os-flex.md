@@ -28,7 +28,7 @@ ChromebookとはGoogleが開発したChrome OSを搭載したコンピュータ�
 
 利用にはGoogleアカウントが必要で、他のChromebookの環境やMacやWindows PCで使っているGoogle Chromeの環境が同期されるので便利です。
 
-眠っているMacやWindows PCがあれば試してみると良いかもです。
+眠っているMacやWindows PCがあれば試してみると良いかもです。インストール方法などは参考リンクをご覧ください。
 
 ## 参考リンク
 - [Chrome OS Flexヘルプ](https://support.google.com/chromeosflex#topic=11618314)
