@@ -12,7 +12,7 @@ sidebar: true
 
 Windows PCやMacをChromebookとして使えるようにする「Chrome OS Flex」が正式にリリースされました。
 
-ChromebookとはGoogleが開発したChrome OSを搭載したコンピューターで、主にブラウザ（Google Chrome）で動作するクラウドアプリケーションの利用を前提に作られたものです。今回りリースされたChrome OS Flexはそれを専用のデバイスだけではなく、Windows PCやMacでも使えるようにするもの。
+ChromebookとはGoogleが開発したChrome OSを搭載したコンピューターで、主にブラウザ（Google Chrome）で動作するクラウドアプリケーションの利用を前提に作られたものです。今回リリースされたChrome OS Flexはそれを専用のデバイスだけではなく、Windows PCやMacでも使えるようにするもの。
 
 軽量なOSなので、古いPCでも使えるのが特徴。Windows 7などMicrosoftのサポートが切れたOS搭載のPCにインストールすればまた復活させることができます。
 
