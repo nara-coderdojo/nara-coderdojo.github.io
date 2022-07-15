@@ -18,10 +18,8 @@ ChromebookとはGoogleが開発したChrome OSを搭載したコンピュータ�
 
 以前、Cygames社から提供していただいたノートPCがWindows 7だったので早速インストールしてみました。
 
-![](/assets/images/2022/chrome-os-flex1.jpg)
-![](/assets/images/2022/chrome-os-flex2.jpg)
-![](/assets/images/2022/chrome-os-flex3.jpg)
-![](/assets/images/2022/chrome-os-flex4.jpg)
+![](/assets/images/2022/chrome-os-flex1.jpg) ![](/assets/images/2022/chrome-os-flex2.jpg)
+![](/assets/images/2022/chrome-os-flex3.jpg) ![](/assets/images/2022/chrome-os-flex4.jpg)
 
 まだ、十分に使い込めてはいませんがざっと動かした感じではレスポンスもよく快適に使えていました。
 最近のOSはWi-Fiなんかもすぐに使えるので本当に便利になったなと感じます。
