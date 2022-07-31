@@ -9,7 +9,7 @@ CoderDojoの活動に関心をもってくださって、ありがとうござ�
 CoderDojoはボランティアの運営による「プログラミングクラブ」です。奈良は2014年10月、生駒は2016年5月より活動しています。  
 「プログラミングを教える」のではなく「子どもたちがつくりたいものをサポートする」活動です。したがって、決まったテーマやカリキュラム、テキストはありません。CoderDojoの活動については、こちらのスライドがとてもよくわかるので、ご覧ください。
 
-[CoderDojoガイダンス（CoderDojo小平の代表者が作った資料です）](http://www.slideshare.net/togazo/coderdojo-introduction-jp)
+[CoderDojoガイダンス（CoderDojo小平の代表者が作った資料です）](https://docs.google.com/presentation/d/1ccmwavHJS4WXdJdjB0TT7j4sWckW6W-gV7I6q-I_LVU/edit#slide=id.p)
 
 この資料の中にもでてきますが、CoderDojoでは参加する子どもたちを「忍者」、サポートする大人や学生さんを「メンター」、代表者を「チャンピオン」と呼びます。メンターとして参加していただくには、以下の理由により事前にチャンピオンとの面談が必要となっています。
 
@@ -36,8 +36,6 @@ CoderDojoはボランティアの運営による「プログラミングクラ�
 ## CoderDojo関連サイト
 
 - [CoderDojo奈良/生駒](https://coderdojo-nara-ikoma.connpass.com/)
-- [CoderDojo奈良・生駒Facebookページ](https://www.facebook.com/CoderDojoNara/)
 - [CoderDojo奈良・生駒Twitterアカウント](https://twitter.com/CoderDojonara)
-- [CoderDojo奈良・生駒のメンターさん向け公開グループ](https://www.facebook.com/groups/CoderDojoNara/)
 - [CoderDojo（アイルランド）](http://www.coderdojo.com/)
 - [CoderDojo Japan（日本で開催されているCoderDojoの一覧はこちらで見られます）](http://www.coderdojo.jp/)
