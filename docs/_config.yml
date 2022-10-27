@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "CoderDojo奈良・CoderDojo生駒"
-title_separator          : "-"
+title                    : "奈良CoderDojoコミュニティポータル"
+title_separator          : "|""
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "CoderDojo奈良・CoderDojo生駒"
-description              : "子どもと大人のプログラミングクラブ"
-url                      : "https://coderdojo-nara-ikoma.github.io"
+name                     : "奈良CoderDojoコミュニティポータル"
+description              : "奈良で活動する子どもと大人のプログラミングクラブ「CoderDojo」の総合サイトです"
+url                      : "https://nara-coderdojo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io
+repository               : https://github.com/nara-coderdojo/nara-coderdojo.github.io
 teaser                   : "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
