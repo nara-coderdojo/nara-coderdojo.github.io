@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "奈良CoderDojoコミュニティポータル"
+title                    : "奈良CoderDojoコミュニティ"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "奈良CoderDojoコミュニティポータル"
+name                     : "奈良CoderDojoコミュニティ"
 description              : "奈良で活動する子どもと大人のプログラミングクラブ「CoderDojo」の総合サイトです"
 url                      : "https://nara-coderdojo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
