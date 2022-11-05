@@ -20,21 +20,33 @@ Geo Scratchは、[Geolonia](https://geolonia.com/)という会社（日本の会
 Geo Scratchの使い方そのものはそれほど難しくはないのですが、地図を表示するために必要な緯度・経度をどうやって探したらいいだろう？というところでつまづくかもしれません。緯度・経度を調べる2つの方法を案内します。
 
 ## 緯度・経度情報の見つけ方
-### 1. Open StreetMapを使う
+
+### 1. Community Geocoderを使う
+[Community Geocoder](https://community-geocoder.geolonia.com/)とは、[Geolonia社](https://geolonia.com/)が提供する緯度経度を調べるためのツールです。
+
+[Community Geocoder](https://community-geocoder.geolonia.com/)にアクセスして、調べたい場所の住所を入力するか、地図を移動したり拡大縮小したりして目的の場所に移動します。画面の真ん中に表示された十字の位置の緯度経度がその下の欄に表示されます。
+
+同じく、奈良の東大寺大仏殿を表示してみました。
+
+![Community Geocoder](/assets/images/2022/community-geocoder.png)
+
+この画面で表示された情報によると、東大寺大仏殿の緯度は34.689173度、経度は135.839886度であることがわかります。
+
+### 2. Open StreetMapを使う
 [Open StreetMap](https://www.openstreetmap.org/)とは、有志で作成された誰でも使うことができる地図サービスです。Geo Scratchを開発した[Geolonia](https://geolonia.com/)の地図でもOpen StreetMapを活用しています。
 
 [Open StreetMap](https://www.openstreetmap.org/)にアクセスして、地図を移動したり拡大縮小したりして目的の場所に移動します。
 
 目的の場所が見つかったら、調べたい場所で右クリックして表示されたメニューから「アドレスを表示」を選びます。すると以下の表示になります。
 
-こちらは、奈良の東大寺大仏殿の緯度経度を表示した状態の画面です。
+同じく、奈良の東大寺大仏殿を表示してみました。
 
 ![Open StreetMap](/assets/images/2022/OpenStreetMap.png)
 
-左上に表示されている数字が緯度経度です。
-この画面で表示された情報によると、東大寺大仏殿の緯度は34.68903度、経度は135.83987度であることがわかります。
+左に表示されている数字が緯度経度です。
+この画面で表示された情報によると、東大寺大仏殿の緯度は34.68904度、経度は135.83991度であることがわかります。
 
-### 2. 緯度経度地図を使う
+### 3. 緯度経度地図を使う
 任意の場所の緯度経度を調べられる[緯度経度地図](https://fukuno.jig.jp/app/map/latlng/)というのがあります。
 
 [緯度経度地図](https://fukuno.jig.jp/app/map/latlng/)にアクセスして、地図を移動したり拡大縮小したりして目的の場所に移動します。画面の真ん中に表示された十字の位置の緯度経度がその下の欄に表示されます。
