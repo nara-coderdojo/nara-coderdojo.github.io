@@ -45,16 +45,16 @@ CoderDojoで子どもたちをサポートする大人を「メンター」と�
 
 ### CoderDojo奈良
 ![](/assets/images/icon/NARA_black_white.png)
-- 場所：〒630-8115 奈良県奈良市大宮町３丁目５−４１<br>ぷろぼの福祉ビル 5F会議室（[Google Maps](https://goo.gl/maps/6o8AhhvTSzvU7APi7)）
+- 場所：〒630-8115 奈良県奈良市大宮町３丁目５−４１ ぷろぼの福祉ビル 5F会議室（[Google Maps](https://goo.gl/maps/6o8AhhvTSzvU7APi7)）
 - 開催日：毎月第三土曜日（月によって変わる場合があります）
 
 ### CoderDojo生駒
 ![](/assets/images/icon/IKOMA_green.png)
-- 場所：〒630-0257 奈良県生駒市元町１丁目７−６<br>生駒市 市民活動推進センター ららポート（[Google Maps](https://goo.gl/maps/6SxZnQfwDqD6YhH19)）
+- 場所：〒630-0257 奈良県生駒市元町１丁目７−６ 生駒市 市民活動推進センター ららポート（[Google Maps](https://goo.gl/maps/6SxZnQfwDqD6YhH19)）
 - 開催日：毎月第一土曜日（月によって変わる場合があります）
 
 ### CoderDojo平群
-- 場所：〒636-0914 奈良県生駒郡平群町西宮1-10-5<br>西宮公民館（[Google Maps](https://goo.gl/maps/9TKYdTLaxtKgNv9p9)）
+- 場所：〒636-0914 奈良県生駒郡平群町西宮1-10-5 西宮公民館（[Google Maps](https://goo.gl/maps/9TKYdTLaxtKgNv9p9)）
 - 開催日：不定期（随時案内します）
 
 
