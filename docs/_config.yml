@@ -6,7 +6,7 @@ keywords      : "CoderDojo, 奈良, 生駒, 平群, プログラミング"
 url           : https://nara-coderdojo.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/OGP/default.png" # image uri like logo/cover image for site seo
-locale        : "ja-JP"
+locale        : "ja_JP"
 
 google_analytics  : # UA-XXXXX-XX
 twitter_username  : "NaraCoderDojo"
