@@ -10,7 +10,7 @@ locale        : "ja_JP"
 
 google_analytics  : # UA-XXXXX-XX
 twitter_username  : "@NaraCoderDojo"
-twitter_domain    : "github.io"
+twitter_domain    : "nara-coderdojo.github.io"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
 postshare_enabled : false
