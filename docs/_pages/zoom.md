@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title:  "オンライン会議ツールzoomについて"
 permalink: /zoom/
 ---

@@ -1,10 +1,6 @@
 ---
-layout: single
+layout: page
 permalink: /
-header:
-  overlay_color: "#00f"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/cover.jpg
 title: "Home"
 excerpt: "子どもと大人のためのプログラミングクラブ"
 ---
@@ -13,7 +9,6 @@ CoderDojoは2011年にアイルランドで始まった世界的な活動で、�
 
 プログラミング教室ではありませんので、私たちが課題を与えるようなことはなく、それぞれが自由にプログラミングを楽しむ中で仲間を見つけたり、新しい知識や経験を得るための場です。
 
-{% include feature_row id="detail" type="center" %}
 ## CoderDojoで子どもたち（ニンジャ）ができること
 CoderDojoに参加する子どもたちのことを「ニンジャ」といいます。ニンジャたちがCoderDojoでできることはたくさんありますが、その中の3つをご紹介します。
 

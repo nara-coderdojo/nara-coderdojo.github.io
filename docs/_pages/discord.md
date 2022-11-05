@@ -1,6 +1,6 @@
 ---
 title: CoderDojo奈良・生駒Discordについて
-layout: single
+layout: page
 permalink: /discord/
 ---
 CoderDojo奈良・生駒では、ニンジャとメンター、保護者相互の交流のために[Discord](https://discord.com/){:target="_blank"}のサーバーを運用しています。

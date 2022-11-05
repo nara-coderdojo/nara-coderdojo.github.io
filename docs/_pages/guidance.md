@@ -1,6 +1,6 @@
 ---
 title:  メンター参加希望・見学希望者向けガイダンス
-layout: single
+layout: page
 permalink: /guidance/
 ---
 CoderDojoの活動に関心をもってくださって、ありがとうございます。

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title:  "Coolest Projects Globalについて"
 permalink: /coolest_projects_international/
 ---

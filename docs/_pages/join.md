@@ -1,6 +1,6 @@
 ---
 title: 参加する
-layout: single
+layout: page
 permalink: /join/
 ---		
 CoderDojoへの参加に関心を持ってくださり、ありがとうございます。ご参加いただく前に、今一度私たちの活動について説明させてください。

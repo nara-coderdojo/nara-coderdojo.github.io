@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title:  "プログラミングコンテストリンク集"
 permalink: /contest/
 ---
