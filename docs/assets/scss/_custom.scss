@@ -1,0 +1,15 @@
+body {
+    line-height: 1.2em;
+}
+
+h2 {
+    margin-bottom: 15px;
+    &:first-child {
+        margin-top: 0px;
+    }
+    &:not(:first-child) {
+        margin-top: 60px;
+    }
+}
+
+
