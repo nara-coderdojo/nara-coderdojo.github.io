@@ -2,7 +2,7 @@
 title: 「CoderDojoオンライン交流会についてのアンケート」結果
 date: 2021-07-17T14:00:00+09:00
 author: kwaka1208
-layout: single
+layout: page
 permalink: /blog/questionnaire_for_guardian/
 categories:
   - blog

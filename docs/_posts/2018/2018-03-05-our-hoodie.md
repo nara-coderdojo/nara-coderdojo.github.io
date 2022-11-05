@@ -2,7 +2,7 @@
 title: Our hoodie
 date: 2018-03-05T23:45:00+09:00
 author: kwaka1208
-layout: single
+layout: page
 permalink: /blog/our-hoodie/
 categories:
   - blog
@@ -16,7 +16,7 @@ We made front design to share with another Dojo.  And you can design by yourself
 
 We will share this design data as below, if you like this front design and will adopt it, we are very happy.
 
-[Adobe Illustrator file](http://coderdojo-nara-ikoma.github.io/sharedate/CoderDojo-naraikoma-hoodie.ai)
+[Adobe Illustrator file](/assets/etc/CoderDojo-naraikoma-hoodie.ai)
 
 ![layout](/images/2018/hoodie05.png)
 

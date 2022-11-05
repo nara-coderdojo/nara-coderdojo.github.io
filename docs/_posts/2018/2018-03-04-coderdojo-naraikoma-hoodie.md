@@ -2,7 +2,7 @@
 title: CoderDojo奈良・CoderDojo生駒のオリジナルパーカーを作りました。
 date: 2018-03-04T15:45:00+09:00
 author: fumika-s
-layout: single
+layout: page
 permalink: /blog/hoodie/
 categories:
   - blog
@@ -173,7 +173,7 @@ CoderDojoの活動は誰もその継続性を保証できないけれど、そ�
 ## パーカーのデータを共有します
 以下のリンクよりイラストレーターのデータがダウンロードできます。
 
-[パーカーのaiデータ](http://coderdojo-nara-ikoma.github.io/sharedate/CoderDojo-naraikoma-hoodie.ai)
+[パーカーのaiデータ](/assets/etc/CoderDojo-naraikoma-hoodie.ai)
 
 aiデータの一番上のレイヤーは、デザインデータ配置用の指示書になっています。
 参考のために残していますが、入稿時には削除してください。  

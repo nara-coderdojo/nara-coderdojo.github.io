@@ -2,7 +2,7 @@
 title: より多くの選択肢を
 date: 2016-02-14T06:07:56+09:00
 author: kwaka1208
-layout: single
+layout: page
 permalink: /blog/more-choises/
 image: /wp-content/uploads/2016/02/P2130626.jpg
 categories:
@@ -26,8 +26,8 @@ Dojo終了後には、初参加の中学生忍者が「Scratchはあまり興味
 
 このところ、Webや言語プログラミングに関心を持つ忍者が増えてきているので、これらの選択肢も増やせるようにメンターもスキルアップしていかないとなと思うDojoでした。
 
-<img src="/images/2016/02/P2130619.jpg" alt="14th Dojo in Nara" width="500" height="333"/>
+<img src="/assets/images/2016/02/P2130619.jpg" alt="14th Dojo in Nara" width="500" height="333"/>
 
-<img src="/images/2016/02/P2130626.jpg" alt="発表タイム" width="500" height="333"/>
+<img src="/assets/images/2016/02/P2130626.jpg" alt="発表タイム" width="500" height="333"/>
 
-<img src="/images/2016/02/P2130642.jpg" alt="Ruby" width="500" height="333"/>
+<img src="/assets/images/2016/02/P2130642.jpg" alt="Ruby" width="500" height="333"/>

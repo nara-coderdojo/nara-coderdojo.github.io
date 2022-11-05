@@ -2,7 +2,7 @@
 title: Progate for Schoolでプログラミングを学ぼう
 date: 2017-07-13T23:30:00+09:00
 author: kwaka1208
-layout: single
+layout: page
 permalink: /blog/progate_for_school/
 categories:
   - blog
