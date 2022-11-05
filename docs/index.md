@@ -4,7 +4,7 @@ permalink: /
 title: "Home"
 excerpt: "子どもと大人のためのプログラミングクラブ"
 ---
-![奈良CoderDojoコミュニティ](/assets/images/OGP/default.png)
+![奈良CoderDojoコミュニティ](/assets/images/OGP/default_.png)
 ## CoderDojoとは
 CoderDojoは2011年にアイルランドで始まった世界的な活動で、私たちは「子どもと大人のためのプログラミングクラブ」です。
 
