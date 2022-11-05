@@ -6,14 +6,16 @@ layout: page
 permalink: /blog/how-to-use-geo-scratch/
 categories:
   - blog
-sidebar: true
+author: kwaka1208
 ---
+こんにちは、CoderDojo奈良の若林です。
+
 みなさん、[Stretch3](https://stretch3.github.io/)使ってますか？
 
 Stretch3はScratch3.0をベースに人工知能などの多くの独自拡張機能が入った超拡張版Scratchです。この記事では、Stretch3に追加された地図を表示する拡張機能「Geo Scratch」の使い方を解説しています。
 
 ## Geo Scratch
-Geo Scratchは、[Geolonia](https://geolonia.com/)という会社（日本の会社です）が提供している地図サービスを使った機能拡張で、Stretch3の背景に地図を表示できます。表示した地図は拡大縮小や動かすこともできるので、地図を使った作品を作れるという今までになかった拡張機能です。
+Geo Scratchは、[Geolonia](https://geolonia.com/)という会社（日本の会社です）が提供している地図サービスを使った拡張機能で、Stretch3の背景に地図を表示できます。表示した地図は拡大縮小や動かすこともできるので、地図を使った作品を作れるという今までになかった拡張機能です。
 
 ![Geo Scratch](/assets/images/2022/geo-scratch.png)
 
