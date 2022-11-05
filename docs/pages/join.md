@@ -17,7 +17,7 @@ CoderDojoにおける唯一のルールは"Be Cool!（カッコよくあれ！�
 ## ニンジャとして参加したい
 CoderDojoでは、参加する子供たちのことを"ニンジャ"と呼んでいます。
 
-奈良、生駒でそれぞれ月一回のペースでDojoを開いており、各回の開催案内や参加申し込みについては、[connpass](https://coderdojo-nara-ikoma.connpass.com/){:target="_blank"}というサービスを利用して受け付けています。こちらに登録していただきますと、開催ごとに案内がメールで送られますので、登録して開催の案内が届くのをお待ちください。
+奈良、生駒でそれぞれ月一回のペースでDojoを開いており、各回の開催案内や参加申し込みについては、[connpass](https://coderdojo-nara-ikoma.connpass.com/)というサービスを利用して受け付けています。こちらに登録していただきますと、開催ごとに案内がメールで送られますので、登録して開催の案内が届くのをお待ちください。
 
 なお、迷惑メールブロックを利用されている方は"@connpass.com"からのメールを受信可能なように設定をお願いします。
 
@@ -26,7 +26,7 @@ CoderDojoでは、参加する子供たちのことを"ニンジャ"と呼んで
 
 もし、プログラミングに関してわからないことがあっても、現役のエンジニアのメンターさんもいらっしゃいますので、他のメンターさんにフォローしてもらえます。
 
-メンターとしての参加を希望していただける方は、[ガイダンス](/guidance/){:target="_blank"}をお読みいただいた上で、[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe-jYF2vMdsfK-8EU_VHB3WiHUjU5Edytf90g8h8avQFuuTsg/viewform){:target="_blank"}よりご連絡をお願いします。
+メンターとしての参加を希望していただける方は、[ガイダンス](/guidance/)をお読みいただいた上で、[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe-jYF2vMdsfK-8EU_VHB3WiHUjU5Edytf90g8h8avQFuuTsg/viewform)よりご連絡をお願いします。
 
 みなさまのご参加をお待ちしています。
 

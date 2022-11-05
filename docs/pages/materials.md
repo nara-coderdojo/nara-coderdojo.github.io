@@ -5,23 +5,23 @@ permalink: /materials/
 ---
 こちらのページでは、プログラミングやweb制作で使えるツールや素材のサイトを紹介しています。
 
-- [Scratch](http://scratch.mit.edu){:target="_blank"}
-- [ピョンキー（iPad版）](https://itunes.apple.com/jp/app/pyonki/id905012686?mt=8){:target="_blank"}
-- [Scratch Jr.（iPad版）](https://itunes.apple.com/us/app/scratchjr/id895485086?ls=1&amp;mt=8){:target="_blank"}
-- [google blockly](http://code.google.com/p/blockly/){:target="_blank"}
--	[Blockly迷路](https://blockly-games.appspot.com/maze?lang=ja){:target="_blank"}
-- [code combat(JavaScriptで主人公を動かすプログラムを書いてミッションをクリアする)](http://codecombat.com){:target="_blank"}
+- [Scratch](http://scratch.mit.edu)
+- [ピョンキー（iPad版）](https://itunes.apple.com/jp/app/pyonki/id905012686?mt=8)
+- [Scratch Jr.（iPad版）](https://itunes.apple.com/us/app/scratchjr/id895485086?ls=1&amp;mt=8)
+- [google blockly](http://code.google.com/p/blockly/)
+-	[Blockly迷路](https://blockly-games.appspot.com/maze?lang=ja)
+- [code combat(JavaScriptで主人公を動かすプログラムを書いてミッションをクリアする)](http://codecombat.com)
 
 ## プログラミングデバイス
-- [micro:bit](https://microbit.org){:target="_blank"}
-- [IchigoJam](http://ichigojam.net/){:target="_blank"}
-- [Arduino](http://www.arduino.cc/){:target="_blank"}
-    - [Let's Make With Arduino!](http://lets.makewitharduino.com/){:target="_blank"}
+- [micro:bit](https://microbit.org)
+- [IchigoJam](http://ichigojam.net/)
+- [Arduino](http://www.arduino.cc/)
+    - [Let's Make With Arduino!](http://lets.makewitharduino.com/)
 
 ## エディタ
-- [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/){:target="_blank"}
-- [Atom](https://atom.io/){:target="_blank"}
-- [Sublime Text](https://www.sublimetext.com/){:target="_blank"}
+- [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+- [Atom](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/)
 
 ## 素材集
 通常、画像や音楽、映像など作った人（著作者）の許可無しに自分の作品で利用することはできません。  
@@ -32,11 +32,11 @@ permalink: /materials/
 データの利用にあたっては、それぞれのサイトごとに「きまり」がありますので、必ず各サイトの「きまり」を読んで、それらに沿った使い方をしましょう。また、データを使った作品を公開する際は、「このサイトのデータを使っています」という一言を添えるとなお良いでしょう。
 
 ### 画像素材
-- [project-ninja](https://github.com/spicagraph/project-ninja) {:target="_blank"}
+- [project-ninja](https://github.com/spicagraph/project-ninja) 
 
 ### 音楽素材
-- [効果音ラボ](http://soundeffect-lab.info/){:target="_blank"}
-- [魔王魂](http://maoudamashii.jokersounds.com/){:target="_blank"}
+- [効果音ラボ](http://soundeffect-lab.info/)
+- [魔王魂](http://maoudamashii.jokersounds.com/)
 
 ## プログラミング学習
 プログラミングを学ぶ際に、便利なサイトやアプリをご紹介します。  

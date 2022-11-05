@@ -19,7 +19,7 @@ DojoCon Japan 2016で開催されました"Go Global! DojoCon Japan 2016プロ�
 
 ![](/assets/images/coolest_projects/2017.jpg)
 
-[Coolest Projects Global 2017のGoogle Photosアルバム](https://photos.app.goo.gl/P8sUz3sYyiHdPXJJ2){:target="_blank"}
+[Coolest Projects Global 2017のGoogle Photosアルバム](https://photos.app.goo.gl/P8sUz3sYyiHdPXJJ2)
 
 ### 201８年には日本からもWinnerが!
 2018年にダブリンで開催されたCoolest Projects Globalでは、Game + Web Game部門で三橋優希さんが最優秀賞を受賞しています。
@@ -37,9 +37,9 @@ CoderDojoに参加しているニンジャ（18歳まで）であれば、誰で
 以下のいずれかのカテゴリーでエントリーできます。13歳未満の場合はエントリーフォームを大人の方に入力してもらう必要があるのでその点について注意してください。
 エントリーは以下のいずれかのカテゴリーで行います。
 
-[カテゴリーの説明、原文はこちらにあります](https://online.coolestprojects.org/categories){:target="_blank"}
+[カテゴリーの説明、原文はこちらにあります](https://online.coolestprojects.org/categories)
 
-1. Scratch（[Scratch Studio](https://scratch.mit.edu/studios/26214489/){:target="_blank"}）
+1. Scratch（[Scratch Studio](https://scratch.mit.edu/studios/26214489/)）
 1. Games（Scratch以外で作ったゲーム）
 1. Web（webサイト）
 1. Moblie Apps（スマートフォンアプリ）
@@ -128,7 +128,7 @@ CoderDojoに参加しているニンジャ（18歳まで）であれば、誰で
 ### 審査基準
 各作品は以下の基準で審査されます（プロジェクトとは作品のことです）。
 
-[審査基準の原文はこちら](https://online.coolestprojects.org/help){:target="_blank"}
+[審査基準の原文はこちら](https://online.coolestprojects.org/help)
 
 - カッコよさ
 	- プロジェクトを見て「ワオ」と感じさせたか？
@@ -161,7 +161,7 @@ CoderDojoに参加しているニンジャ（18歳まで）であれば、誰で
 このページのソースは[こちら](https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io/blob/master/static/coolest_projects_international.md)で公開しています。内容に不備や誤りがあったり、追加すべき情報があれば是非PR(Pull Request)を送ってください。
 
 ## 参照リンク
-- [Coolest Projects Global](https://coolestprojects.org/){:target="_blank"}
-- [GUIDANCE FOR MENTORS](https://online.coolestprojects.org/guidance){:target="_blank"}
-- [FREQUENTLY ASKED QUESTIONS](https://online.coolestprojects.org/help){:target="_blank"}
-- [昨年の参加作品](https://online.coolestprojects.org/gallery){:target="_blank"}
+- [Coolest Projects Global](https://coolestprojects.org/)
+- [GUIDANCE FOR MENTORS](https://online.coolestprojects.org/guidance)
+- [FREQUENTLY ASKED QUESTIONS](https://online.coolestprojects.org/help)
+- [昨年の参加作品](https://online.coolestprojects.org/gallery)
