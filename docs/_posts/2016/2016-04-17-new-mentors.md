@@ -21,16 +21,16 @@ categories:
 忍者たちも毎回楽しみにしてくれているようで、「こんにちは〜」と大きな声で来てくれると本当にDojoやっててよかったな〜って思います。
 
 ニコニコ楽しみながら猫逃げをつくってくれたルーキー忍者
-<img src="/images/2016/04/IMG_8523.jpg" alt="ニコニコ楽しみながら猫逃げをつくってくれたルーキー忍者" width="500" height="500"/>
+<img src="/assets/images/2016/04/IMG_8523.jpg" alt="ニコニコ楽しみながら猫逃げをつくってくれたルーキー忍者" width="500" height="500"/>
 
 学生メンターさんと一緒にC#にチャレンジする忍者
-<img src="/images/2016/04/IMG_8524.jpg" alt="学生メンターさんと一緒にC#にチャレンジする忍者" width="500" height="500"/>
+<img src="/assets/images/2016/04/IMG_8524.jpg" alt="学生メンターさんと一緒にC#にチャレンジする忍者" width="500" height="500"/>
 
 女の子忍者の作品はビジュアルに凝ってます
-<img src="/images/2016/04/IMG_8570.jpg" alt="女の子忍者の作品はビジュアルに凝ってます" width="500" height="375" class="alignnone size-full wp-image-520" />
+<img src="/assets/images/2016/04/IMG_8570.jpg" alt="女の子忍者の作品はビジュアルに凝ってます" width="500" height="375" class="alignnone size-full wp-image-520" />
 
 kinectを使ったモーションキャプチャーでビームを出しました
-<img src="/images/2016/04/IMG_8575.jpg" alt="kinectを使ったモーションキャプチャーでビームを出しました" width="500" height="375" class="alignnone size-full wp-image-521" />
+<img src="/assets/images/2016/04/IMG_8575.jpg" alt="kinectを使ったモーションキャプチャーでビームを出しました" width="500" height="375" class="alignnone size-full wp-image-521" />
 
 また、来月会おう！
-<img src="/images/2016/04/IMG_3636.jpg" alt="また、来月会おう！" width="500" height="375" class="alignnone size-full wp-image-522" />
+<img src="/assets/images/2016/04/IMG_3636.jpg" alt="また、来月会おう！" width="500" height="375" class="alignnone size-full wp-image-522" />

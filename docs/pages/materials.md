@@ -1,7 +1,7 @@
 ---
 title: 道具と素材
 layout: page
-permalink: /materials/index.html
+permalink: /materials/
 ---
 こちらのページでは、プログラミングやweb制作で使えるツールや素材のサイトを紹介しています。
 
