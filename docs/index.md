@@ -5,7 +5,7 @@ header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
   overlay_image: /assets/images/cover.jpg
-title: "CoderDojo奈良・CoderDojo生駒"
+title: "Home"
 excerpt: "子どもと大人のためのプログラミングクラブ"
 ---
 ## CoderDojoとは
