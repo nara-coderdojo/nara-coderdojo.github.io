@@ -2,7 +2,7 @@
 title: ローカルネットワークを手軽につくる
 date: 2017-09-16T23:30:00+09:00
 author: kwaka1208
-layout: page
+layout: post
 permalink: /blog/how-create-local-netowrk/
 categories:
   - blog

@@ -2,7 +2,7 @@
 title: ユースメンター"Youth Mentor"制度を導入します
 date: 2018-01-27T01:05:00+09:00
 author: kwaka1208
-layout: page
+layout: post
 permalink: /blog/youth-mentor/
 categories:
   - blog

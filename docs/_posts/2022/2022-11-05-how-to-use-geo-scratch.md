@@ -2,7 +2,7 @@
 title: Stretch3（独自拡張版Scratch）で地図を使おう
 date: 2022-11-05T08:30:00+09:00
 author: kwaka1208
-layout: page
+layout: post
 permalink: /blog/how-to-use-geo-scratch/
 categories:
   - blog

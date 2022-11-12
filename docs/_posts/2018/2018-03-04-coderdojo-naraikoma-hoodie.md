@@ -2,7 +2,7 @@
 title: CoderDojo奈良・CoderDojo生駒のオリジナルパーカーを作りました。
 date: 2018-03-04T15:45:00+09:00
 author: fumika-s
-layout: page
+layout: post
 permalink: /blog/hoodie/
 categories:
   - blog
