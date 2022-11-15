@@ -109,6 +109,8 @@ CoderDojoに通うようになったのは2020年夏のからです。次男（�
 
 そんなバタバタした中、2022年11月12日（土）13：00～16：00に第1回目のCoderDojo平群を開催しました。
 
+![第1回CoderDojo平群](/assets/images/2022/CoderDojo-Heguri-start-up-story.webp)
+
 第1回CoderDojo平群
 ニンジャ５名（小２(Minecraft)、小６(Minecraft)、中１(Scratch)、中3(Scratch)、高３(JavaScript)）
 保護者１名、メンター６名、見学１名、チャンピオン１名、
