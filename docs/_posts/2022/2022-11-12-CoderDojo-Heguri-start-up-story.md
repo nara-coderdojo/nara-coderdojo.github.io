@@ -2,11 +2,10 @@
 title: CoderDojo平群（へぐり）立ち上げました！
 date: 2022-11-15
 author: chikako2020
-layout: page
+layout: post
 permalink: /blog/CoderDojo-Heguri-start-up-story/
 categories:
   - blog
-author: chikako2020
 ---
 こんにちは！このたび奈良県の平群（へぐり）町で、子どもと大人のためのプログラミングクラブ「CoderDojo平群」を立ち上げたchikako2020です。
 
