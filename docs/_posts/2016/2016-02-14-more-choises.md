@@ -2,7 +2,7 @@
 title: より多くの選択肢を
 date: 2016-02-14T06:07:56+09:00
 author: kwaka1208
-layout: page
+layout: post
 permalink: /blog/more-choises/
 image: /wp-content/uploads/2016/02/P2130626.jpg
 categories:

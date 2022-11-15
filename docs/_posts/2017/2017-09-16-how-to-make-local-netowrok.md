@@ -2,7 +2,7 @@
 title: ローカルネットワークを手軽につくる
 date: 2017-09-16T23:30:00+09:00
 author: kwaka1208
-layout: page
+layout: post
 permalink: /blog/how-create-local-netowrk/
 categories:
   - blog
@@ -21,7 +21,7 @@ categories:
 
 これらの状況に対応するため、Wi-Fiルータをもうひとつ用意してローカルネットワークを構築しようと考えたのですが、大きなルータをDojoごとに持ち歩きたくないので小さなものは無いか？と探して見つけたのが、こちらでした。
 
-[![](/assets/2017/wmr-433.jpg)](http://buffalo.jp/product/wireless-lan/ap/wmr-433w/)
+[![](/assets/images/2017/wmr-433.jpg)](http://buffalo.jp/product/wireless-lan/ap/wmr-433w/)
 
 出先とかホテルなど有線LANしかないところで、自前のWi-Fi環境を作るための持ち運びできるWi-Fiルータです。写真では大きさがわかりにくいかもしれませんが（詳しくはリンク先をみてください）、シャツの胸ポケットにも入れられる大きさと軽さなので、Dojoの荷物の負担になりません（当Dojo比）。
 

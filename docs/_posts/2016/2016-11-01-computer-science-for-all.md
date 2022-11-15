@@ -2,7 +2,7 @@
 title: Computer Science for ALLに掲載されました
 date: 2016-11-01T23:30:00+09:00
 author: kwaka1208
-layout: page
+layout: post
 permalink: /blog/computer-science-for-all/
 categories:
   - blog

@@ -2,7 +2,7 @@
 title: Windows 7 PCにChrome OS Flexをいれてみました
 date: 2022-07-16T08:20:00+09:00
 author: kwaka1208
-layout: page
+layout: post
 permalink: /blog/chrome-os-flex/
 categories:
   - blog
