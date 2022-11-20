@@ -7,13 +7,6 @@ permalink: /blog/minecraft-for-all-1
 categories:
   - blog
 ---
-# プルリクにあたっての備考
-以下の項目は、不十分だと思いますので、わかりましたら補足お願いします。 > わかさん
-- 作品駐車場に関してコメントがあれば追加してください。
-- 手持ちの写真がなかったので、一枚しか入っていません。
-  - 画像保存場所に https://gyazo.com/ を使ってますが、github側で持った方がいいでしょうか?
-
-
 # 第一回みんなでマインクラフトの会開催!!
 [CoderDojo奈良コミュニティー](https://nara-coderdojo.github.io/)では、[マインクラフトカップカップ2022](https://minecraftcup.com/)への応募をしようと作業していました。
 残念ながら、[マインクラフトカップ2022について](https://nara-coderdojo.github.io/blog/minecraft-cup-2022/)の経緯のように応募はできませんでした。
