@@ -3,7 +3,6 @@ layout: page
 title:  "プログラミングコンテストリンク集"
 permalink: /contest/
 ---
-
 こちらのページでは、プログラミングコンテストの関連情報をまとめています。他にもこんなコンテストがあるよという情報があれば、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までお知らせいただけると助かります。
 
 ## 随時受付中
