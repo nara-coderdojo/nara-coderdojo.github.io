@@ -1,7 +1,7 @@
 ---
-title: CoderDojoに参加されているみなさんへ
+title: CoderDojo参加者が利用できるもの
 layout: page
-permalink: /for_all/
+permalink: /what-we-can-use/
 sitemap: false
 ---
 ニンジャと保護者のみなさんにお伝えすることをこのページにまとめていますので、ご一読をお願いします。
