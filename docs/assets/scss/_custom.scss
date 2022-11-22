@@ -5,7 +5,7 @@ $link-color: #4072B3;
 $h2-bg-color: gray;
 $h2-font-color: $body-color;
 $h3-bg-color: gray;
-$h3-font-color: $body-color;
+$h3-font-color: gray;
 $h4-bg-color: gray;
 $h4-font-color: $body-color;
 
@@ -27,7 +27,6 @@ h1 {
 h2, h3, h4 {
     padding: 10px 10px;
     margin-top: 30px;
-    border-radius: 8px;
 }
 
 h2 {
@@ -35,6 +34,7 @@ h2 {
     color: $h2-font-color;
     background: $h2-bg-color;
     margin-bottom: 15px;
+    border-radius: 8px;
     &:first-child {
         margin-top: 0px;
     }
@@ -45,14 +45,15 @@ h2 {
 
 h3 {
     font-size: 1.2em;
-    color: $h3-font-color;
-    background: $h3-bg-color;
+    color: $font-color;
+    border-bottom: 3px solid $h3-bg-color;
+    // background: $h3-bg-color;
 }
 
 h4 {
-    font-size: 0.8em;
-    color: $h4-font-color;
-    background: $h4-bg-color;
+    font-size: 1em;
+    color: $font-color;
+    border-bottom: 1px solid $h4-bg-color;
 }
 
 .highlight pre code {
