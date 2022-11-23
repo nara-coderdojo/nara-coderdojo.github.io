@@ -1,5 +1,5 @@
 ---
-title: CoderDojo Nara vol.66
+title: CoderDojo Nara No.66
 date: 2022-11-20
 author: 610t
 layout: post
@@ -7,8 +7,8 @@ permalink: /blog/CoderDojoNara_20221119
 categories:
   - blog
 ---
-# CoderDojo奈良 No66開催!!
-CoderDojo奈良では、2022/11/19 13:00-16:00の日程で、[CoderDojo奈良 No66](https://coderdojo-nara-ikoma.connpass.com/event/266742/)を開催しました。
+# CoderDojo奈良 No.66開催!!
+CoderDojo奈良では、2022/11/19 13:00-16:00の日程で、[CoderDojo奈良 No.66](https://coderdojo-nara-ikoma.connpass.com/event/266742/)を開催しました。
 会場は、いつもの[ぷろぼの](https://probono.vport.org/)福祉ビル 5F会議室です。
 
 参加者は、ニンジャ5名、チャンピオン、メンター1名、おとな4名でした。
@@ -48,7 +48,7 @@ CoderDojo奈良では、いつも発表が多いのですが、今回もほと�
   - トロッコが空高く発射される装置
 - 小3 Scratch
   - セキュリハウスから宝を盗むゲーム
-  - 本屋の一日 (買い物, 在庫管理, 掃除, クレーム処理)
+  - [本屋の一日 (買い物, 在庫管理, 掃除, クレーム処理)](https://scratch.mit.edu/projects/746292379/)
 - 小4 Scratch
   - 横画面の猫が冒険するゲーム
   - 横画面の猫が敵から逃げ続けるゲーム
@@ -64,7 +64,7 @@ CoderDojo奈良では、いつも発表が多いのですが、今回もほと�
 今回発表しなかった小1の子も、次回はmicro:Maqueenで発表すると意欲満々でした。
 
 ## おわりに
-CoderDojo奈良 No66も楽しく開催されました。
+CoderDojo奈良 No.66も楽しく開催されました。
 
 [奈良CoderDojoコミュニティ](https://nara-coderdojo.github.io/)も、今月から平群([CoderDojo平群（へぐり）立ち上げました！](https://nara-coderdojo.github.io/blog/CoderDojo-Heguri-start-up-story/))を加えて3つに増え、楽しみがますます増えてきました。
 
