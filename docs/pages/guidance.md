@@ -20,7 +20,7 @@ CoderDojoはボランティアの運営による「プログラミングクラ�
 
 こちらのリンク先に、メンターとして理解し賛同していただきたいことをまとめていますので、こちらの内容をあらかじめご確認ください。不明な点があれば、面談の際にお問い合わせください。
 
-[メンター同意書](https://github.com/coderdojo-nara-ikoma/document/blob/master/MentorAgreement.md)
+[メンター同意書](https://github.com/nara-coderdojo/document/blob/master/MentorAgreement.md)
 
 面談の中では、以下の点についてお話させていただきたいと思います。
 
