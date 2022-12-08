@@ -8,7 +8,8 @@ categories:
   - blog
 ---
 こんにちは、CoderDojo奈良の若林です。
-この記事は、[CoderDojoアドベントカレンダー](https://adventar.org/calendars/7381)8日目の記事です。
+この記事は、[CoderDojo Advent Calendar 2022](https://adventar.org/calendars/7381)の12月8日の記事です。12月8日は私の誕生日でもあります（この記事で一番の無駄情報）。
+
 先月開催された[DojoCon Japan 2022](https://dojocon2022.coderdojo.jp/)の[交流会LT](https://dojocon2022.coderdojo.jp/info/lt/)で、こんなお話をしました。
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c2dce2cde8ad4825916d975fdcf74441" title="Why CoderDojo? @ DojoCon Japan 2022交流会LT" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 315px;" data-ratio="1.7777777777777777"></iframe>
