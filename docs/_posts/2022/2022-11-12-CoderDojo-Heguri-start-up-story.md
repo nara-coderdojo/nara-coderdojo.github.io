@@ -1,6 +1,6 @@
 ---
 title: CoderDojo平群（へぐり）立ち上げました！
-date: 2022-11-15
+date: 2022-11-15T12:00:00+09:00
 author: chikako2020
 layout: post
 permalink: /blog/CoderDojo-Heguri-start-up-story/
