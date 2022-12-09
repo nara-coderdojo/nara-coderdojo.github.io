@@ -1,6 +1,6 @@
 ---
 title: CoderDojo Nara No.66
-date: 2022-11-20
+date: 2022-11-20T12:00:00+09:00
 author: 610t
 layout: post
 permalink: /blog/CoderDojoNara_20221119
