@@ -17,10 +17,6 @@ categories:
 どうも、ダブルブッキングになっていたようです。
 一瞬ヒヤリとしましたが、無事CoderDojoの方で使えることになりました。
 
-以下のtwitterの写真は、会場の写真で、今回参加したメンター全員が写っています。
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">第2回目CoderDojo平群始まります😄 <a href="https://t.co/nsrffICDwL">pic.twitter.com/nsrffICDwL</a></p>&mdash; chikako2020@学校司書×プログラミング×法螺貝 (@chikako2020_) <a href="https://twitter.com/chikako2020_/status/1599192713014181888?ref_src=twsrc%5Etfw">December 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## 参加者について
 参加者は以下のとおりでした。
 - ニンジャ(小2, 中1)
@@ -30,6 +26,7 @@ categories:
 
 ニンジャは二人ともScratchをやっていました。
 二人とも慣れた感じでやっていたので、メンターとしてお手伝いをする必要は特にありませんでした。
+ニンジャはもう一名参加登録があったのですが、時間を間違って来られなかったということです。
 
 保護者の方も、子供の作業につきあいながら、なにかScratchで作業をされていたようです。
 
