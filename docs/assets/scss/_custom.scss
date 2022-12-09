@@ -12,8 +12,12 @@ $h4-font-color: $body-color;
 body {
     color: $font-color;
     background-color: $body-color;
-    line-height: 1.8em;
+    line-height: 2em;
     font-size: 1em;
+}
+
+div.post-content {
+    line-height: 2.2em;
 }
 
 a:link, a:visited, a:hover, a:active {
