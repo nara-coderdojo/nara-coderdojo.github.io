@@ -158,7 +158,7 @@ CoderDojoに参加しているニンジャ（18歳まで）であれば、誰で
 現地開催時は賞品や参加賞がありましたが、オンラインになってからは無いようです。
 
 ## このページについて
-このページのソースは[こちら](https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io/blob/master/static/coolest_projects_international.md)で公開しています。内容に不備や誤りがあったり、追加すべき情報があれば是非PR(Pull Request)を送ってください。
+このページのソースは[こちら](https://github.com/nara-coderdojo/nara-coderdojo.github.io/blob/master/static/coolest_projects_international.md)で公開しています。内容に不備や誤りがあったり、追加すべき情報があれば是非PR(Pull Request)を送ってください。
 
 ## 参照リンク
 - [Coolest Projects Global](https://coolestprojects.org/)
