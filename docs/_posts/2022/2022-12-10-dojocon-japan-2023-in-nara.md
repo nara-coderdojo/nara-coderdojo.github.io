@@ -1,13 +1,13 @@
 ---
-title: 私がやりたいDojoCon Japan
-date: 2022-12-08T23:00:00+09:00
+title: DojoCon Japan 2023を奈良でやります！
+date: 2022-12-10T10:00:00+09:00
 author: kwaka1208
 layout: post
 permalink: /blog/dojocon-japan-2023-in-nara/
 categories:
   - blog
 header:
-  og_image:  /assets/images/OGP/crossnote.png
+  og_image: /assets/images/2022/dojocon-japan-2023-in-nara.png
 ---
 ![](/assets/images/2022/dojocon-japan-2023-in-nara.png)
 
