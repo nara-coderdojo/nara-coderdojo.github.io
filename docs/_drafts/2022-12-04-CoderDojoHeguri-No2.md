@@ -1,6 +1,6 @@
 ---
 title: CoderDojo平群No.2開催!!
-date: 2022-12-07T12:00:00+09:00
+date: 2022-12-10T12:00:00+09:00
 author: 610t
 layout: post
 permalink: /blog/CoderDojoHeguri_20221204
