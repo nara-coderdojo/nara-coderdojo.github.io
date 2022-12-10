@@ -1,6 +1,6 @@
 ---
 title: CoderDojo平群No.2開催!!
-date: 2022-12-07
+date: 2022-12-07T12:00:00+09:00
 author: 610t
 layout: post
 permalink: /blog/CoderDojoHeguri_20221204
@@ -11,6 +11,10 @@ categories:
 2022/12/04(土)9:00-12:00に[CoderDojo平群の第2回](https://coderdojo-nara-ikoma.connpass.com/event/267219/)が開催されました!!
 
 ここでは、その様子を報告します。
+
+以下のtweetは、チャンピオンによる報告です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">第2回CoderDojo平群の報告です。<br>参加者はニンジャ2名　(小2<br>.中1)<br>保護者1名<br>メンター4名<br>チャンピオン1名の計8名。<br><br>ニンジャは2人ともスクラッチに取り組んでいました。<br><br>写真は発表の様子。<br>スクラッチを使って漢字の読み仮名クイズを作ってくれました👏888888<br>次回は1/14(土)9時~12時です😄👍 <a href="https://t.co/14tmFhAuIT">pic.twitter.com/14tmFhAuIT</a></p>&mdash; chikako2020@学校司書×プログラミング×法螺貝 (@chikako2020_) <a href="https://twitter.com/chikako2020_/status/1599257765725499392?ref_src=twsrc%5Etfw">December 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## はじまる前に
 準備をしていると、別の団体の方がこられました。
@@ -67,7 +71,6 @@ categories:
 
 発表の時には、[DojoCon Japan 2022](https://dojocon2022.coderdojo.jp/)の会場である富山のおみやげのえびせんとお茶がふるまわれました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">第2回CoderDojo平群の報告です。<br>参加者はニンジャ2名　(小2<br>.中1)<br>保護者1名<br>メンター4名<br>チャンピオン1名の計8名。<br><br>ニンジャは2人ともスクラッチに取り組んでいました。<br><br>写真は発表の様子。<br>スクラッチを使って漢字の読み仮名クイズを作ってくれました👏888888<br>次回は1/14(土)9時~12時です😄👍 <a href="https://t.co/14tmFhAuIT">pic.twitter.com/14tmFhAuIT</a></p>&mdash; chikako2020@学校司書×プログラミング×法螺貝 (@chikako2020_) <a href="https://twitter.com/chikako2020_/status/1599257765725499392?ref_src=twsrc%5Etfw">December 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## おわりに
 今回もCoderDojo平群は楽しく過ごせました。
