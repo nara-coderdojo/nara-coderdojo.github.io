@@ -1,6 +1,6 @@
 ---
 title: みんなでマインクラフトの会
-date: 2022-11-19
+date: 2022-11-19T12:00:00+09:00
 author: 610t
 layout: post
 permalink: /blog/minecraft-for-all-1
