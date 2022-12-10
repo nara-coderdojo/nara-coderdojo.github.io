@@ -7,7 +7,6 @@ permalink: /blog/CoderDojoHeguri_20221204
 categories:
   - blog
 ---
-# CoderDojo平群No.2開催!!
 2022/12/04(土)9:00-12:00に[CoderDojo平群の第2回](https://coderdojo-nara-ikoma.connpass.com/event/267219/)が開催されました!!
 
 ここでは、その様子を報告します。
