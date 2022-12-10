@@ -67,7 +67,8 @@ categories:
 自分の学年で習う漢字で問題を作っていました。
 今後、どんな風に発展していくのか、楽しみです。
 
-![発表の様子](https://i.gyazo.com/e7fcdaa8d9c810341dfc50a070974f8f.jpg)
+![発表の様子](/assets/images/2022/HeguriNo2-Presen.jpg)
+
 
 発表の時には、[DojoCon Japan 2022](https://dojocon2022.coderdojo.jp/)の会場である富山のおみやげのえびせんとお茶がふるまわれました。
 
