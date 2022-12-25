@@ -17,3 +17,8 @@ categories:
 ![](/assets/images/2022/birthday-donation02.jpg)
 ![](/assets/images/2022/birthday-donation03.jpg)
 ![](/assets/images/2022/birthday-donation04.jpg)
+
+追加で次の2冊もいただきました。
+
+![](/assets/images/2022/birthday-donation05.jpg)
+![](/assets/images/2022/birthday-donation06.jpg)
