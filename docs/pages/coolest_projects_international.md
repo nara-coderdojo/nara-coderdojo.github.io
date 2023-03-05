@@ -3,6 +3,17 @@ layout: page
 title:  "Coolest Projects Globalについて"
 permalink: /coolest_projects_international/
 ---
+
+[Coolest Projets](https://online.coolestprojects.org/)
+
+こちらのページは、日本からのエントリーをサポートするために公開していましたが、最近は[Google翻訳](https://translate.google.co.jp/?hl=ja)や[DeepL翻訳ツール](https://www.deepl.com/translator)のような機械翻訳の精度も高いので、そういったツールを使って参照されることをお勧めします。
+
+日本語で[よくあるご質問](https://online.coolestprojects.org/help-japanese)が公開されているようです。
+
+以下の内容は2022年までの内容に基づいたもので、参考までに残しています。現在は内容が変わっている場合がありますのでご注意ください。
+
+--- 
+
 今年もCoolest Projects Globalは、[Coolest Projects Online](https://coolestprojects.org/)としてオンラインでの開催となり、全世界からエントリーできます。ぜひ日本からもエントリーしましょう！
 
 エントリー方法の説明ページの日本語訳を用意しましたので参考にしてください（元ページの単純な翻訳ではありません、適宜情報を編集しています）。
