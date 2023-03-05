@@ -4,7 +4,7 @@ title:  "Coolest Projects Globalについて"
 permalink: /coolest_projects_international/
 ---
 
-[Coolest Projets](https://online.coolestprojects.org/)
+[Coolest Projects](https://online.coolestprojects.org/)
 
 こちらのページは、日本からのエントリーをサポートするために公開していましたが、最近は[Google翻訳](https://translate.google.co.jp/?hl=ja)や[DeepL翻訳ツール](https://www.deepl.com/translator)のような機械翻訳の精度も高いので、そういったツールを使って参照されることをお勧めします。
 
