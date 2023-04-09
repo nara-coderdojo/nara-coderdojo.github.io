@@ -44,8 +44,8 @@ CoderDojoで子どもたちをサポートする大人を「メンター」と�
 CoderDojoのただひとつのルールは、"Be Cool!（カッコよくあれ！）"です。活動の中のすべてのことについて"Cool"であることを心がけてください。
 
 ## 開催場所
-それぞれ毎月一回開催しています。参加方法の詳細については[こちら](/join/)をご覧ください。
-[参加申し込みはこちら](https://coderdojo-nara-ikoma.connpass.com/)で承っています
+それぞれ毎月一回開催しています。参加方法の詳細については[「参加する」](/join/)をご覧ください。
+[参加申し込みはconnpass](https://coderdojo-nara-ikoma.connpass.com/)で承っています
 
 ### CoderDojo奈良
 ![](/assets/images/icon/NARA_black_white.png)
