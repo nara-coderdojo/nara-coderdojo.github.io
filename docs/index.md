@@ -66,5 +66,4 @@ CoderDojoのただひとつのルールは、"Be Cool!（カッコよくあれ�
 各Dojoの開催予定は以下のカレンダーをご覧ください。
 <iframe src="https://calendar.google.com/calendar/b/2/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nara.jp%40coderdojo.com&amp;color=%231B887A&amp;ctz=Asia%2FTokyo" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
-他の地域のCoderDojo開催予定はこちらです。
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=0ap865g5sqqktm38hjci4g8d44%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=Asia%2FTokyo" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+他の地域のCoderDojo開催予定は[近日開催の道場](https://coderdojo.jp/events)で探せます。
