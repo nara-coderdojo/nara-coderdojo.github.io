@@ -1,10 +1,10 @@
 ---
-title: CoderDojo参加者が利用できるもの
+title: CoderDojoに参加されているみなさんへ
 layout: page
-permalink: /what-we-can-use/
+permalink: /for-ninja/
 sitemap: false
 ---
-ニンジャと保護者のみなさんにお伝えすることをこのページにまとめていますので、ご一読をお願いします。
+このページは、CoderDojoに参加されているみなさんにお伝えすることをこのページにまとめていますので、ご一読をお願いします。また、他の方へは教えてないでください。
 
 - [本を借りる](#本を借りる)
 - [CoderDojoで利用できるサービスや機材](#coderdojoで利用できるサービスや機材)
@@ -107,11 +107,15 @@ CoderDojoでは、オンライン学習サービス"[Progate](https://prog-8.com
 
 ![micro:bitセット](/assets/images/for_all/microbit.png)
 
-### 参考情報
+#### 参考情報
 利用にあたっては、以下のサイトを参考にしてください。
 - [サヌキテックネット](https://sanuki-tech.net/micro-bit/)
 
+#### micro:bit関連機器
+CoderDojoで保有しているmicro:bit関連機器として、[micro:Maqeueen](https://sanuki-tech.net/micro-bit/appendix-products/dfrobot-micro-maqueen-v4/)という車型のロボットがあります。車を動かしてみたいニンジャにはお貸ししますので、ご連絡ください。
+
 ## その他
+ここから下の情報は、誰にでも教えていただいて結構です。 :D
 ### Twitter, Instagramのフォローをお願いします
 奈良CoderDojoコミュニティの公式SNSアカウントがあります。よかったらフォローしてやってください。
 
