@@ -21,8 +21,7 @@ CoderDojo奈良・生駒では、Dojoに参加する子どもたちで共有す�
 
 [![リブライズ-すべての本棚を図書館に](/assets/images/supported-by-librize-ja-256x128.png)](https://librize.com/)
 
-#### 借りられる本はこちら、読みたい時はご連絡ください。
-現在借りられる本の一覧は以下のリンク先で確認できます。
+現在借りられる本の一覧は以下のリンク先（2箇所）で確認できます。
 
 - [CoderDojo奈良・生駒ライブラリ](https://librize.com/places/1563)
 - [crosslibray](https://librize.com/crosslibrary)
@@ -116,6 +115,7 @@ CoderDojoで保有しているmicro:bit関連機器として、[micro:Maqeueen](
 
 ## その他
 ここから下の情報は、誰にでも教えていただいて結構です。 :D
+
 ### Twitter, Instagramのフォローをお願いします
 奈良CoderDojoコミュニティの公式SNSアカウントがあります。よかったらフォローしてやってください。
 
