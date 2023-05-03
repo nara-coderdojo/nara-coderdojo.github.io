@@ -1,5 +1,5 @@
 ---
-title: CoderDojo平群（へぐり）立ち上げました！
+title: CoderDojo 平群（へぐり）立ち上げました！
 date: 2022-11-15T12:00:00+09:00
 author: chikako2020
 layout: post
@@ -7,10 +7,10 @@ permalink: /blog/CoderDojo-Heguri-start-up-story/
 categories:
   - blog
 ---
-こんにちは！このたび奈良県の平群（へぐり）町で、子どもと大人のためのプログラミングクラブ「CoderDojo平群」を立ち上げたchikako2020です。
+こんにちは！このたび奈良県の平群（へぐり）町で、子どもと大人のためのプログラミングクラブ「CoderDojo 平群」を立ち上げたchikako2020です。
 
 私は地元小学校の学校図書館で司書をしています。仕事でプログラミングをすることはありません。
-この記事では、そんな私がなぜDojoを立ち上げようと思ったのか、そして第1回CoderDojo平群の様子をお伝えしたいと思います。
+この記事では、そんな私がなぜDojoを立ち上げようと思ったのか、そして第1回CoderDojo 平群の様子をお伝えしたいと思います。
 
 
 
@@ -107,11 +107,11 @@ CoderDojoに通うようになったのは2020年夏のからです。次男（�
 
 ## ついに開催！
 
-そんなバタバタした中、2022年11月12日（土）13：00～16：00に第1回目のCoderDojo平群を開催しました。
+そんなバタバタした中、2022年11月12日（土）13：00～16：00に第1回目のCoderDojo 平群を開催しました。
 
-![第1回CoderDojo平群](/assets/images/2022/CoderDojo-Heguri-start-up-story.webp)
+![第1回CoderDojo 平群](/assets/images/2022/CoderDojo-Heguri-start-up-story.webp)
 
-第1回CoderDojo平群
+第1回CoderDojo 平群
 
 ニンジャ５名（小２(Minecraft)、小６(Minecraft)、中１(Scratch)、中3(Scratch)、高３(JavaScript)）
 保護者１名、メンター６名、見学１名、チャンピオン１名、
@@ -136,7 +136,7 @@ wifiにも不安がありましたが、安定してして使用する事が出�
 今回の参加者は子ども少なめ、大人多めでした。
 CoderDojoといえば子どもたちがメインになってプログラミング学習に取り組むものかもしれません。しかし、子どもだけでなく大人も気軽に集まってもらえるようなCoderDojoもいいな、と思います。
 
-子どもと大人のためのプログラミングクラブ「CoderDojo平群」、これからもよろしくお願いいたします。
+子どもと大人のためのプログラミングクラブ「CoderDojo 平群」、これからもよろしくお願いいたします。
 
 
 

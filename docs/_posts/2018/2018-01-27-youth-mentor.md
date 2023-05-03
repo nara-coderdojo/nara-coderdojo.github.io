@@ -7,7 +7,7 @@ permalink: /blog/youth-mentor/
 categories:
   - blog
 ---
-このたび、CoderDojo 奈良とCoderDojo生駒では、ユースメンター"Youth Mentor"制度を導入することにしました。
+このたび、CoderDojo 奈良とCoderDojo 生駒では、ユースメンター"Youth Mentor"制度を導入することにしました。
 
 同様の制度は、国内外の他のDojoでも導入されているケースがあるかもしれませんが、今回導入する制度は独自に設定したものです。
 

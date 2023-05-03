@@ -79,7 +79,7 @@ CoderDojoでは、オンライン学習サービス"[Progate](https://prog-8.com
 ### micro:bit
 [micro:bit](https://microbit.org/ja/)はイギリスで開発された教育用途のシングルボードコンピュータで、プログラミングにはPCが必要ですがPCで作ったプログラムを転送すれば単体で動作させることができるものです。
 
-2022年にmicro:bit教育財団から日本のCoderDojoに1,500台のmicro:bitが寄贈され、CoderDojo 奈良・CoderDojo生駒にも寄贈していただきました。
+2022年にmicro:bit教育財団から日本のCoderDojoに1,500台のmicro:bitが寄贈され、CoderDojo 奈良・CoderDojo 生駒にも寄贈していただきました。
 
 [ポケットサイズの教育用コンピューター「micro:bit」、CoderDojoに1500台寄贈](https://news.coderdojo.jp/2022/05/16/1500-microbits-to-coderdojo/)
 

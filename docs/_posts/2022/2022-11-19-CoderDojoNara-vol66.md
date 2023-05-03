@@ -65,8 +65,8 @@ CoderDojo 奈良では、いつも発表が多いのですが、今回もほと�
 ## おわりに
 CoderDojo 奈良 No.66も楽しく開催されました。
 
-[奈良CoderDojoコミュニティ](https://nara-coderdojo.github.io/)も、今月から平群([CoderDojo平群（へぐり）立ち上げました！](https://nara-coderdojo.github.io/blog/CoderDojo-Heguri-start-up-story/))を加えて3つに増え、楽しみがますます増えてきました。
+[奈良CoderDojoコミュニティ](https://nara-coderdojo.github.io/)も、今月から平群([CoderDojo 平群（へぐり）立ち上げました！](https://nara-coderdojo.github.io/blog/CoderDojo-Heguri-start-up-story/))を加えて3つに増え、楽しみがますます増えてきました。
 
-次回は、2022/12/3(土) 13:00-に予定されているCoderDojo生駒です。
+次回は、2022/12/3(土) 13:00-に予定されているCoderDojo 生駒です。
 
 みなさんも、奈良のCoderDojoに遊びに来ませんか?
