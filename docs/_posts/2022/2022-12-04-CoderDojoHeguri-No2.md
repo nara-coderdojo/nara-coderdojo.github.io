@@ -1,5 +1,5 @@
 ---
-title: CoderDojo平群No.2開催!!
+title: CoderDojo 平群No.2開催!!
 date: 2022-12-10T12:00:00+09:00
 author: 610t
 layout: post
@@ -7,12 +7,12 @@ permalink: /blog/CoderDojoHeguri_20221204
 categories:
   - blog
 ---
-2022/12/04(土)9:00-12:00に[CoderDojo平群の第2回](https://coderdojo-nara-ikoma.connpass.com/event/267219/)が開催されました!!
+2022/12/04(土)9:00-12:00に[CoderDojo 平群の第2回](https://coderdojo-nara-ikoma.connpass.com/event/267219/)が開催されました!!
 
 ここでは、その様子を報告します。
 
 以下のtweetは、チャンピオンによる報告です。
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">第2回CoderDojo平群の報告です。<br>参加者はニンジャ2名　(小2<br>.中1)<br>保護者1名<br>メンター4名<br>チャンピオン1名の計8名。<br><br>ニンジャは2人ともスクラッチに取り組んでいました。<br><br>写真は発表の様子。<br>スクラッチを使って漢字の読み仮名クイズを作ってくれました👏888888<br>次回は1/14(土)9時~12時です😄👍 <a href="https://t.co/14tmFhAuIT">pic.twitter.com/14tmFhAuIT</a></p>&mdash; chikako2020@学校司書×プログラミング×法螺貝 (@chikako2020_) <a href="https://twitter.com/chikako2020_/status/1599257765725499392?ref_src=twsrc%5Etfw">December 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">第2回CoderDojo 平群の報告です。<br>参加者はニンジャ2名　(小2<br>.中1)<br>保護者1名<br>メンター4名<br>チャンピオン1名の計8名。<br><br>ニンジャは2人ともスクラッチに取り組んでいました。<br><br>写真は発表の様子。<br>スクラッチを使って漢字の読み仮名クイズを作ってくれました👏888888<br>次回は1/14(土)9時~12時です😄👍 <a href="https://t.co/14tmFhAuIT">pic.twitter.com/14tmFhAuIT</a></p>&mdash; chikako2020@学校司書×プログラミング×法螺貝 (@chikako2020_) <a href="https://twitter.com/chikako2020_/status/1599257765725499392?ref_src=twsrc%5Etfw">December 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## はじまる前に
@@ -73,10 +73,10 @@ categories:
 
 
 ## おわりに
-今回もCoderDojo平群は楽しく過ごせました。
+今回もCoderDojo 平群は楽しく過ごせました。
 
-奈良CoderDojoコミュニティとしての次回は、[2022/12/17(土) 13:00-のCoderDojo奈良No.67](https://coderdojo-nara-ikoma.connpass.com/event/268737/)です。
+奈良CoderDojoコミュニティとしての次回は、[2022/12/17(土) 13:00-のCoderDojo 奈良No.67](https://coderdojo-nara-ikoma.connpass.com/event/268737/)です。
 
-また、CoderDojo平群としての次回は、[2023/01/14(土) 9:00-のCoderDojo平群No.3](https://coderdojo-nara-ikoma.connpass.com/event/268857/)です。
+また、CoderDojo 平群としての次回は、[2023/01/14(土) 9:00-のCoderDojo 平群No.3](https://coderdojo-nara-ikoma.connpass.com/event/268857/)です。
 
 みなさんも、是非、奈良のCoderDojoに遊びに来てくださいね。

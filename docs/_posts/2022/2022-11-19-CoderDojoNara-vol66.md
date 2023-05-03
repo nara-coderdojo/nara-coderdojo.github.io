@@ -1,5 +1,5 @@
 ---
-title: CoderDojo奈良 No.66開催!!
+title: CoderDojo 奈良 No.66開催!!
 date: 2022-11-20T12:00:00+09:00
 author: 610t
 layout: post
@@ -7,7 +7,7 @@ permalink: /blog/CoderDojoNara_20221119
 categories:
   - blog
 ---
-CoderDojo奈良では、2022/11/19 13:00-16:00の日程で、[CoderDojo奈良 No.66](https://coderdojo-nara-ikoma.connpass.com/event/266742/)を開催しました。
+CoderDojo 奈良では、2022/11/19 13:00-16:00の日程で、[CoderDojo 奈良 No.66](https://coderdojo-nara-ikoma.connpass.com/event/266742/)を開催しました。
 会場は、いつもの[ぷろぼの](https://probono.vport.org/)福祉ビル 5F会議室です。
 
 参加者は、ニンジャ5名、チャンピオン、メンター1名、おとな4名でした。
@@ -39,7 +39,7 @@ CoderDojo奈良では、2022/11/19 13:00-16:00の日程で、[CoderDojo奈良 No
 
 ![発表の様子](/assets/images/2022/NaraNo66-Presen.jpg)
 
-CoderDojo奈良では、いつも発表が多いのですが、今回もほとんどのニンジャが発表しました。
+CoderDojo 奈良では、いつも発表が多いのですが、今回もほとんどのニンジャが発表しました。
 ニンジャたちは、たくさんの作品があって、どれを発表しようかといつも迷っています。
 複数の作品を発表することも多いこの頃です。
 - 小2 マインクラフト
@@ -63,10 +63,10 @@ CoderDojo奈良では、いつも発表が多いのですが、今回もほと�
 今回発表しなかった小1の子も、次回はmicro:Maqueenで発表すると意欲満々でした。
 
 ## おわりに
-CoderDojo奈良 No.66も楽しく開催されました。
+CoderDojo 奈良 No.66も楽しく開催されました。
 
-[奈良CoderDojoコミュニティ](https://nara-coderdojo.github.io/)も、今月から平群([CoderDojo平群（へぐり）立ち上げました！](https://nara-coderdojo.github.io/blog/CoderDojo-Heguri-start-up-story/))を加えて3つに増え、楽しみがますます増えてきました。
+[奈良CoderDojoコミュニティ](https://nara-coderdojo.github.io/)も、今月から平群([CoderDojo 平群（へぐり）立ち上げました！](https://nara-coderdojo.github.io/blog/CoderDojo-Heguri-start-up-story/))を加えて3つに増え、楽しみがますます増えてきました。
 
-次回は、2022/12/3(土) 13:00-に予定されているCoderDojo生駒です。
+次回は、2022/12/3(土) 13:00-に予定されているCoderDojo 生駒です。
 
 みなさんも、奈良のCoderDojoに遊びに来ませんか?
