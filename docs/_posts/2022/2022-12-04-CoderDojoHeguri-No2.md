@@ -75,7 +75,7 @@ categories:
 ## おわりに
 今回もCoderDojo平群は楽しく過ごせました。
 
-奈良CoderDojoコミュニティとしての次回は、[2022/12/17(土) 13:00-のCoderDojo奈良No.67](https://coderdojo-nara-ikoma.connpass.com/event/268737/)です。
+奈良CoderDojoコミュニティとしての次回は、[2022/12/17(土) 13:00-のCoderDojo 奈良No.67](https://coderdojo-nara-ikoma.connpass.com/event/268737/)です。
 
 また、CoderDojo平群としての次回は、[2023/01/14(土) 9:00-のCoderDojo平群No.3](https://coderdojo-nara-ikoma.connpass.com/event/268857/)です。
 

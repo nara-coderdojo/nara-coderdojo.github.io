@@ -8,7 +8,7 @@ categories:
   - blog
 sidebar: true
 ---
-こんにちは、CoderDojo奈良の若林です。
+こんにちは、CoderDojo 奈良の若林です。
 
 Windows PCやMacをChromebookとして使えるようにする「Chrome OS Flex」が正式にリリースされました。
 

@@ -7,7 +7,7 @@ permalink: /blog/why-coderdojo/
 categories:
   - blog
 ---
-こんにちは、CoderDojo奈良の若林です。
+こんにちは、CoderDojo 奈良の若林です。
 この記事は、[CoderDojo Advent Calendar 2022](https://adventar.org/calendars/7381)の12月8日の記事です。12月8日は私の誕生日でもあります（この記事で一番の無駄情報）。
 
 先月開催された[DojoCon Japan 2022](https://dojocon2022.coderdojo.jp/)の[交流会LT](https://dojocon2022.coderdojo.jp/info/lt/)で、こんなお話をしました。

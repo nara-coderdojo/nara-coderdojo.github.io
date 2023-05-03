@@ -7,7 +7,7 @@ permalink: /blog/birthday-donation/
 categories:
   - blog
 ---
-こんにちは、CoderDojo奈良の若林です。私ごとで恐縮ですが12月8日は私の誕生日でして、毎年色んなところへの寄付を募る"Birthday donation"をやっています。
+こんにちは、CoderDojo 奈良の若林です。私ごとで恐縮ですが12月8日は私の誕生日でして、毎年色んなところへの寄付を募る"Birthday donation"をやっています。
 
 今年は、これからも奈良のCoderDojoを盛り上げていきたいという思いを込めて奈良のCoderDojoへの寄付を募ったところ書籍やtoioの拡張パック、ディスプレイケーブルなどを寄付いただきました。
 

@@ -37,4 +37,4 @@ categories:
 
 [Google Classroom](https://edu.google.com/intl/ja/products/classroom/)への登録方法については、また個別にお知らせします。
 
-今後とも、CoderDojo奈良とCoderDojo生駒をどうぞよろしくお願いいたします。
+今後とも、CoderDojo 奈良とCoderDojo生駒をどうぞよろしくお願いいたします。
