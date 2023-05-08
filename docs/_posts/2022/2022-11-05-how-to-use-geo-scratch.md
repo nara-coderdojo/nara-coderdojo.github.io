@@ -8,7 +8,7 @@ categories:
   - blog
 author: kwaka1208
 ---
-こんにちは、CoderDojo奈良の若林です。
+こんにちは、CoderDojo 奈良の若林です。
 
 みなさん、[Stretch3](https://stretch3.github.io/)使ってますか？
 

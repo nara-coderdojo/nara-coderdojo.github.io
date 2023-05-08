@@ -39,21 +39,25 @@ CoderDojoで子どもたちをサポートする大人を「メンター」と�
 - 子ども達にとっての良い相談相手は、年の離れた大人よりも少し年上のお兄ちゃんやお姉ちゃん。小学校低学年の子には高学年の子が、高学年の子には中学生がサポートする、というように成長に応じて教わる側から教える側になる。そんな成長のサイクルを作りたいのです。
 - 子ども達にとって、パソコンやタブレットなどのIT機器は動画を観たりゲームをする「悪いもの」として扱われ制限したり取り上げたりされがちですが、プログラミングやWeb製作などの活動を通して、創造的な使い方をすることの楽しさに気づくきっかけを作りたいと考えています。
 
-## 開催場所
-それぞれ毎月一回開催しています。参加方法の詳細については[こちら](/join/)をご覧ください。
-[参加申し込みはこちら](https://coderdojo-nara-ikoma.connpass.com/)で承っています
+## CoderDojoただひとつのルール "Be Cool!"
 
-### CoderDojo奈良
+CoderDojoのただひとつのルールは、"Be Cool!（カッコよくあれ！）"です。活動の中のすべてのことについて"Cool"であることを心がけてください。
+
+## 開催場所
+それぞれ毎月一回開催しています。参加方法の詳細については[「参加する」](/join/)をご覧ください。
+[参加申し込みはconnpass](https://coderdojo-nara-ikoma.connpass.com/)で承っています
+
+### CoderDojo 奈良
 ![](/assets/images/icon/NARA_black_white.png)
 - 場所：〒630-8115 奈良県奈良市大宮町３丁目５−４１ ぷろぼの福祉ビル 5F会議室（[Google Maps](https://goo.gl/maps/6o8AhhvTSzvU7APi7)）
 - 開催日：毎月第三土曜日（月によって変わる場合があります）
 
-### CoderDojo生駒
+### CoderDojo 生駒
 ![](/assets/images/icon/IKOMA_green.png)
 - 場所：〒630-0257 奈良県生駒市元町１丁目７−６ 生駒市 市民活動推進センター ららポート（[Google Maps](https://goo.gl/maps/6SxZnQfwDqD6YhH19)）
 - 開催日：毎月第一土曜日（月によって変わる場合があります）
 
-### CoderDojo平群
+### CoderDojo 平群
 - 場所：〒636-0914 奈良県生駒郡平群町西宮1-10-5 西宮公民館（[Google Maps](https://goo.gl/maps/9TKYdTLaxtKgNv9p9)）
 - 開催日：不定期（随時案内します）
 
@@ -62,5 +66,4 @@ CoderDojoで子どもたちをサポートする大人を「メンター」と�
 各Dojoの開催予定は以下のカレンダーをご覧ください。
 <iframe src="https://calendar.google.com/calendar/b/2/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nara.jp%40coderdojo.com&amp;color=%231B887A&amp;ctz=Asia%2FTokyo" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
-他の地域のCoderDojo開催予定はこちらです。
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=0ap865g5sqqktm38hjci4g8d44%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=Asia%2FTokyo" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+他の地域のCoderDojo開催予定は[近日開催の道場](https://coderdojo.jp/events)で探せます。

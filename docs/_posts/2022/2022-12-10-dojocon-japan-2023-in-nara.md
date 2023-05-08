@@ -10,7 +10,7 @@ cover: /assets/images/2022/dojocon-japan-2023-in-nara.png
 ---
 ![](/assets/images/2022/dojocon-japan-2023-in-nara.png)
 
-こんにちは、CoderDojo奈良の若林です。
+こんにちは、CoderDojo 奈良の若林です。
 
 先日、[奈良でDojoCon Japan 2023をやりたい](/blog/why-coderdojo/)という記事を書きましたが、同じく[DojoCon Japan 2022](https://dojocon2022.coderdojo.jp/)の[交流会LT](https://dojocon2022.coderdojo.jp/info/lt/)で、DojoCon Japan 2023を岡山でやりたいとお話しされたCoderDojo吉備の[若林さん](https://twitter.com/Jun1W)とお話しして2023年を奈良で、2024年を岡山でやろうという話になりました。
 

@@ -34,7 +34,7 @@ CoderDojoはボランティアの運営による「プログラミングクラ�
 なお、CoderDojoが一般的なプログラミング教室とは性質が異なり教室開校の参考にならないことから「自分がプログラミング教室を開きたいのでその参考にするため」の見学はお断りしています。この点、ご了承ください。
 
 ## CoderDojo関連サイト
-- [CoderDojo奈良/生駒](https://coderdojo-nara-ikoma.connpass.com/)
-- [CoderDojo奈良・生駒Twitterアカウント](https://twitter.com/NaraCoderDojo)
+- [CoderDojo 奈良/生駒](https://coderdojo-nara-ikoma.connpass.com/)
+- [CoderDojo 奈良・生駒Twitterアカウント](https://twitter.com/NaraCoderDojo)
 - [CoderDojo（アイルランド）](http://www.coderdojo.com/)
 - [CoderDojo Japan（日本で開催されているCoderDojoの一覧はこちらで見られます）](http://www.coderdojo.jp/)

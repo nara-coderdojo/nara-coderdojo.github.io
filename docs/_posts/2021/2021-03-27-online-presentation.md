@@ -1,5 +1,5 @@
 ---
-title: CoderDojo奈良・生駒オンライン発表@zoom Vol.6を開催しました
+title: CoderDojo 奈良・生駒オンライン発表@zoom Vol.6を開催しました
 date: 2021-03-27T13:00:00+09:00
 author: kwaka1208
 layout: post
@@ -9,7 +9,7 @@ categories:
 ---
 こんにちは、若林です。久しぶりのblog更新です。このサイトで使っているJekyllをかなり理解してきたので、ちょっと更新を頑張ってみようかなと思ったりしていますが、もしかしたら続かないかもしれません。
 
-2021年3月27日に「CoderDojo奈良・生駒オンライン発表@zoom Vol.6」を開催しました。イベントページは[こちら](https://coderdojo-nara-ikoma.connpass.com/event/206842/)。
+2021年3月27日に「CoderDojo 奈良・生駒オンライン発表@zoom Vol.6」を開催しました。イベントページは[こちら](https://coderdojo-nara-ikoma.connpass.com/event/206842/)。
 
 奈良は新型コロナウイルス感染症の影響による緊急事態宣言の対象外ではあったのですが、それでも現在の状況から外出することや人が集まる場所へ行くことへの抵抗感はあるかなと考え、3月まではオンライン開催としました。4月からはまたリアル開催にもどします。
 昨年の緊急事態宣言発令時もオンライン開催をしており、試行錯誤を繰り返した結果「オンラインでは作品発表のみにした方が良い」という結論に至りました。
@@ -35,7 +35,7 @@ categories:
 - 田中さん（Unityで作った箱の中でバウンドするオブジェクト）
 
 ## スタジオ
-CoderDojo奈良・生駒には、[CoderDojo Nara/Ikoma Studio/](https://scratch.mit.edu/studios/522153/)と[CoderDojo Nara/Ikoma ニンジャ同窓会](https://scratch.mit.edu/studios/28573078/)の2つのスタジオがあります。
+CoderDojo 奈良・生駒には、[CoderDojo Nara/Ikoma Studio/](https://scratch.mit.edu/studios/522153/)と[CoderDojo Nara/Ikoma ニンジャ同窓会](https://scratch.mit.edu/studios/28573078/)の2つのスタジオがあります。
 
 [CoderDojo Nara/Ikoma ニンジャ同窓会](https://scratch.mit.edu/studios/28573078/)の方はニンジャが設立したスタジオで「同窓会」と名付けてくれているのが嬉しいですね。
 

@@ -1,6 +1,6 @@
 # Site settings
 title_left    : ""
-title_right   : "奈良CoderDojoコミュニティ" # default: ""
+title_right   : "CoderDojo 奈良/生駒/平群" # default: ""
 description   : "子どもと大人のためのプログラミングコミュニティ"
 keywords      : "CoderDojo, 奈良, 生駒, 平群, プログラミング"
 url           : https://nara-coderdojo.github.io # site url
