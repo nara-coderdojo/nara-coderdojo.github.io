@@ -99,6 +99,6 @@ Scratchで作ったゲーム作品5つの発表です。
 ## おわりに
 今回もCoderDojo 生駒は楽しく過ごせました。
 
-奈良CoderDojoコミュニティとしての次回は、[2023/05/13(土) 9:00-のCoderDojo 平群No.7](https://coderdojo-nara-ikoma.connpass.com/event/273923/)です。
+奈良CoderDojoコミュニティとしての次回は、[2023/05/13(土) 9:00-12:00のCoderDojo 平群No.7](https://coderdojo-nara-ikoma.connpass.com/event/273923/)です。
 
 みなさんも、是非、奈良のCoderDojoに遊びに来てくださいね。
