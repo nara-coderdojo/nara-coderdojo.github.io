@@ -7,3 +7,11 @@ permalink: /blog/CoderDojoIkoma_20230506
 categories:
   - blog
 ---
+
+## 作業の様子
+
+## 展示
+
+## 発表タイム
+
+## おわりに
