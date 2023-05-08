@@ -28,14 +28,30 @@ categories:
   - M5Stack x 2
   - micro:bit x 1
 
+![Scratch](/assets/images/2023/2023-05-06-scratch.jpg)
+
+Scratchは、いつもの通りにマイペースで作品を作っていました。
+
+![マインクラフト](/assets/images/2023/2023-05-06-minecraft.jpg)
+
+マインクラフトも、いつものようにマイペースで作品を作っていました。
+
+![toio](/assets/images/2023/2023-05-06-toio.jpg)
+
+toioは、「工作生物 ゲズンロイド」で遊んでいました。
+一応、Scratchベースのブロックプログラミング間のである[toioDo](https://toio.io/do/)も紹介したのですが、今回は興味がない様子でした。
+
+タイピングは、というソフトを使っていました。
+対戦もできるようで、二人で戦っていました。
+
 ## 展示
-今回、メンターによる以下の展示が行われていました。
+今回、メンターによる展示が二組行われていました。
 
 ### micro:bitアルコール計
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">アルコール呑んでる悪い子はいねーがー。<br>micro:bit で、アルコールセンサーを作っているメンター。<a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E7%94%9F%E9%A7%92?src=hash&amp;ref_src=twsrc%5Etfw">#生駒</a> <a href="https://t.co/nJenYo0ftn">pic.twitter.com/nJenYo0ftn</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1654725028674682880?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 micro:bitを使ったアルコール計です。
-消毒用アルコールを近づけると確かに反応していました。
+手の消毒用アルコールを近づけると確かに反応していました。
 
 ### M5Stack展示(むとうたけし @610t)
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E7%94%9F%E9%A7%92?src=hash&amp;ref_src=twsrc%5Etfw">#生駒</a> で、 <a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> 展示中。 <a href="https://t.co/iuhLHNQbEm">pic.twitter.com/iuhLHNQbEm</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1654715986107588610?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -44,12 +60,12 @@ micro:bitを使ったアルコール計です。
 
 - M5bitLess で Scratch と遊ぶ: ScratchとM5Stackを使う例です。発表でもデモをしました。
 - ATOM Mate for toio: ATOMシリーズとtoioを一緒に使ってみるデモです。
-- hapStak でブルブルブル: 音が出ると、それらしい振動を返してくれるデバイスであるhapStakの紹介です。
+- hapStak でブルブルブル: 音が出ると、それらしい振動を返してくれるデバイスのhapStakの紹介です。
 - M5PaperとCoreInk名札: M5Stackのe-Inkを使ったシリーズで名札を作っていました。
-- M5Badge ピカピカ: 
-- Bluetoothスピーカー #ｽﾀｯｸﾁｬﾝ
+- M5Badge ピカピカ: [M5Stack Japan Tour 2023 Spring](https://www.switch-science.com/blogs/magazine/m5stackjapantour2023)でもらった光るバッジをランダムな色で光らせていました。
+- Bluetoothスピーカー #ｽﾀｯｸﾁｬﾝ :[スタックチャン](https://protopedia.net/prototype/2345)のBluetoothスピーカー版で音楽を出し、顔の表情の変化を楽しんでいました。
 
-M5Stackの展示には、ニンジャ一人が喰い付いてくれたので、満足しました!!
+M5Stackの展示には、ニンジャ一人が喰い付いてくれたので、むとうは満足しました!!
 
 これからの別のCoderDojoでも、同じような展示をしたいなぁと考えています。
 
@@ -62,6 +78,8 @@ M5Stackの展示には、ニンジャ一人が喰い付いてくれたので、�
 Scratchで幾何学模様を描く作品です。
 時々、クルッと回って、色々なパターンが表示されます。
 ボールのスピードも調整できるようになっています。
+
+ライブコーディングで、動きの変更をしていました。
 
 ### アスレチック(小3)
 マインクラフトでアスレチックを2作品作成しました。
@@ -94,7 +112,7 @@ Scratchで作ったゲーム作品5つの発表です。
 - 画面がカクカク動いてるのは、なぜ?
   - センサー入力を取る間隔が長いからかなぁ?
 - ブロックはmicro:bitのものになっているが、なぜ?
-  - micro:bit用拡張機能のMicrobit More拡張機能のmicro:bitの動作をM5Stackでシミュレートしているので、M5Stackから使えるようになっている。
+  - micro:bit用拡張機能のMicrobit Moreのmicro:bitの動作をM5Stackでシミュレートしているので、M5Stackから使えるようになっている。
 
 ## おわりに
 今回もCoderDojo 生駒は楽しく過ごせました。
