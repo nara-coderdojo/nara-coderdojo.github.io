@@ -11,6 +11,8 @@ categories:
 
 ここでは、その様子を報告します。
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">5/13 第7回 CoderDojo平群 開催しました😄<br><br>小1から大学1年まで ニンジャ10名<br>保護者やメンターを合わせて参加者は 総勢22名。<br><br>初参加のニンジャやメンター もいて、会場がちょっと手狭に感じるくらいの人数が集まってくださって本当に嬉しいです✨<br>メンターによる M5Stackのデモを行ってもらいました <a href="https://t.co/3uJKWWxLjB">pic.twitter.com/3uJKWWxLjB</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1657234382615371776?ref_src=twsrc%5Etfw">May 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## 作業の様子
 参加者は以下のとおりでした。
 - ニンジャ x 10
@@ -69,6 +71,8 @@ M5Stackの展示は、今回は4組ものニンジャや保護者が見に来て
 発表タイムには、5人のニンジャとメンター(むとう)の発表がありました。
 
 ### マインクラフトのお家
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/Coderdojo?src=hash&amp;ref_src=twsrc%5Etfw">#Coderdojo</a> <br>第7回 CoderDojo平群　1人目の発表です。<br>小1の男の子👦<br> マインクラフトで自分のお家を作ってくれました👏✨✨ <a href="https://t.co/gofzcgfayN">pic.twitter.com/gofzcgfayN</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1657235197002416129?ref_src=twsrc%5Etfw">May 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 マインクラフトでお家を作りました。
 家のまわりはマグマで覆われています。
 
@@ -81,22 +85,28 @@ M5Stackの展示は、今回は4組ものニンジャや保護者が見に来て
 今後、プログラミングにも挑戦したいということでした。
 
 ### Scratch:日めくりカレンダー
-Scratchの猫ちゃんが日めくりカレンダーをめくっていくというのがゴールの作品です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">CoderDojo平群<br>2人目の発表は3年生の女の子👧<br>スクラッチで「日めくりカレンダー」の動画を作ってくれました🎉<br> 猫ちゃんのセリフが楽しすぎる🎶続きがめちゃくちゃ楽しみです🐱 <a href="https://t.co/OfogpVhTYe">pic.twitter.com/OfogpVhTYe</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1657236255309185025?ref_src=twsrc%5Etfw">May 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Scratchの猫ちゃんが日めくりカレンダーをめくっていくというのが最終目的の作品です。
 
 現状では、最初の掛け合い部分が完成しています。
 
 猫ちゃんのコスチュームをとてもたくさん作っていました。
 
 ### micro:bitボタンで開ける宝箱
-![micro:bit宝箱](/assets/images/2023/2023-05-13-microbit.jpg)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">CoderDojo平群<br>3人目の発表は マイクロ ビットのサーボモータを使って箱を開けて音楽が流れる仕組みを作った小学2年生の男の子😄<br>発表の途中で曲を変えたり メッセージを表示できるように改変してくれました✨✨<br>箱が勝手に開く仕組みに子供も大人も興味津々👀 <a href="https://t.co/EWvr0d6uOE">pic.twitter.com/EWvr0d6uOE</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1657237806174072834?ref_src=twsrc%5Etfw">May 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 micro:bitのボタンスイッチを押すと開く宝箱です。
 宝箱が開くと、LCDに文字が表示されることで、宝箱なかが明るく照らしだされます。
 音楽も奏でるようになっていました。
 
+![micro:bit宝箱](/assets/images/2023/2023-05-13-microbit.jpg)
+
 みんな興味津々で、前に集まって動作を確認していました。
 
 ### Scratch:動く救急車
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">CoderDojo平群<br>4人目の発表は 初参加の女の子。<br> 今日初めて スクラッチを使いました。お父さんと一緒に一生懸命 発表してくれました🎉🎉<br> すごく緊張した様子だったけれども 発表の後はみんなからの温かい拍手👏<br>最後は誇らしげな笑顔で帰って行ってくれたのが印象的でした✨✨ <a href="https://t.co/L8i1lomMmt">pic.twitter.com/L8i1lomMmt</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1657238654165856257?ref_src=twsrc%5Etfw">May 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 初めて参加したのですが、発表をしていました。
 少し恥ずかしいのか、お父さんと一緒に発表していました。
 
@@ -130,6 +140,8 @@ Facemesh2Scratch拡張機能は、簡単に顔の部品の座標がわかるよ�
 コーディングは、ライブで行いましたが、こんな簡単なコードになりました。
 
 ### Scratchとマインクラフトの作品
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo平群</a> <br>最後の発表は 今回も 中学2年生の男の子👦<br>スクラッチでクイズを作ってBGMも プログラムを書いてくれました。<br><br>小学3年生からやっているマイクラも 発表。<br>中学生になってからコマンドも使うようになったそうです。<br>このニンジャが発表すると ちびっこたちが寄ってきます😄💕 <a href="https://t.co/tMpMcZh9rh">pic.twitter.com/tMpMcZh9rh</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1657240937670770691?ref_src=twsrc%5Etfw">May 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Scratchでは、クイズを作っていました。
 ニンジャらに答えてもらっていたのですが、若い(?)ニンジャにとっては難しい問題になっていました。
 
