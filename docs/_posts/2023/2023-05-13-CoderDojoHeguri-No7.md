@@ -64,6 +64,7 @@ micro:bitの子は、ボタンを押すと開く宝箱を作っていました�
 ![M5Stack展示](/assets/images/2023/2023-05-13-m5stack.jpg)
 
 M5Stackの展示は、今回は4組ものニンジャや保護者が見に来てくれたので、むとうはとっても満足しました!!
+女の子の一番人気は、ここでもスタックチャンでした。スタックチャン強い!!
 
 これからの別のCoderDojoでも、同じような展示をしたいなぁと考えています。
 
@@ -97,7 +98,7 @@ Scratchの猫ちゃんが日めくりカレンダーをめくっていくとい�
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">CoderDojo平群<br>3人目の発表は マイクロ ビットのサーボモータを使って箱を開けて音楽が流れる仕組みを作った小学2年生の男の子😄<br>発表の途中で曲を変えたり メッセージを表示できるように改変してくれました✨✨<br>箱が勝手に開く仕組みに子供も大人も興味津々👀 <a href="https://t.co/EWvr0d6uOE">pic.twitter.com/EWvr0d6uOE</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1657237806174072834?ref_src=twsrc%5Etfw">May 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 micro:bitのボタンスイッチを押すと開く宝箱です。
-宝箱が開くと、LCDに文字が表示されることで、宝箱なかが明るく照らしだされます。
+宝箱が開くと、LCDに文字が表示されることで、宝箱の中が明るく照らしだされます。
 音楽も奏でるようになっていました。
 
 ![micro:bit宝箱](/assets/images/2023/2023-05-13-microbit.jpg)
@@ -118,24 +119,26 @@ micro:bitのボタンスイッチを押すと開く宝箱です。
 
 今回、いろいろな独自拡張機能が使えるScratchである[Stretch3](https://stretch3.github.io/)でデモを行いました。
 
-ひとつめは、M5Stack (M5StickCPlus)とScratch([Stretch3](https://stretch3.github.io/))を使ったデモです。
+ひとつめは、[M5Stack](https://m5stack.com/) (M5StickCPlus)とScratch([Stretch3](https://stretch3.github.io/))を使ったデモです。
 今回、[腕時計マウントをつけたM5StickCPlus](https://www.switch-science.com/products/7535)を使いました。
 デモは、以下のような動作をします。
 - 傾けると猫ちゃんがその傾きに応じて動きます。
 - ボタンを押すと、ボタンが押されたことを猫ちゃんがしゃべります。
 - 顔とハートが交互に画面に表示されています。
+- LEDが点滅を繰り返します。
 
 M5Stackと一緒に使っていたプログラムは、[Microbit More](https://microbit-more.github.io/index-ja.html)といって、元々はmicro:bitとScratchを使うためのものです。
 Microbit Moreでは、micro:bitのピンが扱えるようになっていて、アナログやデジタルの入力をしたり、サーボモータが動かせるようになっています。
 micro:bitをお持ちの方は、これを使ってみても面白いと思います。
 
-![Facemesh2Scratchの画面](/assets/images/2023/2023-05-13-Facemesh2Scratch-code.png)
+![Facemesh2Scratchの画面](/assets/images/2023/2023-05-13-Facemesh2Scratch.png)
 
-ふたつめは、Stretch3のFacemesh2Scratch拡張機能を使ったデモです。
+ふたつめは、Stretch3の[Facemesh2Scratch](https://github.com/champierre/facemesh2scratch)拡張機能を使ったデモです。
 Facemesh2Scratch拡張機能は、簡単に顔の部品の座標がわかるようになっています。
 これを使って、鼻の位置に猫ちゃんを動かすコードを書いて、みんなの鼻を追いかけるデモにしました。
+何人かが同時に試して、鼻の取り合いになっていました。
 
-![Facemesh2Scratchのコード](/assets/images/2023/2023-05-13-Facemesh2Scratch.png)
+![Facemesh2Scratchのコード](/assets/images/2023/2023-05-13-Facemesh2Scratch-code.png)
 
 コーディングは、ライブで行いましたが、こんな簡単なコードになりました。
 
@@ -158,6 +161,7 @@ Scratchでは、クイズを作っていました。
 ## おわりに
 今回もCoderDojo 平群は楽しく過ごせました。
 
-奈良CoderDojoコミュニティとしての次回は、[2023/06/10(土) 9:00-12:00のCoderDojo 平群No.8](https://coderdojo-nara-ikoma.connpass.com/event/280435/)です。
+奈良CoderDojoコミュニティとしての次回は、[2023/05/20(土)13:00-16:00のCoderDojo 奈良 No.73](https://coderdojo-nara-ikoma.connpass.com/event/283152/)です。
+また、CoderDojo平群としての次回は、[2023/06/10(土) 9:00-12:00のCoderDojo 平群 No.8](https://coderdojo-nara-ikoma.connpass.com/event/280435/)です。
 
 みなさんも、是非、奈良のCoderDojoに遊びに来てくださいね。
