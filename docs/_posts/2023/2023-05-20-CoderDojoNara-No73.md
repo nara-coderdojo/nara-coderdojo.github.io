@@ -46,7 +46,7 @@ Scratchは、いつもの通りにみんなマイペースで作品を作って�
 
 ![micro:bitで作品を作る](/assets/images/2023/2023-05-20-microbit-work.jpg)
 
-赤と緑のLEDがあったので、信号機を作ることにチャレンジしていました。
+micro:bitをやっていた子は、赤と緑のLEDがあったので、信号機を作ることにチャレンジしていました。
 
 ## 展示
 今回、メンターむとうによるM5Stackの展示が行われていました。
@@ -55,7 +55,7 @@ Scratchは、いつもの通りにみんなマイペースで作品を作って�
 
 今回、M5Stackを使ってブロックプログラミングをするUIFlowを使うために2.4GHzの無線LANが必要なのですが、その準備を忘れてしまってUIFlow関係の展示は無理でした。
 
-- M5bitLess で Scratch と遊ぶ: ScratchとM5Stackを使う例です。発表でもデモをしました。
+- M5bitLess で Scratch と遊ぶ: ScratchとM5Stackを使う例です。
 - hapStak でブルブルブル: 音が出ると、それらしい振動を返してくれるデバイスのhapStakの紹介です。
 - M5PaperとCoreInk名札: M5Stackのe-Inkを使ったシリーズで名札を作っていました。
 - M5Badge ピカピカ: [M5Stack Japan Tour 2023 Spring](https://www.switch-science.com/blogs/magazine/m5stackjapantour2023)でもらった光るバッジをランダムな色で光らせていました。
