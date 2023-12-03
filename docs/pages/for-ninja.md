@@ -15,24 +15,24 @@ sitemap: false
     - [問い合わせ先](#問い合わせ先)
 
 ## 本を借りる
-CoderDojo 奈良・生駒では、Dojoに参加する子どもたちで共有するために寄付でいただいたお金で本を購入していましたが、最近は著者の方からプログラミングに関する本を献呈いただくことも多くなったこともあって、蔵書が増えてきました。
+CoderDojo 生駒では、Dojoに参加する子どもたちで共有するために寄付でいただいたお金で本を購入していましたが、最近は著者の方からプログラミングに関する本を献呈いただくことも多くなったこともあって、蔵書が増えてきました。
 
-現状、これらの本を実際に読んでいる方はほとんどいないのですが、より積極的に活用してもらえるよう、リブライズというサービスを使って「CoderDojo 奈良・生駒ライブラリ」を開設。貸出の管理をすることにしました。
+現状、これらの本を実際に読んでいる方はほとんどいないのですが、より積極的に活用してもらえるよう、リブライズというサービスを使って「CoderDojo 生駒ライブラリ」を開設。貸出の管理をすることにしました。
 
 [![リブライズ-すべての本棚を図書館に](/assets/images/supported-by-librize-ja-256x128.png)](https://librize.com/)
 
 現在借りられる本の一覧は以下のリンク先（2箇所）で確認できます。
 
-- [CoderDojo 奈良・生駒ライブラリ](https://librize.com/places/1563)
+- [CoderDojo 生駒ライブラリ](https://librize.com/places/1563)
 - [crosslibray](https://librize.com/crosslibrary)
 
-すべての本を各Dojoに持って行くのは無理ですので、読みたいなと思う本があれば[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までメールでご連絡ください。借りるほどでもないけどちょっと読んでみたいでもOKです。
+すべての本を各Dojoに持って行くのは無理ですので、読みたいなと思う本があれば[ikoma.jp@coderdojo.com](mailto:ikoma.jp@coderdojo.com)までメールでご連絡ください。借りるほどでもないけどちょっと読んでみたいでもOKです。
 せっかくの本です置いとくのはもったいないので、気軽にご連絡ください。
 
 ### 利用者カードについて
 #### ニンジャ
-図書館で本を借りるのに利用者カードが必要なように、「CoderDojo 奈良・生駒ライブラリ」でも利用者カードが必要です。
-「CoderDojo 奈良・生駒ライブラリ」では忍者の名札が利用者カードになります。最初に本を借りる時に名札の裏に専用のバーコードシールを貼り付けます。
+図書館で本を借りるのに利用者カードが必要なように、「CoderDojo 生駒ライブラリ」でも利用者カードが必要です。
+「CoderDojo 生駒ライブラリ」では忍者の名札が利用者カードになります。最初に本を借りる時に名札の裏に専用のバーコードシールを貼り付けます。
 
 #### 大人
 大人の方が本を借りられる場合は、スマートフォンが利用者カードになります。スマートフォンで以下のサイトにアクセスすると"Facebookでログイン"もしくは"LINEでログイン"のボタンがありますので、どちらかでログインしてください。ログインすると専用のバーコードのついた画面が表示されますので、こちらが貸し出しカードになります。
@@ -74,7 +74,7 @@ CoderDojoでは、オンライン学習サービス"[Progate](https://prog-8.com
 
 [プログラミング学習のProgate、全国のCoderDojoへ法人プランの無料提供開始](https://news.coderdojo.jp/2018/10/29/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e5%ad%a6%e7%bf%92%e3%81%aeprogate%e3%80%81%e5%85%a8%e5%9b%bd%e3%81%aecoderdojo%e3%81%b8%e6%b3%95%e4%ba%ba%e3%83%97%e3%83%a9%e3%83%b3/)
 
-こちらのサービスを利用して、より多くのプログラミング言語を学びたい方は、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までご連絡ください。折り返し登録用のURLをお送りします。
+こちらのサービスを利用して、より多くのプログラミング言語を学びたい方は、[ikoma.jp@coderdojo.com](mailto:ikoma.jp@coderdojo.com)までご連絡ください。折り返し登録用のURLをお送りします。
 
 ### micro:bit
 [micro:bit](https://microbit.org/ja/)はイギリスで開発された教育用途のシングルボードコンピュータで、プログラミングにはPCが必要ですがPCで作ったプログラムを転送すれば単体で動作させることができるものです。
@@ -123,8 +123,8 @@ CoderDojoで保有しているmicro:bit関連機器として、[micro:Maqeueen](
 - [Instagram](https://www.instagram.com/nara.coderdojo/)
 
 ### 問い合わせ先
-お問い合わせについては、各Dojoへお願いします。どのDojoに問い合わせたらいいかわからない場合は、[奈良](mailto:nara.jp@coderdojo.com)へご連絡ください。
+お問い合わせについては、各Dojoへお願いします。どのDojoに問い合わせたらいいかわからない場合は、[奈良](mailto:ikoma.jp@coderdojo.com)へご連絡ください。
 
-- [奈良:nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)
+- [奈良:ikoma.jp@coderdojo.com](mailto:ikoma.jp@coderdojo.com)
 - [生駒:ikoma.jp@coderdojo.com](mailto:ikoma.jp@coderdojo.com)
-- [平群:Heguri_Nara.jp@coderdojo.com](mailto:Heguri_Nara.jp@coderdojo.com)
+- [平群:Heguri_ikoma.jp@coderdojo.com](mailto:Heguri_ikoma.jp@coderdojo.com)

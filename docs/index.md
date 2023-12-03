@@ -4,7 +4,7 @@ permalink: /
 title: "Home"
 excerpt: "子どもと大人のためのプログラミングクラブ"
 ---
-![奈良CoderDojoコミュニティ](/assets/images/OGP/default_.png)
+![奈良CoderDojoコミュニティ](/assets/images/OGP/default.png)
 ## CoderDojoとは
 CoderDojoは2011年にアイルランドで始まった世界的な活動で、私たちは「子どもと大人のためのプログラミングクラブ」です。
 
@@ -47,11 +47,6 @@ CoderDojoのただひとつのルールは、"Be Cool!（カッコよくあれ�
 それぞれ毎月一回開催しています。参加方法の詳細については[「参加する」](/join/)をご覧ください。
 [参加申し込みはconnpass](https://coderdojo-nara-ikoma.connpass.com/)で承っています
 
-### CoderDojo 奈良
-![](/assets/images/icon/NARA_black_white.png)
-- 場所：〒630-8115 奈良県奈良市大宮町３丁目５−４１ ぷろぼの福祉ビル 5F会議室（[Google Maps](https://goo.gl/maps/6o8AhhvTSzvU7APi7)）
-- 開催日：毎月第三土曜日（月によって変わる場合があります）
-
 ### CoderDojo 生駒
 ![](/assets/images/icon/IKOMA_green.png)
 - 場所：〒630-0257 奈良県生駒市元町１丁目７−６ 生駒市 市民活動推進センター ららポート（[Google Maps](https://goo.gl/maps/6SxZnQfwDqD6YhH19)）
@@ -61,9 +56,5 @@ CoderDojoのただひとつのルールは、"Be Cool!（カッコよくあれ�
 - 場所：〒636-0914 奈良県生駒郡平群町西宮1-10-5 西宮公民館（[Google Maps](https://goo.gl/maps/9TKYdTLaxtKgNv9p9)）
 - 開催日：不定期（随時案内します）
 
-
 ## 開催予定
-各Dojoの開催予定は以下のカレンダーをご覧ください。
-<iframe src="https://calendar.google.com/calendar/b/2/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nara.jp%40coderdojo.com&amp;color=%231B887A&amp;ctz=Asia%2FTokyo" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
-
-他の地域のCoderDojo開催予定は[近日開催の道場](https://coderdojo.jp/events)で探せます。
+各CoderDojo開催予定は[近日開催の道場](https://coderdojo.jp/events)で探せます。
