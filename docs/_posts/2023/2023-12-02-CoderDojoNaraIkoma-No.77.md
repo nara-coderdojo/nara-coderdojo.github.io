@@ -58,7 +58,7 @@ DojoCon2023 Naraのセッションなどの様子の一部は、YouTubeページ
 
 「発表聞いてくれないとおとなでも泣くぞ(;-;)」 by わかさん。
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">CoderDojo生駒に参加しました。DojoConぶりの県内のメンバーとの再開✨<br><br>今日の発表は大人2人でした。<br>マイクロビットで光る工具箱。<br>英語で喋ってくれるスタックチャンでした。<br><br>ちゃんと聞いてくれないと、大人だって泣いちゃうぞー😆 <a href="https://t.co/FaQOhRwQZm">pic.twitter.com/FaQOhRwQZm</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1730861540298117547?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">CoderDojo生駒に参加しました。DojoConぶりの県内のメンバーとの再開✨<br><br>今日の発表は大人2人でした。<br>マイクロビットで光る工具箱。<br>英語で喋ってくれるスタックチャンでした。<br><br>ちゃんと聞いてくれないと、大人だって泣いちゃうぞー😆 <a href="https://t.co/FaQOhRwQZm">pic.twitter.com/FaQOhRwQZm</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1730861540298117547?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### micro:bit Xmas飾り by わかさん
 わかさんは、今micro:bitとLEDテープを使ってXmas飾りを作っています。
@@ -74,6 +74,8 @@ DojoCon2023 Naraのセッションなどの様子の一部は、YouTubeページ
 今回、ｽﾀｯｸﾁｬﾝとScratchの拡張機能てんこ盛り版の[Stretch3(ストレッチスリー)](https://stretch3.github.io/)を使って、音声入力した言葉を翻訳して、ｽﾀｯｸﾁｬﾝに話してもらうデモを発表しました。
 
 ニンジャの要望で、その場で中国語に変換するデモに改造してみました。
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">CoderDojo生駒に参加しました。DojoConぶりの県内のメンバーとの再開✨<br><br>今日の発表は大人2人でした。<br>マイクロビットで光る工具箱。<br>英語で喋ってくれるスタックチャンでした。<br><br>ちゃんと聞いてくれないと、大人だって泣いちゃうぞー😆 <a href="https://t.co/FaQOhRwQZm">pic.twitter.com/FaQOhRwQZm</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1730861540298117547?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## おわりに
 今回、メンターがなんとなくXmasムードを醸し出していましたが、ニンジャは通常運転でした。
