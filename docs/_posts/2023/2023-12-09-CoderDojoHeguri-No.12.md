@@ -31,6 +31,8 @@ categories:
 以下、詳しく内容を見ていきます。
 
 ### Xmasツリーにmicro:bitで飾りつけ
+tweet change
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> micro:bit <a href="https://twitter.com/hashtag/Xmas?src=hash&amp;ref_src=twsrc%5Etfw">#Xmas</a> tree. <a href="https://t.co/Lo6rKBkpR8">pic.twitter.com/Lo6rKBkpR8</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733362346704490693?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 チャンピオンの発案で、Xmasツリーが出され、micro:bitで飾りつけようということになりました。
@@ -63,26 +65,31 @@ Scratchは[CoderDojo市川](https://ichikawa.coderdojo.chiba.jp/)が作られた
 発表をした子には、シールや、にゃんこ大戦争のうちわやカードなどのうち、どれかがもらえました。
 
 ### MineCraft:ミルクやりゲームと秘密基地 (小1)
+tweet
+
 まずは、牛にミルクをやるミニゲームを紹介してくれました。
 
 その後で、自分の世界の紹介です。
 トロッコ、パンダ、ジェットコースターや、秘密基地からの自分の家へ移動して紹介、巨大プールとウォータースライダーなどなど。
 本当は、天国も紹介したいようでしたが、次回に持ち越しということで。
 
-### Scratch:ダイヤを探せ!! (小4)
+### Scratch三連発
+tweet
+
+#### Scratch:ダイヤを探せ!! (小4)
 画面に隠されたダイヤをクリックして探すゲームです。
 当初、隠された場所が固定だったので、試したニンジャにはすぐにバレてしまいました。
 
 そこで、ライブコーディングで、ランダムに場所を決めるように変更しました。
 ランダムに置かれると、とても難しいゲームになっていました。
 
-### Scratch:ジャンプで避けろ!! (小2)
+#### Scratch:ジャンプで避けろ!! (小2)
 転がってくるリンゴをジャンプで避けるゲームです。
 ちょうど、[chrome://dino/](chrome://dino/)を想像してもらえればいいと思います。
 
 かなり難易度高めて、試したニンジャはクリアできずに全滅していました。
 
-### Scratch:コインタッチ (小3)
+#### Scratch:コインタッチ (小3)
 コインが逃げていくのですが、このコインをマウスで追いかけてクリックできると得点が入ります。
 
 ゲームが終わる3秒前から音を出したいということで、ライブコーディングがはじまりました。
@@ -92,6 +99,8 @@ Scratchは[CoderDojo市川](https://ichikawa.coderdojo.chiba.jp/)が作られた
 今後、簡単モードを作りたいということでした。
 
 ### MineCraft:回転寿司と登りゲーム (小3)
+tweet
+
 回転寿司が回っている世界です。
 うまく寿司をクリックできると、寿司券が手に入ります。
 寿司をクリックするのは、かなり難しそうでした。
