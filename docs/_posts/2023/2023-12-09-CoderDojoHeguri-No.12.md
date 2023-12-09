@@ -129,8 +129,21 @@ CoderDojo平群は、2024/01/13(土)9:00-12:00の予定です。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> 本日の展示。<a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> <a href="https://twitter.com/hashtag/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D?src=hash&amp;ref_src=twsrc%5Etfw">#ｽﾀｯｸﾁｬﾝ</a> <a href="https://twitter.com/hashtag/hapStak?src=hash&amp;ref_src=twsrc%5Etfw">#hapStak</a> <a href="https://twitter.com/hashtag/reTerminal?src=hash&amp;ref_src=twsrc%5Etfw">#reTerminal</a> <a href="https://twitter.com/hashtag/NT%E5%B1%B1%E5%9F%8E?src=hash&amp;ref_src=twsrc%5Etfw">#NT山城</a> の時には、これに <a href="https://twitter.com/hashtag/MacMini?src=hash&amp;ref_src=twsrc%5Etfw">#MacMini</a> が増える予定。 <a href="https://t.co/zrZH0Voyo7">pic.twitter.com/zrZH0Voyo7</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733285974531285438?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### デモ内容
+以下のようなデモ展示をスペースをお借りしてやっていました。
+
+次回、2023/12/16の[NT山城](https://wiki.nicotech.jp/nico_tech/?NT%E5%B1%B1%E5%9F%8E2023)で展示予定です。
 
 #### 持ってきたもの
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> 本日の展示。<a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> <a href="https://twitter.com/hashtag/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D?src=hash&amp;ref_src=twsrc%5Etfw">#ｽﾀｯｸﾁｬﾝ</a> <a href="https://twitter.com/hashtag/hapStak?src=hash&amp;ref_src=twsrc%5Etfw">#hapStak</a> <a href="https://twitter.com/hashtag/reTerminal?src=hash&amp;ref_src=twsrc%5Etfw">#reTerminal</a> <a href="https://twitter.com/hashtag/NT%E5%B1%B1%E5%9F%8E?src=hash&amp;ref_src=twsrc%5Etfw">#NT山城</a> の時には、これに <a href="https://twitter.com/hashtag/MacMini?src=hash&amp;ref_src=twsrc%5Etfw">#MacMini</a> が増える予定。 <a href="https://t.co/zrZH0Voyo7">pic.twitter.com/zrZH0Voyo7</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733285974531285438?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+以下のようなものを持って来て展示していました。
+- M5Stackシリーズ
+ - [ｽﾀｯｸﾁｬﾝ](https://protopedia.net/prototype/2345):ｽｰﾊﾟｰｶﾜｲｲﾛﾎﾞｯﾄです。今回は、Bluetoothスピーカー版を使いました。
+ - 光る鹿カチューチャ with [Neco Unit](https://www.switch-science.com/products/9128):猫耳がピカピカ光ります。奈良で売っている鹿のカチューシャにつけてみました。
+ - [Cardputer](https://www.switch-science.com/products/9277): かわいいカードサイズのコンピューターです。
+ - [ATOM Mate for toio](https://www.switch-science.com/products/8500): [toio](https://toio.io/)をM5Stackから使えるようにするものです。
+ - その他色々
+- 振動体感デバイス: [hapStak](https://bit-trade-one.co.jp/hapstak/)
 
 ### X(旧twitter) post(旧tweet)
 以下に、むとうのつぶやきを。
