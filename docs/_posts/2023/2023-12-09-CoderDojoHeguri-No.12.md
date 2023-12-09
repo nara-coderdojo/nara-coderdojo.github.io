@@ -15,7 +15,6 @@ categories:
 
 ## 参加者構成
 参加者の構成は、以下の通りです。
-ニンジャやユースメンター、保護者やメンターの人数は、重複したりしている可能性があります。
 - ニンジャ x 9
 - 保護者 x 6
 - メンター x 2 + チャンピオン
@@ -59,10 +58,11 @@ Scratchは[CoderDojo市川](https://ichikawa.coderdojo.chiba.jp/)が作られた
 ## 発表
 今回の発表は、以下の通りです。
 9人中5人も発表してくれました。
+内訳は、MineCraftが2名、Scratchが3名です。
 
 発表中にライブコーディングする子も多く、ツッコミにすぐに答えられるのが素晴らしいと思いました。
 
-発表をした子には、シールや、にゃんこ大戦争のうちわやカードなどのうち、どれかがもらえました。
+発表をした子には、シール、にゃんこ大戦争のうちわやカードなどのうち、どれか一つがもらえました。
 
 #### MineCraft:ミルクやりゲームと秘密基地 (小1)
 tweet
@@ -71,26 +71,29 @@ tweet
 
 その後で、自分の世界の紹介です。
 トロッコ、パンダ、ジェットコースターや、秘密基地からの自分の家へ移動して紹介、巨大プールとウォータースライダーなどなど。
-本当は、天国も紹介したいようでしたが、次回に持ち越しということで。
+本当は、天国も紹介したいようでしたが、次回に持ち越しということになりました。
 
 ### Scratch三連発
 tweet
+
+三連続でScratchで作られた作品の紹介がありました。
 
 #### Scratch:ダイヤを探せ!! (小4)
 画面に隠されたダイヤをクリックして探すゲームです。
 当初、隠された場所が固定だったので、試したニンジャにはすぐにバレてしまいました。
 
 そこで、ライブコーディングで、ランダムに場所を決めるように変更しました。
-ランダムに置かれると、とても難しいゲームになっていました。
+完全にランダムに置かれると、とても難しいゲームになっていました。
 
 #### Scratch:ジャンプで避けろ!! (小2)
 転がってくるリンゴをジャンプで避けるゲームです。
-ちょうど、[chrome://dino/](chrome://dino/)を想像してもらえればいいと思います。
+ちょうど、[Google chromeで恐竜(dino)がジャンプするゲーム](chrome://dino/)を想像してもらえればいいと思います。
 
 かなり難易度高めて、試したニンジャはクリアできずに全滅していました。
 
 #### Scratch:コインタッチ (小3)
 コインが逃げていくのですが、このコインをマウスで追いかけてクリックできると得点が入ります。
+モードには、普通と難しいがありました。
 
 ゲームが終わる3秒前から音を出したいということで、ライブコーディングがはじまりました。
 ユースメンターのお兄ちゃんと一緒に音が出るように変更しました。
@@ -133,18 +136,24 @@ CoderDojo平群は、2024/01/13(土)9:00-12:00の予定です。
 
 
 ## おまけ: むとうの乱心
+むとうは、CoderDojo平群が楽しみすぎて、前日からおかしくなっていました。
 
-### デモ & 持ってきたもの
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> 本日の展示。<a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> <a href="https://twitter.com/hashtag/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D?src=hash&amp;ref_src=twsrc%5Etfw">#ｽﾀｯｸﾁｬﾝ</a> <a href="https://twitter.com/hashtag/hapStak?src=hash&amp;ref_src=twsrc%5Etfw">#hapStak</a> <a href="https://twitter.com/hashtag/reTerminal?src=hash&amp;ref_src=twsrc%5Etfw">#reTerminal</a> <a href="https://twitter.com/hashtag/NT%E5%B1%B1%E5%9F%8E?src=hash&amp;ref_src=twsrc%5Etfw">#NT山城</a> の時には、これに <a href="https://twitter.com/hashtag/MacMini?src=hash&amp;ref_src=twsrc%5Etfw">#MacMini</a> が増える予定。 <a href="https://t.co/zrZH0Voyo7">pic.twitter.com/zrZH0Voyo7</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733285974531285438?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### デモ展示 & 持ってきたもの
+以下のようなものを持ってきて、展示していました。
 
-#### デモ内容
+#### デモ展示
 以下のようなデモ展示をスペースをお借りしてやっていました。
 
-次回、2023/12/16の[NT山城](https://wiki.nicotech.jp/nico_tech/?NT%E5%B1%B1%E5%9F%8E2023)で展示予定です。
-
-#### 持ってきたもの
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> 本日の展示。<a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> <a href="https://twitter.com/hashtag/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D?src=hash&amp;ref_src=twsrc%5Etfw">#ｽﾀｯｸﾁｬﾝ</a> <a href="https://twitter.com/hashtag/hapStak?src=hash&amp;ref_src=twsrc%5Etfw">#hapStak</a> <a href="https://twitter.com/hashtag/reTerminal?src=hash&amp;ref_src=twsrc%5Etfw">#reTerminal</a> <a href="https://twitter.com/hashtag/NT%E5%B1%B1%E5%9F%8E?src=hash&amp;ref_src=twsrc%5Etfw">#NT山城</a> の時には、これに <a href="https://twitter.com/hashtag/MacMini?src=hash&amp;ref_src=twsrc%5Etfw">#MacMini</a> が増える予定。 <a href="https://t.co/zrZH0Voyo7">pic.twitter.com/zrZH0Voyo7</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733285974531285438?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+デモの内容は、以下のとおりです。
+- ｽﾀｯｸﾁｬﾝで音声入力して、翻訳して、ｽﾀｯｸﾁｬﾝにしゃべってもらう(参考:[ｽﾀｯｸﾁｬﾝとScratchﾁｬﾝ](https://protopedia.net/prototype/4967))。
+- 猫ちゃん(鹿!?)耳をキラキラと光らせる。
+- Scratchで音を出して、hapStakで振動を体験してもらう(参考:[ドラムを叩こう!!:ScratchとM5bitLessで遊ぶhapStak](https://protopedia.net/prototype/2848), [M5StackとScratchとhapStakでスポーツの秋に挑戦!!](https://protopedia.net/prototype/2549))。
+
+これらのデモは、2023/12/16の[NT山城](https://wiki.nicotech.jp/nico_tech/?NT%E5%B1%B1%E5%9F%8E2023)でも展示予定です。
+
+#### 持ってきたもの
 以下のようなものを持って来て展示していました。
 - M5Stackシリーズ
   - [ｽﾀｯｸﾁｬﾝ](https://protopedia.net/prototype/2345):ｽｰﾊﾟｰｶﾜｲｲﾛﾎﾞｯﾄです。今回は、Bluetoothスピーカー版を使いました。
@@ -153,18 +162,27 @@ CoderDojo平群は、2024/01/13(土)9:00-12:00の予定です。
   - [ATOM Mate for toio](https://www.switch-science.com/products/8500): [toio](https://toio.io/)をM5Stackから使えるようにするものです。
   - その他色々
 - 振動体感デバイス: [hapStak](https://bit-trade-one.co.jp/hapstak/)
+- [reTerminal](https://www.switch-science.com/products/7435): Raspberry Piベースのコンパクトなコンピューターです。
 
 ### X(旧twitter) post(旧tweet)
 以下に、むとうのつぶやきを。
 
 #### 早く着きすぎた(^-^;)
+電車、もう一本遅らせても間に合うんですが、とりあえず余裕のある到着を。
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> 楽しみすぎて、早く着きすぎる;-) <a href="https://t.co/TiURF1U6oe">pic.twitter.com/TiURF1U6oe</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733278101575238048?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Xmasムード満載
+やっぱりXmasなので、ピカピカは必要でしょう!!
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/Xmas?src=hash&amp;ref_src=twsrc%5Etfw">#Xmas</a> 仕様、年甲斐もなく。<a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a><a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> <a href="https://t.co/JJTIAqBjxD">pic.twitter.com/JJTIAqBjxD</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733295289744888013?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### この名札も変えたいなぁ
+電子ペーパーのこの名札、随分長いこと表示内容変えてないので、そろそろ変えないとなぁ…
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> 本日の展示。<a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> <a href="https://twitter.com/hashtag/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D?src=hash&amp;ref_src=twsrc%5Etfw">#ｽﾀｯｸﾁｬﾝ</a> <a href="https://twitter.com/hashtag/hapStak?src=hash&amp;ref_src=twsrc%5Etfw">#hapStak</a> <a href="https://twitter.com/hashtag/reTerminal?src=hash&amp;ref_src=twsrc%5Etfw">#reTerminal</a> <a href="https://twitter.com/hashtag/NT%E5%B1%B1%E5%9F%8E?src=hash&amp;ref_src=twsrc%5Etfw">#NT山城</a> の時には、これに <a href="https://twitter.com/hashtag/MacMini?src=hash&amp;ref_src=twsrc%5Etfw">#MacMini</a> が増える予定。 <a href="https://t.co/zrZH0Voyo7">pic.twitter.com/zrZH0Voyo7</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733285974531285438?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### 前日の様子
+前日もこんな感じで、おうちでお店開いてました。
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">明日、 <a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> に持って行く荷物まとめてる。<a href="https://twitter.com/hashtag/NT%E5%B1%B1%E5%9F%8E?src=hash&amp;ref_src=twsrc%5Etfw">#NT山城</a> に向けての調整の意味もある。<a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> <a href="https://twitter.com/hashtag/hapStak?src=hash&amp;ref_src=twsrc%5Etfw">#hapStak</a> <a href="https://twitter.com/hashtag/reTerminal?src=hash&amp;ref_src=twsrc%5Etfw">#reTerminal</a> <a href="https://twitter.com/hashtag/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D?src=hash&amp;ref_src=twsrc%5Etfw">#ｽﾀｯｸﾁｬﾝ</a> <a href="https://twitter.com/hashtag/Scratch?src=hash&amp;ref_src=twsrc%5Etfw">#Scratch</a> ぐらいか? <a href="https://t.co/heKR1qhHIX">pic.twitter.com/heKR1qhHIX</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733025527601222041?ref_src=twsrc%5Etfw">December 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
