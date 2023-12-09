@@ -30,9 +30,7 @@ categories:
 以下、詳しく内容を見ていきます。
 
 ### Xmasツリーにmicro:bitで飾りつけ
-tweet change
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> micro:bit <a href="https://twitter.com/hashtag/Xmas?src=hash&amp;ref_src=twsrc%5Etfw">#Xmas</a> tree. <a href="https://t.co/Lo6rKBkpR8">pic.twitter.com/Lo6rKBkpR8</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733362346704490693?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2023.12.9 CoderDojo平群の開催報告です。今回は12回目。昨年11月から始まったCoderDojo平群は無事一周年を迎えることができました✌️<br>忍者9人、保護者6人、メンター2人、チャンピオン1人の計18人の参加。常連さんばかりの和やかな雰囲気でスタート。会場のツリーを組み立ててマイクロビットで飾り付け <a href="https://t.co/BEM3BTyVQs">pic.twitter.com/BEM3BTyVQs</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1733451449634566412?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 チャンピオンの発案で、Xmasツリーが出され、micro:bitで飾りつけようということになりました。
 3人程が音を出したり、画面を出したりにチャレンジしていました。
@@ -65,7 +63,7 @@ Scratchは[CoderDojo市川](https://ichikawa.coderdojo.chiba.jp/)が作られた
 発表をした子には、シール、にゃんこ大戦争のうちわやカードなどのうち、どれか一つがもらえました。
 
 #### MineCraft:ミルクやりゲームと秘密基地 (小1)
-tweet
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">お待ちかねの発表タイム。1人目はMinecraftでジェットコースターを作ってくれた男の子。おしゃべりが上手でプレゼンも大得意！<br>みんなモニターの前に集まってきました。<br>実はCoderDojo平群は前回11月はお休みだったのですが、<br>今日の久しぶりの道場が楽しみすぎて、朝6時に起きてしまったそうです🥰 <a href="https://t.co/zZj6G36tfH">pic.twitter.com/zZj6G36tfH</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1733454320191066126?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 まずは、牛にミルクをやるミニゲームを紹介してくれました。
 
@@ -74,7 +72,7 @@ tweet
 本当は、天国も紹介したいようでしたが、次回に持ち越しということになりました。
 
 ### Scratch三連発
-tweet
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">続いてはスクラッチでの作品作りに取り組んでくれた3人の女の子の発表。<br><br>💎ダイヤ探しのゲーム<br>🍎転がるりんごをジャンプして避けるゲーム<br>🪙ランダムに現れるコインをクリックするゲーム<br>本やCoderDojo市川真間さん教材を参考にして作ってくれました😄<a href="https://t.co/X939xnqC0L">https://t.co/X939xnqC0L</a> <a href="https://t.co/6NB6WwxSMI">pic.twitter.com/6NB6WwxSMI</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1733456524096188918?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 三連続でScratchで作られた作品の紹介がありました。
 
@@ -102,7 +100,7 @@ tweet
 今後、簡単モードを作りたいということでした。
 
 #### MineCraft:回転寿司と登りゲーム (小3)
-tweet
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">発表5人目はMinecraftで回転寿司と、空へ伸びるアスレチックを作ってくれました。<br>最後の発表はメンターさん。<br>M5StackをStretch3でプログラム、<br>かわいいスタックチャンも紹介していただきました。<br><br>CoderDojo平群は毎月第2土曜日午前9時から12時まで開催しています。次回は1月13日を予定しています😄 <a href="https://t.co/xiLImMxxQR">pic.twitter.com/xiLImMxxQR</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1733463336006910351?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 回転寿司が回っている世界です。
 うまく寿司をクリックできると、寿司券が手に入ります。
