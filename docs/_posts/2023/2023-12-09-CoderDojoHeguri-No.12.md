@@ -42,9 +42,9 @@ MineCraft兄弟ともうひとりは黙々と自分の世界を作っていま�
 詳しくは発表をご覧ください。
 
 ### Scratch
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> タブレットでスラスラとお絵かきするニンジャ。 <a href="https://t.co/IGukCWoOMP">pic.twitter.com/IGukCWoOMP</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733363647731351572?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あやまりがありましたので、以前のpostを削除しました。<br>こちら、<a href="https://t.co/DV5vLIMi9b">https://t.co/DV5vLIMi9b</a><br>の <a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B8%82%E5%B7%9D?src=hash&amp;ref_src=twsrc%5Etfw">#市川</a> の真間さんの作られたものだということです。 <a href="https://t.co/NGZh9r8wyu">pic.twitter.com/NGZh9r8wyu</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733435060966309902?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Scratchは平群で独自に作ったチュートリアルを使ってプログラミングしていた人が多かったです。
+Scratchは[CoderDojo市川](https://ichikawa.coderdojo.chiba.jp/)が作られた[プログラミング学習のための教材](https://beyondbb.jp/CDmama/materials.html)チュートリアルを使ってプログラミングしていた人が多かったです。
 
 
 ### お絵かきソフト
