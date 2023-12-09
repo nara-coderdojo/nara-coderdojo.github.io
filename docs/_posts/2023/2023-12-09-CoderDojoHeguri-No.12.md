@@ -14,8 +14,45 @@ categories:
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">CoderDojo平群です！<br>今回はマイクロビットでクリスマスツリーにで飾り付けをしたり音楽を奏でたりなど、マイクロビットを楽しんでいるニンジャ🥷が多かったです✨<br>毎月第2土曜日の朝９時から開催しているのでぜひお越しください👍 <a href="https://t.co/xqdWSHlCZy">pic.twitter.com/xqdWSHlCZy</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1733291751304302830?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 参加者構成
+参加者の構成は、以下の通りです。
+ニンジャやユースメンター、保護者やメンターの人数は、重複したりしている可能性があります。
+- ニンジャ x 7
+- 保護者 x 5
+- メンター x 4 + チャンピオン
 
 ## 作業内容
+ニンジャの作業内容は以下のような感じでした。
+作業内容には重複があります。
+- micro:bit x 3
+- Scratch x 4
+- MineCraft x 3
+- お絵かきソフト x 1
+
+以下、詳しく内容を見ていきます。
+
+### Xmasツリーにmicro:bitで飾りつけ
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> micro:bit <a href="https://twitter.com/hashtag/Xmas?src=hash&amp;ref_src=twsrc%5Etfw">#Xmas</a> tree. <a href="https://t.co/Lo6rKBkpR8">pic.twitter.com/Lo6rKBkpR8</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733362346704490693?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+チャンピオンの発案で、Xmasツリーが出され、micro:bitで飾りつけようということになりました。
+3人程が音を出したり、画面を出したりにチャレンジしていました。
+最終的には、二つのmicro:bitが飾り付けられました。
+
+### MineCraftで自分好みの世界を作る
+MineCraft兄弟ともうひとりは黙々と自分の世界を作っていました。
+詳しくは発表をご覧ください。
+
+### Scratch
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> タブレットでスラスラとお絵かきするニンジャ。 <a href="https://t.co/IGukCWoOMP">pic.twitter.com/IGukCWoOMP</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733363647731351572?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Scratchは平群で独自に作ったチュートリアルを使ってプログラミングしていた人が多かったです。
+
+
+### お絵かきソフト
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> タブレットでスラスラとお絵かきするニンジャ。 <a href="https://t.co/IGukCWoOMP">pic.twitter.com/IGukCWoOMP</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733363647731351572?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+タブレットでスラスラとお絵かきをしているニンジャもいました。
+何も見ずにあたりをつけることもなく描けるのがすごいと思いました。
+
 
 ## 発表
 
