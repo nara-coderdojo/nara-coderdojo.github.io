@@ -138,11 +138,11 @@ CoderDojo平群は、2024/01/13(土)9:00-12:00の予定です。
 
 以下のようなものを持って来て展示していました。
 - M5Stackシリーズ
- - [ｽﾀｯｸﾁｬﾝ](https://protopedia.net/prototype/2345):ｽｰﾊﾟｰｶﾜｲｲﾛﾎﾞｯﾄです。今回は、Bluetoothスピーカー版を使いました。
- - 光る鹿カチューチャ with [Neco Unit](https://www.switch-science.com/products/9128):猫耳がピカピカ光ります。奈良で売っている鹿のカチューシャにつけてみました。
- - [Cardputer](https://www.switch-science.com/products/9277): かわいいカードサイズのコンピューターです。
- - [ATOM Mate for toio](https://www.switch-science.com/products/8500): [toio](https://toio.io/)をM5Stackから使えるようにするものです。
- - その他色々
+  - [ｽﾀｯｸﾁｬﾝ](https://protopedia.net/prototype/2345):ｽｰﾊﾟｰｶﾜｲｲﾛﾎﾞｯﾄです。今回は、Bluetoothスピーカー版を使いました。
+  - 光る鹿カチューチャ with [Neco Unit](https://www.switch-science.com/products/9128):猫耳がピカピカ光ります。奈良で売っている鹿のカチューシャにつけてみました。
+  - [Cardputer](https://www.switch-science.com/products/9277): かわいいカードサイズのコンピューターです。
+  - [ATOM Mate for toio](https://www.switch-science.com/products/8500): [toio](https://toio.io/)をM5Stackから使えるようにするものです。
+  - その他色々
 - 振動体感デバイス: [hapStak](https://bit-trade-one.co.jp/hapstak/)
 
 ### X(旧twitter) post(旧tweet)
