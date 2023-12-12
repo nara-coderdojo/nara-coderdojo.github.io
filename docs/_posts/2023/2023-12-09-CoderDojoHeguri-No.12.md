@@ -43,7 +43,7 @@ MineCraft兄弟ともうひとりは黙々と自分の世界を作っていま�
 ### Scratch
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あやまりがありましたので、以前のpostを削除しました。<br>こちら、<a href="https://t.co/DV5vLIMi9b">https://t.co/DV5vLIMi9b</a><br>の <a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B8%82%E5%B7%9D?src=hash&amp;ref_src=twsrc%5Etfw">#市川</a> の真間さんの作られたものだということです。 <a href="https://t.co/NGZh9r8wyu">pic.twitter.com/NGZh9r8wyu</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733435060966309902?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Scratchは[CoderDojo市川](https://ichikawa.coderdojo.chiba.jp/)が作られた[プログラミング学習のための教材](https://beyondbb.jp/CDmama/materials.html)チュートリアルを使ってプログラミングしていた人が多かったです。
+Scratchは[CoderDojo市川真間](https://beyondbb.jp/CDmama/)さんが作られた[プログラミング学習のための教材](https://beyondbb.jp/CDmama/materials.html)チュートリアルを使ってプログラミングしていた人が多かったです。
 
 
 ### お絵かきソフト
@@ -178,7 +178,7 @@ CoderDojo平群は、2024/01/13(土)9:00-12:00の予定です。
 #### この名札も変えたいなぁ
 電子ペーパーのこの名札、随分長いこと表示内容変えてないので、そろそろ変えないとなぁ…
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> 本日の展示。<a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> <a href="https://twitter.com/hashtag/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D?src=hash&amp;ref_src=twsrc%5Etfw">#ｽﾀｯｸﾁｬﾝ</a> <a href="https://twitter.com/hashtag/hapStak?src=hash&amp;ref_src=twsrc%5Etfw">#hapStak</a> <a href="https://twitter.com/hashtag/reTerminal?src=hash&amp;ref_src=twsrc%5Etfw">#reTerminal</a> <a href="https://twitter.com/hashtag/NT%E5%B1%B1%E5%9F%8E?src=hash&amp;ref_src=twsrc%5Etfw">#NT山城</a> の時には、これに <a href="https://twitter.com/hashtag/MacMini?src=hash&amp;ref_src=twsrc%5Etfw">#MacMini</a> が増える予定。 <a href="https://t.co/zrZH0Voyo7">pic.twitter.com/zrZH0Voyo7</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733285974531285438?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">名札もそろそろ変えんとなぁ。<a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://t.co/7dh1VL6nu5">pic.twitter.com/7dh1VL6nu5</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1733339829268856991?ref_src=twsrc%5Etfw">December 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### 前日の様子
 前日もこんな感じで、おうちでお店開いてました。
