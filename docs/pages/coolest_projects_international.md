@@ -3,6 +3,17 @@ layout: page
 title:  "Coolest Projects Globalについて"
 permalink: /coolest_projects_international/
 ---
+
+[Coolest Projects](https://online.coolestprojects.org/)
+
+こちらのページは、日本からのエントリーをサポートするために公開していましたが、最近は[Google翻訳](https://translate.google.co.jp/?hl=ja)や[DeepL翻訳ツール](https://www.deepl.com/translator)のような機械翻訳の精度も高いので、そういったツールを使って参照されることをお勧めします。
+
+日本語で[よくあるご質問](https://online.coolestprojects.org/help-japanese)が公開されているようです。
+
+以下の内容は2022年までの内容に基づいたもので、参考までに残しています。現在は内容が変わっている場合がありますのでご注意ください。
+
+--- 
+
 今年もCoolest Projects Globalは、[Coolest Projects Online](https://coolestprojects.org/)としてオンラインでの開催となり、全世界からエントリーできます。ぜひ日本からもエントリーしましょう！
 
 エントリー方法の説明ページの日本語訳を用意しましたので参考にしてください（元ページの単純な翻訳ではありません、適宜情報を編集しています）。
@@ -69,7 +80,7 @@ CoderDojoに参加しているニンジャ（18歳まで）であれば、誰で
 - エントリーするニンジャが13歳未満の場合は、大人の方が代わりにアカウントを作成してエントリーしなければなりません。
 - プロジェクトの登録期間は2022年2月14日〜__5月11日__までです。（2021年には時間まで記述されていましたが、今年は記述されていません。各国の時間基準で良いのかもしれませんね）
 - Scratch以外のカテゴリーでエントリーする場合は、2分以内の動画を作成して[YouTube](https://www.youtube.com/)または[Vimeo](https://vimeo.com/)にアップロードしなければなりません。これらをアップロードするには、13歳未満であれば保護者の許可が必要です（もちろん大人の方が代わりにアカウントを作ってアップロードしても構いません）。
-- すべての提出物（Scratchの作品の説明、動画など）は英語で作成する必要があります。もちろん、誰かに翻訳を手伝ってもらっても構いません。英語が母国語ではなく、翻訳をサポートしてくれる人がいない場合は、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までご連絡ください。
+- すべての提出物（Scratchの作品の説明、動画など）は英語で作成する必要があります。もちろん、誰かに翻訳を手伝ってもらっても構いません。英語が母国語ではなく、翻訳をサポートしてくれる人がいない場合は、[ikoma.jp@coderdojo.com](mailto:ikoma.jp@coderdojo.com)までご連絡ください。
 - 作品は完成していなくても結構です。バグがある、思った通りに動かない、まだ作ってる途中でもエントリーできます。
 - 提出する作品は、誰でも見られる状態になりますので、個人情報や機密情報など他の人に知られてはいけない情報は含めないでください。
 - すべてのカテゴリーで、プロジェクトに関する3つの質問に答える必要があります。詳しくはエントリー方法の説明をご覧ください。
@@ -114,7 +125,7 @@ CoderDojoに参加しているニンジャ（18歳まで）であれば、誰で
 - ___ニンジャが16歳未満の場合は、大人の方がこのフォームの入力を行なってください。___
 - ___作品には、個人情報や機密情報を含めないでください。___
 
-プロジェクトを送信する上でわからないことがあれば[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)まで、ご連絡ください。
+プロジェクトを送信する上でわからないことがあれば[ikoma.jp@coderdojo.com](mailto:ikoma.jp@coderdojo.com)まで、ご連絡ください。
 
 ## 説明動画
 こちらにエントリー方法の説明動画（英語）がありますので、合わせてご覧ください。
@@ -158,7 +169,7 @@ CoderDojoに参加しているニンジャ（18歳まで）であれば、誰で
 現地開催時は賞品や参加賞がありましたが、オンラインになってからは無いようです。
 
 ## このページについて
-このページのソースは[こちら](https://github.com/coderdojo-nara-ikoma/coderdojo-nara-ikoma.github.io/blob/master/static/coolest_projects_international.md)で公開しています。内容に不備や誤りがあったり、追加すべき情報があれば是非PR(Pull Request)を送ってください。
+このページのソースは[こちら](https://github.com/nara-coderdojo/nara-coderdojo.github.io/blob/master/static/coolest_projects_international.md)で公開しています。内容に不備や誤りがあったり、追加すべき情報があれば是非PR(Pull Request)を送ってください。
 
 ## 参照リンク
 - [Coolest Projects Global](https://coolestprojects.org/)

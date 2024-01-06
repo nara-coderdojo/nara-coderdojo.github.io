@@ -52,8 +52,7 @@ permalink: /zen/
 ## Dojoへの登録
 アカウントができたら、参加したいDojoへの登録を行います。奈良と生駒、それぞれのページにアクセスして表示される「Join the Dojo」をクリックするとDojoへの参加完了です。
 
-- [CoderDojo奈良のページ](https://zen.coderdojo.com/dojos/jp/nara-nara-prefecture/nara-nara)
-- [CoderDojo生駒のページ](https://zen.coderdojo.com/dojos/jp/ikoma-nara-prefecture/ikoma-nara)
+- [CoderDojo 生駒のページ](https://zen.coderdojo.com/dojos/jp/ikoma-nara-prefecture/ikoma-nara)
 
 <img src="/assets/images/zen/05.png" style="border: solid 1px #222; max-width: 488px; width: 100%; height: auto;">
 
@@ -63,4 +62,4 @@ permalink: /zen/
 <img src="/assets/images/zen/06.png" style="border: solid 1px #222; max-width: 500px; width: 100%; height: auto;">
 
 ## 登録できない方、登録できたかどうかわからない方
-ここまでの手順をやってみたけどわからなかった、登録できたかどうか不安な方は、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)まで、登録時のメールアドレスと合わせてお知らせください。
+ここまでの手順をやってみたけどわからなかった、登録できたかどうか不安な方は、[ikoma.jp@coderdojo.com](mailto:ikoma.jp@coderdojo.com)まで、登録時のメールアドレスと合わせてお知らせください。

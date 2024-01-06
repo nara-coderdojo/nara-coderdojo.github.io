@@ -3,8 +3,7 @@ layout: page
 title:  "プログラミングコンテストリンク集"
 permalink: /contest/
 ---
-
-こちらのページでは、プログラミングコンテストの関連情報をまとめています。他にもこんなコンテストがあるよという情報があれば、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までお知らせいただけると助かります。
+こちらのページでは、プログラミングコンテストの関連情報をまとめています。他にもこんなコンテストがあるよという情報があれば、[ikoma.jp@coderdojo.com](mailto:ikoma.jp@coderdojo.com)までお知らせいただけると助かります。
 
 ## 随時受付中
 いわゆるプログラミングコンテストではありませんが、NHK Eテレの「[Why!大喜利](https://www.nhk.or.jp/school/programming/oogiri/index.html)」では毎月応募作品を募集しています。

@@ -5,12 +5,19 @@ permalink: /materials/
 ---
 こちらのページでは、プログラミングやweb制作で使えるツールや素材のサイトを紹介しています。
 
+## プログラミングツール
+### 日本語で利用できる
+
 - [Scratch](http://scratch.mit.edu)
 - [ピョンキー（iPad版）](https://itunes.apple.com/jp/app/pyonki/id905012686?mt=8)
+- [MakeCode for micro:bit](https://makecode.microbit.org/)
 - [Scratch Jr.（iPad版）](https://itunes.apple.com/us/app/scratchjr/id895485086?ls=1&amp;mt=8)
 - [google blockly](http://code.google.com/p/blockly/)
 -	[Blockly迷路](https://blockly-games.appspot.com/maze?lang=ja)
+
+### 英語のみ
 - [code combat(JavaScriptで主人公を動かすプログラムを書いてミッションをクリアする)](http://codecombat.com)
+- [EduBlocks](https://edublocks.org/)
 
 ## プログラミングデバイス
 - [micro:bit](https://microbit.org)
@@ -42,3 +49,4 @@ permalink: /materials/
 プログラミングを学ぶ際に、便利なサイトやアプリをご紹介します。  
 ログイン等が必要な場合もありますが、ほとんどのサイトが気軽に体験できるものばかりですので、興味のある方は、一度挑戦してみてください！
 
+- [Progate](https://prog-8.com/)
