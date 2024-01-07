@@ -104,6 +104,8 @@ categories:
 今後、他のニンジャのアドバイスもあり、ボス敵の追加やレベルの追加などを作っていきたいということでした。
 
 ### AIｽﾀｯｸﾁｬﾝの紹介 by むとう(メンター)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E7%94%9F%E9%A7%92?src=hash&amp;ref_src=twsrc%5Etfw">#生駒</a> で、 <a href="https://twitter.com/hashtag/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D?src=hash&amp;ref_src=twsrc%5Etfw">#ｽﾀｯｸﾁｬﾝ</a> 大人気!! <a href="https://t.co/AXONgYy34J">pic.twitter.com/AXONgYy34J</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1743540536471150609?ref_src=twsrc%5Etfw">January 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [ｽﾀｯｸﾁｬﾝ](https://protopedia.net/prototype/2345)は、ししかわさんが開発、公開している手乗りサイズのｽｰﾊﾟｰｶﾜｲｲコミュニケーションロボットです。
 この仲間に、ChatGPTによるAIが使えるものがあるので、こちらを紹介させていただきました。
 
@@ -119,7 +121,13 @@ categories:
 ## むとうの展示
 むとうは、今回も色々なおもちゃを並べていました。
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E7%94%9F%E9%A7%92?src=hash&amp;ref_src=twsrc%5Etfw">#生駒</a> 本日の展示。<br>microSDカードリーダー忘れてて、AIｽﾀｯｸﾁｬﾝ、やばいところだったよ…<a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> <a href="https://twitter.com/hashtag/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D?src=hash&amp;ref_src=twsrc%5Etfw">#ｽﾀｯｸﾁｬﾝ</a> <a href="https://twitter.com/hashtag/toio?src=hash&amp;ref_src=twsrc%5Etfw">#toio</a> <a href="https://twitter.com/hashtag/hapStak?src=hash&amp;ref_src=twsrc%5Etfw">#hapStak</a> <a href="https://t.co/2w5mko7mcy">pic.twitter.com/2w5mko7mcy</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1743490748660781325?ref_src=twsrc%5Etfw">January 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ｽﾀｯｸﾁｬﾝは置いてあるだけでもニンジャの興味を引くようで、途中で話しかけている子も何人かいました。
+
+ｽﾀｯｸﾁｬﾝにCoderDojoについて聞いてみたら、以下のような返事が返ってきました。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> を頑なに、<br>シーオーディーイーアールディーオージェーピーと呼ぶ、 <a href="https://twitter.com/hashtag/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D?src=hash&amp;ref_src=twsrc%5Etfw">#ｽﾀｯｸﾁｬﾝ</a> 。 <a href="https://t.co/wbokrORsEX">pic.twitter.com/wbokrORsEX</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1743501448762266056?ref_src=twsrc%5Etfw">January 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## おわりに
 今回のCoderDojo生駒も楽しく過ごせました。
