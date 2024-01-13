@@ -34,6 +34,8 @@ categories:
 詳しくは、発表のところをご覧ください。
 
 ### お絵かきソフトでのイルカ描き
+![ArtRageでのイルカ描き](/assets/images/2024/01/0113_draw.jpg)
+
 お絵かきソフトの[ArtRage](http://graphic.e-frontier.co.jp/artrage/3/)でイルカの絵を描いている子がいました。
 このソフトは日本ではすでに終売になっているようですが、[本家サイト](https://www.artrage.com/)からはまだ購入できるようです。
 
@@ -63,6 +65,8 @@ CoderDojo生駒では、2024年2月4日(日)10時から14時30分に行われる
 また、チャンピオンからお知らせがありました。
 
 ### おうちをプログラミングしよう - Scratch Home School x CoderDojo
+![おうちをプログラミングしよう - Scratch Home School x CoderDojoの紹介](/assets/images/2024/01/0113_ScratchHome.jpg)
+
 チャンピオンから、2024/01/27(土)13:00-16:00に行われる[おうちをプログラミングしよう - Scratch Home School x CoderDojo](https://peatix.com/event/3807061)について紹介がありました。
 Scratchから操作できるトースターやLEDライトを実際にプログラミングしてみるというイベントです。
 
@@ -73,6 +77,8 @@ Scratchから操作できるトースターやLEDライトを実際にプログ�
 メンターとしての参加は、[Facebookのこちらの記事](https://www.facebook.com/groups/coderdojo.jp/posts/6963936127053060)を参照してください。
 
 ### マインクラフト(小3)
+![マインクラフト](/assets/images/2024/01/0113_Minecraft.jpg)
+
 マインクラフトで、なんでも破壊できる雪玉兵器を作っていました。
 ウォーデンの集団も、一瞬で全滅していました。
 
@@ -85,6 +91,8 @@ Scratchから操作できるトースターやLEDライトを実際にプログ�
 更に、キーボード入力も速く、びっくりします。
 
 ### 連射測定装置 by CoderDojo生駒チャンピオン
+![連射測定装置](/assets/images/2024/01/0113_Ishikawa.jpg)
+
 らら♪まつりで展示予定の連射測定装置について、説明してくれました。
 
 連射測定装置は、5秒の間に何回ボタンが押せるのかを測定する装置です。
