@@ -33,6 +33,15 @@ categories:
 コマンドを駆使して攻撃武器を作っていました。
 詳しくは、発表のところをご覧ください。
 
+### お絵かきソフトでのイルカ描き
+お絵かきソフトの[ArtRage](http://graphic.e-frontier.co.jp/artrage/3/)でイルカの絵を描いている子がいました。
+このソフトは日本ではすでに終売になっているようですが、[本家サイト](https://www.artrage.com/)からはまだ購入できるようです。
+
+水彩や油彩などのペンが用意されており、なかなかリアルなタッチで絵が絵が描けるようです。
+メニューなどのインターフェースは独特な感じでした。
+
+このニンジャはイルカを描いていました。
+
 ### 連射測定装置 for 第15回らら♪まつり
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo</a> <a href="https://twitter.com/hashtag/%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#平群</a> 、<a href="https://twitter.com/hashtag/%E7%94%9F%E9%A7%92?src=hash&amp;ref_src=twsrc%5Etfw">#生駒</a> チャンピオンのらら♪まつり <a href="https://t.co/rZFHpjUnCg">https://t.co/rZFHpjUnCg</a> のための準備中。 <a href="https://t.co/iK0SVWQIeD">pic.twitter.com/iK0SVWQIeD</a></p>&mdash; むとうたけし (@610t) <a href="https://twitter.com/610t/status/1745988343996019103?ref_src=twsrc%5Etfw">January 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
