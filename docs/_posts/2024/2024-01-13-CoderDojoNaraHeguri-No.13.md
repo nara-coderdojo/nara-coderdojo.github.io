@@ -110,6 +110,8 @@ Arduino言語というC++とCが使える言語で、文字ベースのプログ
 このようなものを作ってみたかったら、サポートできるので相談してくださいということでした。
 
 ### AIｽﾀｯｸﾁｬﾝの紹介 by むとう(53歳専業主夫)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/CoderDojo%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#CoderDojo平群</a><br>3人目の発表もメンターさん。<br>手乗りサイズのかわいいコミュニケーションロボット「スタックチャン」が、メンターが喋った質問を聞いて、生成AIを使って音声で答えてくれました。<br>スタックチャンの合成音声は、「ずんだもん」だそうです。「M5STACK」パーカーもGoodですね👍✨ <a href="https://t.co/xzTQp2Mf0T">pic.twitter.com/xzTQp2Mf0T</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1746161267218481197?ref_src=twsrc%5Etfw">January 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 前回の生駒に続いて、AIｽﾀｯｸﾁｬﾝの紹介をしました。
 
 次回は、人の作ったものそのまま紹介するだけではなく、自分で機能を追加したものを紹介してみたいと思います。
