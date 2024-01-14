@@ -77,10 +77,12 @@ Scratchから操作できるトースターやLEDライトを実際にプログ�
 メンターとしての参加は、[Facebookのこちらの記事](https://www.facebook.com/groups/coderdojo.jp/posts/6963936127053060)を参照してください。
 
 ### マインクラフト(小3)
-![マインクラフト](/assets/images/2024/01/0113_Minecraft.jpg)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本日1/13（土）9:000〜開催した、第13回CoderDojo平群の報告です😄<br>今回の参加者は、ニンジャ4名、保護者2名、メンター3名とチャンピオンの10名でした。<br>発表一人目はマイクラ大好きな3年生の男の子。テーマは「破壊」。たくさんの敵を雪玉一発で破壊する装置を作ってくれました！<a href="https://twitter.com/hashtag/coderdojo%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#coderdojo平群</a> <a href="https://t.co/XGfeb2PAEs">pic.twitter.com/XGfeb2PAEs</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1746157616664109148?ref_src=twsrc%5Etfw">January 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 マインクラフトで、なんでも破壊できる雪玉兵器を作っていました。
 ウォーデンの集団も、一瞬で全滅していました。
+
+![マインクラフト](/assets/images/2024/01/0113_Minecraft.jpg)
 
 これは、コマンドを駆使して実現しているようで、modは使っていないということです。
 コマンドを使って、giantの召喚をする実演もしてくれました。
@@ -91,9 +93,11 @@ Scratchから操作できるトースターやLEDライトを実際にプログ�
 更に、キーボード入力も速く、びっくりします。
 
 ### 連射測定装置 by CoderDojo生駒チャンピオン
-![連射測定装置](/assets/images/2024/01/0113_Ishikawa.jpg)
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/coderdojo%E5%B9%B3%E7%BE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#coderdojo平群</a><br>2人目の発表は、メンターとして来てくださった、CoderDojo生駒のチャンピオン。小型マイコンボードArduino Nano、押すと光る100均のLEDライト、小さな電光掲示板を繋いだゲームです。<br>「キミは5秒間に何回ボタンを連打できるかな？」<br>ボタンを押した回数、ベストスコアが表示されます <a href="https://t.co/sqG72iwHUy">pic.twitter.com/sqG72iwHUy</a></p>&mdash; CoderDojo 平群（へぐり） (@CoderDojoHeguri) <a href="https://twitter.com/CoderDojoHeguri/status/1746159771538063477?ref_src=twsrc%5Etfw">January 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 らら♪まつりで展示予定の連射測定装置について、説明してくれました。
+
+![連射測定装置](/assets/images/2024/01/0113_Ishikawa.jpg)
 
 連射測定装置は、5秒の間に何回ボタンが押せるのかを測定する装置です。
 何人かのニンジャが実際に装置を使って、連射回数を競っていました。
