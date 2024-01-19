@@ -53,6 +53,7 @@ CoderDojoのただひとつのルールは、"Be Cool!（カッコよくあれ�
 - 開催日：毎月第一土曜日　13：00～16：00（月によって変わる場合があります）
 
 ### CoderDojo 平群
+![](/assets/images/icon/HEGURI.png)
 - 場所：〒636-0914 奈良県生駒郡平群町西宮1-10-5 西宮公民館（[Google Maps](https://goo.gl/maps/9TKYdTLaxtKgNv9p9)）
 - 開催日：毎月第二土曜日　9：00～12：00（月によって変わる場合があります
 
