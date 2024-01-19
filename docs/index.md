@@ -50,11 +50,11 @@ CoderDojoのただひとつのルールは、"Be Cool!（カッコよくあれ�
 ### CoderDojo 生駒
 ![](/assets/images/icon/IKOMA_green.png)
 - 場所：〒630-0257 奈良県生駒市元町１丁目７−６ 生駒市 市民活動推進センター ららポート（[Google Maps](https://goo.gl/maps/6SxZnQfwDqD6YhH19)）
-- 開催日：毎月第一土曜日（月によって変わる場合があります）
+- 開催日：毎月第一土曜日　13：00～16：00（月によって変わる場合があります）
 
 ### CoderDojo 平群
 - 場所：〒636-0914 奈良県生駒郡平群町西宮1-10-5 西宮公民館（[Google Maps](https://goo.gl/maps/9TKYdTLaxtKgNv9p9)）
-- 開催日：不定期（随時案内します）
+- 開催日：毎月第二土曜日　9：00～12：00（月によって変わる場合があります
 
 ## 開催予定
 各CoderDojo開催予定は[近日開催の道場](https://coderdojo.jp/events)で探せます。
