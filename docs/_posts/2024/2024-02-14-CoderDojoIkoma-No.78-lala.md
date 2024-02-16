@@ -3,7 +3,7 @@ title: CoderDojo生駒『ららまつり』に参加しました
 date: 2024-02-14T13:00:00+09:00
 author: 石川 善行
 layout: post
-permalink: /blog/CoderDojoHeguri_20240113
+permalink: /blog/CoderDojoIkoma_20240214
 categories:
   - blog
 ---
