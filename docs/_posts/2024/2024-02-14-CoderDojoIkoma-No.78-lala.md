@@ -68,7 +68,7 @@ LEDマトリクスに表示される５秒間の内に、何回回転させら�
 
 スタートボタンを押して、５秒間必死で回して回転させた回数を競います。
 
-![Arduinoゲーム](/assets/images/2024/02/0214_arduino_3.mov)
+![Arduinoゲーム](/assets/images/2024/02/0214_arduino_3.jpg)
 
 
 
