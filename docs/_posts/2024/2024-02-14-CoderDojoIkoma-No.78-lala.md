@@ -7,7 +7,7 @@ permalink: /blog/CoderDojoIkoma_20240214
 categories:
   - blog
 ---
-2024/02/14(日) いつもCoderDojo生駒の会場で利用させていただいている「ららぽーと」さん主催で『[ららまつり](https://www.city.ikoma.lg.jp/0000002090.html)』が開催されました
+2024/02/4(日) いつもCoderDojo生駒の会場で利用させていただいている「ららぽーと」さん主催で『[ららまつり](https://www.city.ikoma.lg.jp/0000002090.html)』が開催されました
 
 CoderDojo生駒として4回目の参加です。ららまつりはコロナ禍によりオンライン開催や、ららぽーと利用者限定で開催されていましたが、今回は4年ぶりの通常開催です。
 
