@@ -36,6 +36,7 @@ categories:
 
 ### 発表３
 石川より、[MakerFaireKyoto2024](https://makezine.jp/event/mfk2024/)の紹介
+
 MakerFaireKyoto 2024 は4月27日・28日開催です。
 
 ## 次回のCoderDojo
