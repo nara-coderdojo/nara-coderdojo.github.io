@@ -7,7 +7,7 @@ permalink: /blog/CoderDojoIkoma_20240302
 categories:
   - blog
 ---
-2024/3/2(土) 13:00よりCoderDojo生駒No70を開催しました。
+2024/3/2(土) 13:00よりCoderDojo生駒No79を開催しました。
 
 ## 参加者
 
