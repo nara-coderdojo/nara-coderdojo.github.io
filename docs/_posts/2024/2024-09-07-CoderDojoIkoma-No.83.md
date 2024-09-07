@@ -7,7 +7,7 @@ permalink: /blog/CoderDojoIkoma_20240907
 categories:
   - blog
 ---
-２０２４／９／７（土） １３時より、ＣｏｄｅｒＤｏｊｏ生駒 Ｎｏ８３を開催しました。
+2024/9/7（土） 13時より、CoderDojo生駒 No83を開催しました。
 
 ## 参加者
 
