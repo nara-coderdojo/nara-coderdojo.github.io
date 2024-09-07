@@ -55,13 +55,13 @@ DojoCon2024は来週9月15日、岡山で開催です。
 
 いつもスクラッチで凝った作品を作っているので、現地で見せてもらえるのが楽しみですね。
 
+![DojoCon2024](/assets/images/2024/09/0907_5.jpg)
+
 [MakerFaireTokyo2024](https://makezine.jp/event/mft2024/)の紹介
 
 MakerFaireTokyo2024 は9月21日・22日開催です。
 
 今回も「子どもプログラミング喫茶」で参加の予定です。
-
-![スクラッチ1バグシューティング2](/assets/images/2024/09/0907_5.jpg)
 
 ## 次回のCoderDojo
 次回は、10月5日(土) 13時からです。
