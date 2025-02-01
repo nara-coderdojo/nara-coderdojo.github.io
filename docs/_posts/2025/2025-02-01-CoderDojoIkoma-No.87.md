@@ -24,17 +24,16 @@ categories:
 ![Mac1](/assets/images/2025/02/0201_0.jpg)
 
 今日は、BOX社からCoderDojoに寄贈いただいたMacを受け取りました。起動してみて確認しているところです。  
-貸出や展示などで活用させていただきたいと思います。
+普段の貸出や展示などでも活用させていただきたいと思います。
 
 ![Mac2](/assets/images/2025/02/0201_1.jpg)
 
-ボードゲームを遊びました。  
-[ニャイス！コード](https://www.nyaicecode.net/)です。[BGBE](https://www.bgbe-j.com/)というボードゲームのイベントで購入しました。  
-コードが描かれたダイスを振って、プログラムでネコを動かしてサカナを取り合うゲームです。  
+ボードゲームを遊びました。[ニャイス！コード](https://www.nyaicecode.net/)です。  
+[BGBE](https://www.bgbe-j.com/)というボードゲームのイベントで購入しました。  
+コードが描かれたダイスを振って、プログラムでネコを動かしてサカナを取り合います。  
 今回はメンターだけで遊びました。最初は上手く動かせなかったのですが、コードや攻略法が理解できてくるとなかなか白熱した奪い合いになって面白かったです。  
 
 ![ニャイスコード](/assets/images/2025/02/0201_2.jpg)
-![スクラッチ](/assets/images/2025/02/0201_3.jpg)
 
 ## 作品発表
 ### 発表１
@@ -42,7 +41,7 @@ categories:
 ３月１日（土）に[Scratcher Meetup Osaka 2025](https://scratcher-meetup.github.io/)を行います。  
 会場はCoderDojo梅田で利用させていただいている[gusuku Ashibinaa OSAKA](https://www.r3it.com/ashibinaa)です。 
 
-![スクラッチ](/assets/images/2024/12/1207_2.jpg)
+![スクラッチ](/assets/images/2025/02/0201_3.jpg)
 
 その他、CoderDojo生駒でお借りしている会場の「市民活動推進センターららポート」のイベント「[ららまつり](https://www.city.ikoma.lg.jp/0000036597.html)」へのブース出展について。  
 CoderDojo体験会の予定などを話しました。  
