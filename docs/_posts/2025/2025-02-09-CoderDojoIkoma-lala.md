@@ -1,6 +1,6 @@
 ---
 title: CoderDojo生駒 『ららまつり2025』に参加しました
-date: 2025-02-09T13:00:00+09:00
+date: 2025-02-10T13:00:00+09:00
 author: 石川 善行
 layout: post
 permalink: /blog/CoderDojoIkoma_20250209
