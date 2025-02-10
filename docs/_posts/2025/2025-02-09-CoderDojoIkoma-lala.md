@@ -7,7 +7,7 @@ permalink: /blog/CoderDojoIkoma_20250209
 categories:
   - blog
 ---
-２０２５／２／１０（日） １０時３０分より、『ららまつり』に参加しました。  
+２０２５／２／９（日） １０時３０分より、『ららまつり』に参加しました。  
 『ららまつり』は、いつも会場で利用させていただいている「ららポート」さんのイベントで[昨年](https://nara-coderdojo.github.io/blog/CoderDojoIkoma_20240214)も参加しました。  
 
 ## ららまつり
