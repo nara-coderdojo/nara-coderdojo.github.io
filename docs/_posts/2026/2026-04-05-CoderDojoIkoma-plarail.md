@@ -1,6 +1,6 @@
 ---
-title: プラレールひろばでmicro:bit体験
-date: 2026-04-19T13:00:00+09:00
+title: プラレールひろばで micro:bit体験
+date: 2026-04-18T13:00:00+09:00
 author: 石川 善行
 layout: post
 permalink: /blog/CoderDojoIkoma_20260405
