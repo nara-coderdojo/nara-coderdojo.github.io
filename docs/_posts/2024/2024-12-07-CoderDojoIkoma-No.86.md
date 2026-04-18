@@ -3,7 +3,7 @@ title: CoderDojo生駒No.86開催!!
 date: 2024-12-07T13:00:00+09:00
 author: 石川 善行
 layout: post
-permalink: /blog/CoderDojoIkoma_20241102
+permalink: /blog/CoderDojoIkoma_20241207
 categories:
   - blog
 ---
