@@ -1,6 +1,6 @@
 ---
 title: CoderDojo生駒 No95開催!!
-date: 2026-05-04T13:00:00+09:00
+date: 2026-05-03T12:00:00+09:00
 author: 石川 善行
 layout: post
 permalink: /blog/CoderDojoIkoma_20260502
